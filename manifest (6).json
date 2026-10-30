@@ -1,0 +1,14 @@
+{
+ "version": "5.0.1",
+ "date": "2026-10-29",
+ "notes": [
+  "Quvnoq quiz: ssenariy yozishdan oldin til so'raladi — English, Español yoki हिन्दी",
+  "Ssenariy, savollar, javoblar va YouTube matnlari tanlangan tilda yoziladi",
+  "\"Dasturga qo'yish\" bosilganda video tili ham o'zi o'zgaradi"
+ ],
+ "file": "videora-5.0.1.bin",
+ "sig": "N27v8ToVWs/z4d6Q1tx8P2QWmU/zqlzSLnoBNnO9BOtnXNvhh6QihO/ugxbBvjMZDSXaWmLCjDGuuEIuq6ZvEg==",
+ "size": 1317907,
+ "sha256": "3a8c370ea6609547dac1aa3b2af3a3052b31696e36074bad0c14010406a1775e",
+ "full": false
+}
