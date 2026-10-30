@@ -1,0 +1,15 @@
+{
+ "version": "5.0.8",
+ "date": "2026-10-30",
+ "notes": [
+  "Quiz montaji: timeline endi videoning tagida, video xohlagan joyida to'xtaydi va o'sha joydan davom etadi",
+  "Videoni bosish — ko'rish/pauza, to'liq ekranda 'Chiqish' tugmasi va Esc",
+  "Introda yangi sahnalar: dinozavrlar quvlashmachoq o'ynaydi va rasmlarni sudrab keladi",
+  "Quiz bo'limidan subtitrlar olib tashlandi"
+ ],
+ "file": "videora-5.0.8.bin",
+ "sig": "G7sFz6HrA/aPE+5mPNu5t3p+sARGPH79ziHhjdt82v5uZBKMdqqjsAAIve+dXHvsoia7QxoxC/HqLT9HaBxvUQ==",
+ "size": 2722604,
+ "sha256": "d69ba4645a1548e4b8c89890cba8c8b662967a2c65bd717a52b76068a060a1cf",
+ "full": false
+}
