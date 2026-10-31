@@ -1,0 +1,15 @@
+{
+ "version": "5.2.2",
+ "date": "2026-11-01",
+ "notes": [
+  "Kirish kaliti admin orqali: \"Telegram'da adminga yozish\" tugmasi @VideoRa_Admin'ni tarif va ID bilan ochadi",
+  "Ro'yxatdan o'tishdagi 1 kunlik sinov olib tashlandi",
+  "Matnni ovozga aylantirish: kalit kiritish shart emas (kuniga 60 qism)",
+  "Ro'yxatdan biror narsa tanlaganda endi tepaga sakramaydi",
+  "Quiz musiqasi: tinglash / to'xtatish va \"Videoga qo'yish\" qatori",
+  "Telefon versiyasi o'rnatilmaslik xatosi tuzatildi"
+ ],
+ "full": true,
+ "apk": "https://github.com/beforeus1104-a11y/VIDEORA-YANGI/releases/download/v5.2.2/Videora-5.2.2.apk",
+ "exe": "https://github.com/beforeus1104-a11y/VIDEORA-YANGI/releases/download/v5.2.2/Videora-5.2.2-Setup.exe"
+}
