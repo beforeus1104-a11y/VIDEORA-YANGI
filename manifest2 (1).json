@@ -1,0 +1,17 @@
+{
+ "version": "5.3.0",
+ "date": "2026-11-01",
+ "notes": [
+  "Stickman: rasm promptlari har bir gapda aynan nima bo'layotganini ko'rsatadi (kim, nima qilyapti, qayerda)",
+  "Personaj kartalari: har bir personajning yoshi, gavdasi, sochi, kiyimi va rangi — barcha sahnalarda bir xil",
+  "5 ta uslub: Classic, Rangli stickman, Premium 2D, 3D multfilm, Komiks",
+  "Rasmlar endi o'z sahnasiga to'g'ri qo'yiladi (ChatGPT/telefon nomlari, sana-vaqtli fayllar)",
+  "Subtitr: ko'pi bilan 2 qator, keyingi sahnaga o'tib ketmaydi, o'zbekcha o' va g' buzilmaydi",
+  "Video oxirgi so'zdan keyin to'xtaydi — oxiri kesilmaydi"
+ ],
+ "file": "videora-5.3.0.bin",
+ "sig": "+a9J4rVynJvf6ob2syBpTcl3zNu/r7pNpP3gD5DXmfhoq89vwgFJ4i/wW/fltVij6QxjhuTruFQYZGGcEcmBUw==",
+ "size": 2945198,
+ "sha256": "3299fa15fd66f52b401c87e5474f681123760d1448e7ef7fecac4b0743669939",
+ "full": false
+}

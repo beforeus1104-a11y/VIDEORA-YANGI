@@ -1,0 +1,15 @@
+{
+ "version": "5.3.0",
+ "date": "2026-11-01",
+ "notes": [
+  "Stickman: rasm promptlari har bir gapda aynan nima bo'layotganini ko'rsatadi (kim, nima qilyapti, qayerda)",
+  "Personaj kartalari: har bir personajning yoshi, gavdasi, sochi, kiyimi va rangi — barcha sahnalarda bir xil",
+  "5 ta uslub: Classic, Rangli stickman, Premium 2D, 3D multfilm, Komiks",
+  "Rasmlar endi o'z sahnasiga to'g'ri qo'yiladi (ChatGPT/telefon nomlari, sana-vaqtli fayllar)",
+  "Subtitr: ko'pi bilan 2 qator, keyingi sahnaga o'tib ketmaydi, o'zbekcha o' va g' buzilmaydi",
+  "Video oxirgi so'zdan keyin to'xtaydi — oxiri kesilmaydi"
+ ],
+ "full": true,
+ "apk": "https://github.com/beforeus1104-a11y/VIDEORA-YANGI/releases/download/v5.3.0/Videora-5.3.0.apk",
+ "exe": "https://github.com/beforeus1104-a11y/VIDEORA-YANGI/releases/download/v5.3.0/Videora-5.3.0-Setup.exe"
+}
