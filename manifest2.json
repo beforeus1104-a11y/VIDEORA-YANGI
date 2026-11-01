@@ -1,17 +1,17 @@
 {
- "version": "5.3.0",
+ "version": "5.3.1",
  "date": "2026-11-01",
  "notes": [
-  "Stickman: rasm promptlari har bir gapda aynan nima bo'layotganini ko'rsatadi (kim, nima qilyapti, qayerda)",
-  "Personaj kartalari: har bir personajning yoshi, gavdasi, sochi, kiyimi va rangi — barcha sahnalarda bir xil",
-  "5 ta uslub: Classic, Rangli stickman, Premium 2D, 3D multfilm, Komiks",
-  "Rasmlar endi o'z sahnasiga to'g'ri qo'yiladi (ChatGPT/telefon nomlari, sana-vaqtli fayllar)",
-  "Subtitr: ko'pi bilan 2 qator, keyingi sahnaga o'tib ketmaydi, o'zbekcha o' va g' buzilmaydi",
-  "Video oxirgi so'zdan keyin to'xtaydi — oxiri kesilmaydi"
+  "Har bir til uchun madaniy muhit: o'zbekcha tanlansa ismlar, joylar, taomlar va rasmlar O'zbekistonda (yana 12 til)",
+  "Rasm prompti: uslub + personaj + harakat + joy + yorug'lik + kamera + 4K sifat",
+  "Personaj kartasiga yuz tavsifi qo'shildi — butun video davomida bir xil",
+  "Ovoz yaratishda kunlik limit olib tashlandi, uzun videolar (10+ daqiqa) to'liq ovozlanadi",
+  "Har bir ovoz bo'lagi xato bersa 3 martagacha qayta uriniladi; o'zbekcha talaffuz ko'rsatmasi",
+  "Rasmlar orasida 0.3–0.5 s yumshoq o'tish"
  ],
- "file": "videora-5.3.0.bin",
- "sig": "+a9J4rVynJvf6ob2syBpTcl3zNu/r7pNpP3gD5DXmfhoq89vwgFJ4i/wW/fltVij6QxjhuTruFQYZGGcEcmBUw==",
- "size": 2945198,
- "sha256": "3299fa15fd66f52b401c87e5474f681123760d1448e7ef7fecac4b0743669939",
+ "file": "videora-5.3.1.bin",
+ "sig": "syl0gyW1SpdhFg8hocamkISB46e513db75Bq5EX52LrwembZEvdcwWO0F00f3LtGJDfr6kFayZmxifbu3FpmZA==",
+ "size": 2955545,
+ "sha256": "5f5b3f07cdb6a861d536295ab784d4ba0d38c7392a7fee35ff814a07c2b05a9a",
  "full": false
 }
