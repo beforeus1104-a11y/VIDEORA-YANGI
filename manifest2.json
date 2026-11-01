@@ -1,14 +1,15 @@
 {
- "version": "5.5.1",
+ "version": "5.6.0",
  "date": "2026-11-01",
  "notes": [
-  "Hikoyalar endi bir xil joyda bo'lmaydi: har safar yangi joy g'oyalari (qishloq bog'i, to'y, avtobus, kutubxona…)",
-  "Oldingi hikoyalardagi joylar, buyumlar va yechimlar eslab qolinadi va takrorlanmaydi (metro, choyxona, eski soat…)",
-  "Ssenariyda faqat reja (bible)dagi personajlar ism bilan qatnashadi"
+  "Yangi: \"AI yordamchi\" — Stickman loyihasi ichida ChatGPT bilan oddiy suhbat",
+  "Yordamchi loyihani ko'radi (mavzu, ssenariy, personajlar, sahnalar) va \"boshqasini ber\", \"yaxshiroq qil\" kabi qisqa gaplarni tushunadi",
+  "Taklif qilingan o'zgarishlar (mavzu, ssenariy, sahna rasmi) \"Qo'llash\" tugmasi bilan loyihaga qo'yiladi",
+  "Hikoyalarda joy, buyum va yechimlar takrorlanmaydi"
  ],
- "file": "videora-5.5.1.bin",
- "sig": "dJQpXD3K1DW8H09I+E1uwNrei+mIqrrxrnIyZK2A1szJSCraAwOSfXW6XdSRKmNSGrylwhAF0Yl5O5v5Eb/gDg==",
- "size": 3002533,
- "sha256": "5de0188196cccc4a50300937e1103b71fadb88780429789d28ecf71dd86f39ee",
+ "file": "videora-5.6.0.bin",
+ "sig": "PlYfIaa9FeC6yn6M1BrWqc8cz9z7RrVFd2jmJUIEdrRAYtKGqNDQtyokYbWvKO0Mv4oOSn+b07R3gZid4tcWdQ==",
+ "size": 3013472,
+ "sha256": "c3f5a81c771e6402bd236a250b45a935866065f316cb867c4efec864f506f0c7",
  "full": false
 }

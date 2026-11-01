@@ -1,12 +1,13 @@
 {
- "version": "5.5.1",
+ "version": "5.6.0",
  "date": "2026-11-01",
  "notes": [
-  "Hikoyalar endi bir xil joyda bo'lmaydi: har safar yangi joy g'oyalari (qishloq bog'i, to'y, avtobus, kutubxona…)",
-  "Oldingi hikoyalardagi joylar, buyumlar va yechimlar eslab qolinadi va takrorlanmaydi (metro, choyxona, eski soat…)",
-  "Ssenariyda faqat reja (bible)dagi personajlar ism bilan qatnashadi"
+  "Yangi: \"AI yordamchi\" — Stickman loyihasi ichida ChatGPT bilan oddiy suhbat",
+  "Yordamchi loyihani ko'radi (mavzu, ssenariy, personajlar, sahnalar) va \"boshqasini ber\", \"yaxshiroq qil\" kabi qisqa gaplarni tushunadi",
+  "Taklif qilingan o'zgarishlar (mavzu, ssenariy, sahna rasmi) \"Qo'llash\" tugmasi bilan loyihaga qo'yiladi",
+  "Hikoyalarda joy, buyum va yechimlar takrorlanmaydi"
  ],
  "full": true,
- "apk": "https://raw.githubusercontent.com/beforeus1104-a11y/VIDEORA-YANGI/main/yuklab-olish/Videora-5.5.1.apk",
- "exe": "https://github.com/beforeus1104-a11y/VIDEORA-YANGI/releases/download/v5.5.1/Videora-5.5.1-Setup.exe"
+ "apk": "https://raw.githubusercontent.com/beforeus1104-a11y/VIDEORA-YANGI/main/yuklab-olish/Videora-5.6.0.apk",
+ "exe": "https://github.com/beforeus1104-a11y/VIDEORA-YANGI/releases/download/v5.6.0/Videora-5.6.0-Setup.exe"
 }
