@@ -1,14 +1,15 @@
 {
- "version": "5.7.0",
+ "version": "5.8.0",
  "date": "2026-11-01",
  "notes": [
-  "ChatGPT agentlari va AI yordamchi endi Videora serverida ishlaydi — javoblar real serverdan keladi",
-  "Rasm yaratish, ChatGPT ovozi, transkripsiya va Google ovozi ham server orqali; dastur ichida hech qanday API kalit qolmadi",
-  "O'z OpenAI yoki Google kalitingizni kiritsangiz, u to'g'ridan-to'g'ri ishlayveradi"
+  "AI yordamchi: ChatGPT va Claude agentlari — versiyasini tanlaysiz, javob yozilayotganda chiqib boradi, suhbatlar saqlanadi, yangi suhbat ochiladi, kerak bo'lsa internetdan qidiradi",
+  "Rasm: yordamchidan rasm chizishni so'rang yoki \"Rasm rejimi\"da promptni yozing — rasm suhbatning o'zida chiqadi, yuklab olish mumkin",
+  "Ssenariy endi har doim tanlangan mavzuda yoziladi; muharrir mavzudan chetga chiqishni ham tekshiradi",
+  "Google ovoz limiti tugasa, ovoz ChatGPT ovozi bilan avtomatik davom etadi"
  ],
- "file": "videora-5.7.0.bin",
- "sig": "V/yUbUW2eUJgQ/ZZGcIvgf+OxQcBKeFgjVQFkuPxWInWUWtQ68/otJu+rBhRwywkrysiVn1jyQPckRynm6JS5w==",
- "size": 3017210,
- "sha256": "6d5d9d36879128016eb52dc14e3e99e7c9005a0275e9d9aa36da1bbfe9f43049",
+ "file": "videora-5.8.0.bin",
+ "sig": "8VUr83CIYOtGVEWwjZm63O+NVPRhO1aL8Ht60w7QETqsOsyU0hIL7wIbkf7vVQ42k+ITZPsAFHJzy9CoUNF13Q==",
+ "size": 3036978,
+ "sha256": "914ec2ef1ba5a661bae6ea248c46442cc70f9c4add37de340c8876895f5467aa",
  "full": false
 }
