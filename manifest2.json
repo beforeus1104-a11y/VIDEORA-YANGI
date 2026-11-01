@@ -1,16 +1,15 @@
 {
- "version": "6.0.0",
- "date": "2026-11-01",
+ "version": "6.1.0",
+ "date": "2026-11-02",
  "notes": [
-  "Ovoz dasturda yaratilsa, u sahnama-sahna o'qiladi va har bir sahna hamda so'z qaysi soniyada ekani aniq bilinadi — rasmlar va subtitrlar ovozga taxminsiz, aniq moslanadi",
-  "Google limiti yarim yo'lda tugasa, butun ovoz bitta (ChatGPT) ovoz bilan qayta o'qiladi — ovoz aralashib ketmaydi",
-  "Har bir rasm prompti endi o'sha sahnaning aynan gapini (dialogini) o'z ichiga oladi: kim gapirayotgani, qayerda, nima qilayotgani va his-tuyg'usi ko'rsatiladi",
-  "Stickman qoidasi promptning boshiga qo'yildi — personajlar oddiy multfilm odamiga aylanib ketmaydi",
-  "AI yordamchida \"✨ Sifat: Yuqori\" — rasmlar eng yaxshi model va yuqori sifatda yaratiladi (\"⚡ Tejamkor\"ga o'tkazish mumkin); oylik rasm limiti tekshiriladi"
+  "🎨 Google Flow yordamchisi: Flow dastur ichida alohida oynada ochiladi (o'z Google akkauntingiz va bepul kreditlaringiz bilan)",
+  "Sahna promptini bir tugma bilan nusxalaysiz, Flow'da rasmni yuklab olsangiz — rasm o'sha sahnaga o'zi tushadi va keyingi sahna prompti nusxalanadi",
+  "Personaj namunasi prompti: Flow'da birinchi bo'lib yarating va har sahnada \"ingredient\" qilib qo'shing — personajlar bir xil chiqadi",
+  "Stickman tayyor mavzulariga haqiqiy rasmlar qo'yildi, kartochkalar yangi ko'rinishda (rangli kategoriya va katta sarlavha)"
  ],
- "file": "videora-6.0.0.bin",
- "sig": "tu1FL2Akw94e6viIIrZXU3MV+pvwnBtjVPdJArGxXMaluDrnZAmXAsCz1m0bRWTq3+pZr2/PGrTG+dg4jvr69Q==",
- "size": 3058541,
- "sha256": "ad75ce1183f66b484f03d7d0e565e201e31d5565284506362c103929b8cd3a3b",
+ "file": "videora-6.1.0.bin",
+ "sig": "IMkLUjqfr284Inp6EF3SePH9UdjzZV+kNVM+DyJt/jc98VdYVxW6cEooEziJECN50qzKbmONFUdbNnECvNIBPg==",
+ "size": 3526733,
+ "sha256": "ede54a944411e538ba310781b3746042261e1f12823bdbd0c607fe41ca6f9772",
  "full": false
 }

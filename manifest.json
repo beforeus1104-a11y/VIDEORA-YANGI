@@ -1,14 +1,13 @@
 {
- "version": "6.0.0",
- "date": "2026-11-01",
+ "version": "6.1.0",
+ "date": "2026-11-02",
  "notes": [
-  "Ovoz dasturda yaratilsa, u sahnama-sahna o'qiladi va har bir sahna hamda so'z qaysi soniyada ekani aniq bilinadi — rasmlar va subtitrlar ovozga taxminsiz, aniq moslanadi",
-  "Google limiti yarim yo'lda tugasa, butun ovoz bitta (ChatGPT) ovoz bilan qayta o'qiladi — ovoz aralashib ketmaydi",
-  "Har bir rasm prompti endi o'sha sahnaning aynan gapini (dialogini) o'z ichiga oladi: kim gapirayotgani, qayerda, nima qilayotgani va his-tuyg'usi ko'rsatiladi",
-  "Stickman qoidasi promptning boshiga qo'yildi — personajlar oddiy multfilm odamiga aylanib ketmaydi",
-  "AI yordamchida \"✨ Sifat: Yuqori\" — rasmlar eng yaxshi model va yuqori sifatda yaratiladi (\"⚡ Tejamkor\"ga o'tkazish mumkin); oylik rasm limiti tekshiriladi"
+  "🎨 Google Flow yordamchisi: Flow dastur ichida alohida oynada ochiladi (o'z Google akkauntingiz va bepul kreditlaringiz bilan)",
+  "Sahna promptini bir tugma bilan nusxalaysiz, Flow'da rasmni yuklab olsangiz — rasm o'sha sahnaga o'zi tushadi va keyingi sahna prompti nusxalanadi",
+  "Personaj namunasi prompti: Flow'da birinchi bo'lib yarating va har sahnada \"ingredient\" qilib qo'shing — personajlar bir xil chiqadi",
+  "Stickman tayyor mavzulariga haqiqiy rasmlar qo'yildi, kartochkalar yangi ko'rinishda (rangli kategoriya va katta sarlavha)"
  ],
  "full": true,
- "apk": "https://raw.githubusercontent.com/beforeus1104-a11y/VIDEORA-YANGI/main/yuklab-olish/Videora-6.0.0.apk",
- "exe": "https://github.com/beforeus1104-a11y/VIDEORA-YANGI/releases/download/v6.0.0/Videora-6.0.0-Setup.exe"
+ "apk": "https://raw.githubusercontent.com/beforeus1104-a11y/VIDEORA-YANGI/main/yuklab-olish/Videora-6.1.0.apk",
+ "exe": "https://github.com/beforeus1104-a11y/VIDEORA-YANGI/releases/download/v6.1.0/Videora-6.1.0-Setup.exe"
 }
