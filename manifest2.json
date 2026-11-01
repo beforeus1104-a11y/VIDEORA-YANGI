@@ -1,17 +1,13 @@
 {
- "version": "5.4.0",
+ "version": "5.4.1",
  "date": "2026-11-01",
  "notes": [
-  "Stickman ssenariysi endi 3 bosqichda: hikoya rejasi (story bible) → ssenariy → qattiqqo'l muharrir tekshiruvi",
-  "Muharrir mantiq, joy/vaqt, teskari xulosa, imlo va sarlavha ma'nosini tekshiradi; xatolarni o'zi 2 martagacha tuzatadi",
-  "O'zbekcha imlo qoidalari: Toshkent, Samarqand, o'‘/g'‘, to'g'ri murojaat shakllari (13 til uchun qoidalar)",
-  "Har videoda yangi ismlar: katta ism bazasi, oxirgi ishlatilgan ismlar takrorlanmaydi",
-  "Haqiqiy stickman uslubi: dumaloq bosh, chiziqli qo'l-oyoq",
-  "Muqova prompti hikoyadagi personajlardan va to'g'ri ma'noli matndan tuziladi"
+  "Kunlik ChatGPT limiti (15 ta so'rov) olib tashlandi",
+  "Stickman ssenariysi: story bible → ssenariy → muharrir tekshiruvi, haqiqiy stickman uslubi, har safar yangi ismlar"
  ],
- "file": "videora-5.4.0.bin",
- "sig": "Klc+3m0Jdh9eGdhsZs8BRb02NjFQAnjH8w5wOHvXtlzvHLoYg7wO2GZ5zl8hHrYCauWE82pIbGRGXB5SLH6wpw==",
- "size": 2982718,
- "sha256": "b4d339435ce4b93c1a54d9b2e9e37e4372dbf7dea5b674ba0b80490d996b3944",
+ "file": "videora-5.4.1.bin",
+ "sig": "E84cSW6N1Nidnew+9/aeDNGv+/3p963o1m55L7QUe9AfCb4fih/OhgMYWEPgOSOxmdj3KEkBzzcFipF7gh0RLw==",
+ "size": 2982833,
+ "sha256": "400456705b12d303aabc5df1b3622ec76a577709cf7e772e69dd13c8f4c09fc9",
  "full": false
 }

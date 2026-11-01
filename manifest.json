@@ -1,15 +1,11 @@
 {
- "version": "5.4.0",
+ "version": "5.4.1",
  "date": "2026-11-01",
  "notes": [
-  "Stickman ssenariysi endi 3 bosqichda: hikoya rejasi (story bible) → ssenariy → qattiqqo'l muharrir tekshiruvi",
-  "Muharrir mantiq, joy/vaqt, teskari xulosa, imlo va sarlavha ma'nosini tekshiradi; xatolarni o'zi 2 martagacha tuzatadi",
-  "O'zbekcha imlo qoidalari: Toshkent, Samarqand, o'‘/g'‘, to'g'ri murojaat shakllari (13 til uchun qoidalar)",
-  "Har videoda yangi ismlar: katta ism bazasi, oxirgi ishlatilgan ismlar takrorlanmaydi",
-  "Haqiqiy stickman uslubi: dumaloq bosh, chiziqli qo'l-oyoq",
-  "Muqova prompti hikoyadagi personajlardan va to'g'ri ma'noli matndan tuziladi"
+  "Kunlik ChatGPT limiti (15 ta so'rov) olib tashlandi",
+  "Stickman ssenariysi: story bible → ssenariy → muharrir tekshiruvi, haqiqiy stickman uslubi, har safar yangi ismlar"
  ],
  "full": true,
- "apk": "https://raw.githubusercontent.com/beforeus1104-a11y/VIDEORA-YANGI/main/yuklab-olish/Videora-5.4.0.apk",
- "exe": "https://github.com/beforeus1104-a11y/VIDEORA-YANGI/releases/download/v5.4.0/Videora-5.4.0-Setup.exe"
+ "apk": "https://raw.githubusercontent.com/beforeus1104-a11y/VIDEORA-YANGI/main/yuklab-olish/Videora-5.4.1.apk",
+ "exe": "https://github.com/beforeus1104-a11y/VIDEORA-YANGI/releases/download/v5.4.1/Videora-5.4.1-Setup.exe"
 }
