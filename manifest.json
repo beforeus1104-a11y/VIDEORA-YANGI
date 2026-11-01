@@ -1,11 +1,12 @@
 {
- "version": "5.4.1",
+ "version": "5.4.2",
  "date": "2026-11-01",
  "notes": [
-  "Kunlik ChatGPT limiti (15 ta so'rov) olib tashlandi",
-  "Stickman ssenariysi: story bible → ssenariy → muharrir tekshiruvi, haqiqiy stickman uslubi, har safar yangi ismlar"
+  "Rasm promptlari Google Flow xavfsizlik filtridan o'tadigan qilib qayta yozildi",
+  "\"Hammasini nusxalash\"da salbiy (negative) prompt endi yo'q — Flow'da bunday maydon yo'q",
+  "Kunlik ChatGPT limiti olib tashlangan; story bible + muharrir tekshiruvi"
  ],
  "full": true,
- "apk": "https://raw.githubusercontent.com/beforeus1104-a11y/VIDEORA-YANGI/main/yuklab-olish/Videora-5.4.1.apk",
- "exe": "https://github.com/beforeus1104-a11y/VIDEORA-YANGI/releases/download/v5.4.1/Videora-5.4.1-Setup.exe"
+ "apk": "https://raw.githubusercontent.com/beforeus1104-a11y/VIDEORA-YANGI/main/yuklab-olish/Videora-5.4.2.apk",
+ "exe": "https://github.com/beforeus1104-a11y/VIDEORA-YANGI/releases/download/v5.4.2/Videora-5.4.2-Setup.exe"
 }
