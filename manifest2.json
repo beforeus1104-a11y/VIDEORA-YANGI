@@ -1,15 +1,16 @@
 {
- "version": "5.8.0",
+ "version": "5.8.1",
  "date": "2026-11-01",
  "notes": [
+  "Yangilanish endi osilib qolmaydi: yuklash vaqt chegarasi bilan, bir manzil ishlamasa ikkinchisidan yuklanadi, tugma bosilganda jarayon ko'rinadi",
   "AI yordamchi: ChatGPT va Claude agentlari — versiyasini tanlaysiz, javob yozilayotganda chiqib boradi, suhbatlar saqlanadi, yangi suhbat ochiladi, kerak bo'lsa internetdan qidiradi",
   "Rasm: yordamchidan rasm chizishni so'rang yoki \"Rasm rejimi\"da promptni yozing — rasm suhbatning o'zida chiqadi, yuklab olish mumkin",
   "Ssenariy endi har doim tanlangan mavzuda yoziladi; muharrir mavzudan chetga chiqishni ham tekshiradi",
   "Google ovoz limiti tugasa, ovoz ChatGPT ovozi bilan avtomatik davom etadi"
  ],
- "file": "videora-5.8.0.bin",
- "sig": "8VUr83CIYOtGVEWwjZm63O+NVPRhO1aL8Ht60w7QETqsOsyU0hIL7wIbkf7vVQ42k+ITZPsAFHJzy9CoUNF13Q==",
- "size": 3036978,
- "sha256": "914ec2ef1ba5a661bae6ea248c46442cc70f9c4add37de340c8876895f5467aa",
+ "file": "videora-5.8.1.bin",
+ "sig": "1zm3S7/f73fEffZcMLpI7GhkpVh0VCVx3f17x1uzBICztTRJFVQ8b4wPKpFNi2n7LCJYOg7bnRi5Z6wNcsNZAw==",
+ "size": 3038134,
+ "sha256": "c3b2c676c9c6c7050c22c3146fb3effcb5bbcb08aaa49918c97fdcf564a90d0e",
  "full": false
 }
