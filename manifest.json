@@ -1,12 +1,15 @@
 {
- "version": "5.4.2",
+ "version": "5.5.0",
  "date": "2026-11-01",
  "notes": [
-  "Rasm promptlari Google Flow xavfsizlik filtridan o'tadigan qilib qayta yozildi",
-  "\"Hammasini nusxalash\"da salbiy (negative) prompt endi yo'q — Flow'da bunday maydon yo'q",
-  "Kunlik ChatGPT limiti olib tashlangan; story bible + muharrir tekshiruvi"
+  "\"Tasodifiy mavzu\" endi ChatGPT bilan: har safar yangi mavzu, oldingilariga o'xshashligi tekshiriladi",
+  "Ispan va hind tillari uchun mamlakat/hudud: Ispaniya, Meksika, Kolumbiya, Argentina, Shimoliy Hindiston, Mumbay, qishloq",
+  "Janrga mos ssenariy (komediya, sirli, hissiy…) va aniq so'zlovchili dialoglar",
+  "Sahna tekshiruvi: matnga mos kelmagan rasm promptlari avtomatik tuzatiladi",
+  "\"Video promptlar\" tugmasi: har bir rasmni jonlantirish uchun prompt",
+  "ChatGPT so'rovlari: 120 s kutish va vaqtinchalik xatolarda 3 martagacha qayta urinish"
  ],
  "full": true,
- "apk": "https://raw.githubusercontent.com/beforeus1104-a11y/VIDEORA-YANGI/main/yuklab-olish/Videora-5.4.2.apk",
- "exe": "https://github.com/beforeus1104-a11y/VIDEORA-YANGI/releases/download/v5.4.2/Videora-5.4.2-Setup.exe"
+ "apk": "https://raw.githubusercontent.com/beforeus1104-a11y/VIDEORA-YANGI/main/yuklab-olish/Videora-5.5.0.apk",
+ "exe": "https://github.com/beforeus1104-a11y/VIDEORA-YANGI/releases/download/v5.5.0/Videora-5.5.0-Setup.exe"
 }

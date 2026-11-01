@@ -1,14 +1,17 @@
 {
- "version": "5.4.2",
+ "version": "5.5.0",
  "date": "2026-11-01",
  "notes": [
-  "Rasm promptlari Google Flow xavfsizlik filtridan o'tadigan qilib qayta yozildi",
-  "\"Hammasini nusxalash\"da salbiy (negative) prompt endi yo'q — Flow'da bunday maydon yo'q",
-  "Kunlik ChatGPT limiti olib tashlangan; story bible + muharrir tekshiruvi"
+  "\"Tasodifiy mavzu\" endi ChatGPT bilan: har safar yangi mavzu, oldingilariga o'xshashligi tekshiriladi",
+  "Ispan va hind tillari uchun mamlakat/hudud: Ispaniya, Meksika, Kolumbiya, Argentina, Shimoliy Hindiston, Mumbay, qishloq",
+  "Janrga mos ssenariy (komediya, sirli, hissiy…) va aniq so'zlovchili dialoglar",
+  "Sahna tekshiruvi: matnga mos kelmagan rasm promptlari avtomatik tuzatiladi",
+  "\"Video promptlar\" tugmasi: har bir rasmni jonlantirish uchun prompt",
+  "ChatGPT so'rovlari: 120 s kutish va vaqtinchalik xatolarda 3 martagacha qayta urinish"
  ],
- "file": "videora-5.4.2.bin",
- "sig": "6p0fTMPl/Dra9ikvYwlEK4MpUAymRDdE2SBL7BigXL5m/g5E/zyu/WRpG8xKBEXFvQSllrU7Y3xMfu0ZG1epuA==",
- "size": 2985208,
- "sha256": "62c30ae23d999aa243fa01e3f9ca777137c250da4e81275736278b98c2c494c8",
+ "file": "videora-5.5.0.bin",
+ "sig": "ODQrHSfoUubUOTGXHAF2DfK2BIZik0yZBNcT7p2F0tDZeQ7+g1fPqxBTaDel9K2mPS/IgNS8dHhWdDZxZyHY4g==",
+ "size": 2998078,
+ "sha256": "443a587ac28485a7289f7b7c2bfcfdca3f4404b4c6ca24488c2a6e65c4961502",
  "full": false
 }
