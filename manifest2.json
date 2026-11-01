@@ -1,15 +1,14 @@
 {
- "version": "6.1.0",
+ "version": "6.2.0",
  "date": "2026-11-02",
  "notes": [
-  "🎨 Google Flow yordamchisi: Flow dastur ichida alohida oynada ochiladi (o'z Google akkauntingiz va bepul kreditlaringiz bilan)",
-  "Sahna promptini bir tugma bilan nusxalaysiz, Flow'da rasmni yuklab olsangiz — rasm o'sha sahnaga o'zi tushadi va keyingi sahna prompti nusxalanadi",
-  "Personaj namunasi prompti: Flow'da birinchi bo'lib yarating va har sahnada \"ingredient\" qilib qo'shing — personajlar bir xil chiqadi",
-  "Stickman tayyor mavzulariga haqiqiy rasmlar qo'yildi, kartochkalar yangi ko'rinishda (rangli kategoriya va katta sarlavha)"
+  "Google Flow endi Videora oynasining ICHIDA ochiladi: chapda Flow, o'ngda yordamchi panel, tepada \"Videora'ga qaytish\" (kompyuterda, yangi o'rnatish fayli bilan)",
+  "Flow'da rasmni yuklab olsangiz — rasm o'z sahnasiga o'zi tushadi va keyingi sahna prompti nusxalanadi",
+  "Stickman tayyor mavzulariga yana 15 ta rasm qo'shildi (Omon qolish, Sirli hikoyalar, Tarix, Qiziqarli faktlar, Munosabatlar)"
  ],
- "file": "videora-6.1.0.bin",
- "sig": "IMkLUjqfr284Inp6EF3SePH9UdjzZV+kNVM+DyJt/jc98VdYVxW6cEooEziJECN50qzKbmONFUdbNnECvNIBPg==",
- "size": 3526733,
- "sha256": "ede54a944411e538ba310781b3746042261e1f12823bdbd0c607fe41ca6f9772",
+ "file": "videora-6.2.0.bin",
+ "sig": "UQvMSSLYMCc29F+/Nnz8v6sA+1DSGry9v44HdgwuMefcfxChWEDmJzABD9/6pg3WZzYOFyjRHQgouXJbddWypQ==",
+ "size": 4055934,
+ "sha256": "53cf29913ce06ed1975fa8a70e761efffb1bf3393a637298d3eaaf7757501e18",
  "full": false
 }
