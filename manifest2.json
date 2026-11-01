@@ -1,17 +1,15 @@
 {
- "version": "5.3.1",
+ "version": "5.3.2",
  "date": "2026-11-01",
  "notes": [
-  "Har bir til uchun madaniy muhit: o'zbekcha tanlansa ismlar, joylar, taomlar va rasmlar O'zbekistonda (yana 12 til)",
-  "Rasm prompti: uslub + personaj + harakat + joy + yorug'lik + kamera + 4K sifat",
-  "Personaj kartasiga yuz tavsifi qo'shildi — butun video davomida bir xil",
-  "Ovoz yaratishda kunlik limit olib tashlandi, uzun videolar (10+ daqiqa) to'liq ovozlanadi",
-  "Har bir ovoz bo'lagi xato bersa 3 martagacha qayta uriniladi; o'zbekcha talaffuz ko'rsatmasi",
-  "Rasmlar orasida 0.3–0.5 s yumshoq o'tish"
+  "Flow va boshqa rasm agentlari uchun: har bir prompt — alohida bitta rasm (to'r/kollaj emas)",
+  "Personajlar kiyimi o'zgarmaydi: har promptda aniq kiyim va \"kiyimni o'zgartirma\" qoidasi",
+  "\"Personaj reference\" tugmasi: avval personaj rasmini yarating va har sahnaga reference qiling",
+  "Ssenariylar har safar boshqacha: yangi boshlanish, yangi syujet, oldingi hikoyalar takrorlanmaydi"
  ],
- "file": "videora-5.3.1.bin",
- "sig": "syl0gyW1SpdhFg8hocamkISB46e513db75Bq5EX52LrwembZEvdcwWO0F00f3LtGJDfr6kFayZmxifbu3FpmZA==",
- "size": 2955545,
- "sha256": "5f5b3f07cdb6a861d536295ab784d4ba0d38c7392a7fee35ff814a07c2b05a9a",
+ "file": "videora-5.3.2.bin",
+ "sig": "yKbgapd2kyHu28foB/TNEp/qsZItQUqbAt2hl0jSQpUOu35GDXe9iUIbOdM6JCKwMQINGxhS9EFQZtIFMK6a4w==",
+ "size": 2961539,
+ "sha256": "d7e289b12f18e59f189d810e4bba7829fb26c7d9c7f5bf206569b04a2035eebe",
  "full": false
 }
