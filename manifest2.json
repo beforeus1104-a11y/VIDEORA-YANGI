@@ -1,17 +1,14 @@
 {
- "version": "5.5.0",
+ "version": "5.5.1",
  "date": "2026-11-01",
  "notes": [
-  "\"Tasodifiy mavzu\" endi ChatGPT bilan: har safar yangi mavzu, oldingilariga o'xshashligi tekshiriladi",
-  "Ispan va hind tillari uchun mamlakat/hudud: Ispaniya, Meksika, Kolumbiya, Argentina, Shimoliy Hindiston, Mumbay, qishloq",
-  "Janrga mos ssenariy (komediya, sirli, hissiy…) va aniq so'zlovchili dialoglar",
-  "Sahna tekshiruvi: matnga mos kelmagan rasm promptlari avtomatik tuzatiladi",
-  "\"Video promptlar\" tugmasi: har bir rasmni jonlantirish uchun prompt",
-  "ChatGPT so'rovlari: 120 s kutish va vaqtinchalik xatolarda 3 martagacha qayta urinish"
+  "Hikoyalar endi bir xil joyda bo'lmaydi: har safar yangi joy g'oyalari (qishloq bog'i, to'y, avtobus, kutubxona…)",
+  "Oldingi hikoyalardagi joylar, buyumlar va yechimlar eslab qolinadi va takrorlanmaydi (metro, choyxona, eski soat…)",
+  "Ssenariyda faqat reja (bible)dagi personajlar ism bilan qatnashadi"
  ],
- "file": "videora-5.5.0.bin",
- "sig": "ODQrHSfoUubUOTGXHAF2DfK2BIZik0yZBNcT7p2F0tDZeQ7+g1fPqxBTaDel9K2mPS/IgNS8dHhWdDZxZyHY4g==",
- "size": 2998078,
- "sha256": "443a587ac28485a7289f7b7c2bfcfdca3f4404b4c6ca24488c2a6e65c4961502",
+ "file": "videora-5.5.1.bin",
+ "sig": "dJQpXD3K1DW8H09I+E1uwNrei+mIqrrxrnIyZK2A1szJSCraAwOSfXW6XdSRKmNSGrylwhAF0Yl5O5v5Eb/gDg==",
+ "size": 3002533,
+ "sha256": "5de0188196cccc4a50300937e1103b71fadb88780429789d28ecf71dd86f39ee",
  "full": false
 }
