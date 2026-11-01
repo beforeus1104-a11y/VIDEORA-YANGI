@@ -1,12 +1,12 @@
 {
- "version": "5.6.1",
+ "version": "5.7.0",
  "date": "2026-11-01",
  "notes": [
-  "AI yordamchi: \"ssenariy yozib ber\" desangiz, mavzuni qo'yadi va studiyaning to'liq ssenariy jarayonini o'zi ishga tushiradi",
-  "Mavzu almashganda eski ssenariy va sahnalar tozalanadi — yangi mavzu ostida eski hikoya qolmaydi",
-  "Yordamchi so'ragan yo'nalishingizga (masalan, maktab) mos mavzu tanlaydi"
+  "ChatGPT agentlari va AI yordamchi endi Videora serverida ishlaydi — javoblar real serverdan keladi",
+  "Rasm yaratish, ChatGPT ovozi, transkripsiya va Google ovozi ham server orqali; dastur ichida hech qanday API kalit qolmadi",
+  "O'z OpenAI yoki Google kalitingizni kiritsangiz, u to'g'ridan-to'g'ri ishlayveradi"
  ],
  "full": true,
- "apk": "https://raw.githubusercontent.com/beforeus1104-a11y/VIDEORA-YANGI/main/yuklab-olish/Videora-5.6.1.apk",
- "exe": "https://github.com/beforeus1104-a11y/VIDEORA-YANGI/releases/download/v5.6.1/Videora-5.6.1-Setup.exe"
+ "apk": "https://raw.githubusercontent.com/beforeus1104-a11y/VIDEORA-YANGI/main/yuklab-olish/Videora-5.7.0.apk",
+ "exe": "https://github.com/beforeus1104-a11y/VIDEORA-YANGI/releases/download/v5.7.0/Videora-5.7.0-Setup.exe"
 }
