@@ -1,16 +1,16 @@
 {
- "version": "5.9.1",
+ "version": "6.0.0",
  "date": "2026-11-01",
  "notes": [
-  "AI yordamchi oynasini tepasidagi chiziqdan ushlab istalgan joyga surish va burchagidan kattalashtirish mumkin — joyi eslab qolinadi",
-  "📋 Ko'p prompt: promptlarni bir yo'la tashlang (yoki \"Sahna promptlarini olish\") — rasmlar ketma-ket yaratilib, har biri o'z sahnasiga, media bo'limiga o'zi joylanadi",
-  "\"3-sahna rasmini dialogga moslab qayta yarat\" desangiz — yangi prompt yoziladi, rasm yaratiladi va videoning aynan o'sha joyiga qo'yiladi",
-  "\"6-soniyaga kuchli shamol effektini qo'y\" desangiz — effekt videoning o'sha soniyasiga qo'yiladi (media bo'limiga yuklagan o'z ovozlaringiz ham ishlatiladi)",
-  "AI yordamchi Pro, Ultra, Yillik va Umrbod tariflarida (hamda eski 3, 6, 12 oylik kalitlarda) ishlaydi; Go va 1 oylikda yopiq"
+  "Ovoz dasturda yaratilsa, u sahnama-sahna o'qiladi va har bir sahna hamda so'z qaysi soniyada ekani aniq bilinadi — rasmlar va subtitrlar ovozga taxminsiz, aniq moslanadi",
+  "Google limiti yarim yo'lda tugasa, butun ovoz bitta (ChatGPT) ovoz bilan qayta o'qiladi — ovoz aralashib ketmaydi",
+  "Har bir rasm prompti endi o'sha sahnaning aynan gapini (dialogini) o'z ichiga oladi: kim gapirayotgani, qayerda, nima qilayotgani va his-tuyg'usi ko'rsatiladi",
+  "Stickman qoidasi promptning boshiga qo'yildi — personajlar oddiy multfilm odamiga aylanib ketmaydi",
+  "AI yordamchida \"✨ Sifat: Yuqori\" — rasmlar eng yaxshi model va yuqori sifatda yaratiladi (\"⚡ Tejamkor\"ga o'tkazish mumkin); oylik rasm limiti tekshiriladi"
  ],
- "file": "videora-5.9.1.bin",
- "sig": "G/BPdpi0aZkruuZ3Qtp370lO8VwSPWho2/SrUU0iCv2wcjlGF1SvA2OPiIVEw37nAk03DgF4Bi/5US694GASdg==",
- "size": 3050779,
- "sha256": "4207ee51f8ced96b393ae221df9e6710f75b899d138b60999caa2263c287a295",
+ "file": "videora-6.0.0.bin",
+ "sig": "tu1FL2Akw94e6viIIrZXU3MV+pvwnBtjVPdJArGxXMaluDrnZAmXAsCz1m0bRWTq3+pZr2/PGrTG+dg4jvr69Q==",
+ "size": 3058541,
+ "sha256": "ad75ce1183f66b484f03d7d0e565e201e31d5565284506362c103929b8cd3a3b",
  "full": false
 }
