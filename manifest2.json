@@ -1,14 +1,15 @@
 {
- "version": "6.2.1",
+ "version": "6.3.0",
  "date": "2026-11-02",
  "notes": [
-  "Stickman mavzu kartochkalari 1:1 (kvadrat) formatda — rasmlar kattalashib ketmaydi, to'liqroq ko'rinadi",
-  "Hamma 34 ta tayyor mavzuga rasm qo'yildi (Oila, Tortishish kuchi, Internet o'chsa, Uxlamasa qo'shildi)",
-  "Google Flow Videora oynasi ichida ochiladi (kompyuterda — yangi o'rnatish fayli bilan)"
+  "Telefon va planshetda hamma oynalar to'g'ri ko'rinadi: ustunlar endi siqilmaydi, matn bittadan so'z bo'lib tushmaydi, video preview to'liq kenglikda",
+  "AI yordamchi endi Quiz bo'limida ham ishlaydi: savollaringizni ko'radi, \"3-savol rasmini qayta yarat\" desangiz — rasm yaratilib, o'sha savolga qo'yiladi; Ko'p prompt ham ishlaydi",
+  "Google Flow yordamchisi Quiz bo'limida ham: savol promptini nusxalaysiz, Flow'dan yuklangan rasm o'z savoliga tushadi",
+  "Pastdagi \"AI yordamchi\" va \"Google Flow\" tugmalari endi sahifa tugmalarini yopib qo'ymaydi"
  ],
- "file": "videora-6.2.1.bin",
- "sig": "+rL21C/nbgzFtyJSgZMMEC5hVk0I5qCRxV29DE7puEtKEYYcjbClZ7A7tW7lzw+9hgaPh1NSbqqwE2PfeZUlgA==",
- "size": 4163648,
- "sha256": "8cb06cc1994046ac7fd10101d2db457670b60f33191b5f4c285ee29d00dcc589",
+ "file": "videora-6.3.0.bin",
+ "sig": "hL/YcdzQh8YofpgOYvLMAMxWPrVY7YlrzNMciFOaN1vYWxw4yBbn5d6C+z06vxjWEpgnIPX7n94YRRpf8/vlOA==",
+ "size": 4168509,
+ "sha256": "d07e465d66be2b7d72eb3c41cd297d6f716f747af256544d8749fc5545339e4a",
  "full": false
 }

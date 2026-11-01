@@ -1,12 +1,13 @@
 {
- "version": "6.2.1",
+ "version": "6.3.0",
  "date": "2026-11-02",
  "notes": [
-  "Stickman mavzu kartochkalari 1:1 (kvadrat) formatda — rasmlar kattalashib ketmaydi, to'liqroq ko'rinadi",
-  "Hamma 34 ta tayyor mavzuga rasm qo'yildi (Oila, Tortishish kuchi, Internet o'chsa, Uxlamasa qo'shildi)",
-  "Google Flow Videora oynasi ichida ochiladi (kompyuterda — yangi o'rnatish fayli bilan)"
+  "Telefon va planshetda hamma oynalar to'g'ri ko'rinadi: ustunlar endi siqilmaydi, matn bittadan so'z bo'lib tushmaydi, video preview to'liq kenglikda",
+  "AI yordamchi endi Quiz bo'limida ham ishlaydi: savollaringizni ko'radi, \"3-savol rasmini qayta yarat\" desangiz — rasm yaratilib, o'sha savolga qo'yiladi; Ko'p prompt ham ishlaydi",
+  "Google Flow yordamchisi Quiz bo'limida ham: savol promptini nusxalaysiz, Flow'dan yuklangan rasm o'z savoliga tushadi",
+  "Pastdagi \"AI yordamchi\" va \"Google Flow\" tugmalari endi sahifa tugmalarini yopib qo'ymaydi"
  ],
  "full": true,
- "apk": "https://raw.githubusercontent.com/beforeus1104-a11y/VIDEORA-YANGI/main/yuklab-olish/Videora-6.2.1.apk",
- "exe": "https://github.com/beforeus1104-a11y/VIDEORA-YANGI/releases/download/v6.2.1/Videora-6.2.1-Setup.exe"
+ "apk": "https://raw.githubusercontent.com/beforeus1104-a11y/VIDEORA-YANGI/main/yuklab-olish/Videora-6.3.0.apk",
+ "exe": "https://github.com/beforeus1104-a11y/VIDEORA-YANGI/releases/download/v6.3.0/Videora-6.3.0-Setup.exe"
 }
