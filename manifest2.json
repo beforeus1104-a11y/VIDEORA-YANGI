@@ -1,16 +1,16 @@
 {
- "version": "5.9.0",
+ "version": "5.9.1",
  "date": "2026-11-01",
  "notes": [
   "AI yordamchi oynasini tepasidagi chiziqdan ushlab istalgan joyga surish va burchagidan kattalashtirish mumkin — joyi eslab qolinadi",
   "📋 Ko'p prompt: promptlarni bir yo'la tashlang (yoki \"Sahna promptlarini olish\") — rasmlar ketma-ket yaratilib, har biri o'z sahnasiga, media bo'limiga o'zi joylanadi",
   "\"3-sahna rasmini dialogga moslab qayta yarat\" desangiz — yangi prompt yoziladi, rasm yaratiladi va videoning aynan o'sha joyiga qo'yiladi",
   "\"6-soniyaga kuchli shamol effektini qo'y\" desangiz — effekt videoning o'sha soniyasiga qo'yiladi (media bo'limiga yuklagan o'z ovozlaringiz ham ishlatiladi)",
-  "AI yordamchi 3, 6, 12 oylik va Umrbod tariflarida ishlaydi"
+  "AI yordamchi Pro, Ultra, Yillik va Umrbod tariflarida (hamda eski 3, 6, 12 oylik kalitlarda) ishlaydi; Go va 1 oylikda yopiq"
  ],
- "file": "videora-5.9.0.bin",
- "sig": "npeHp6FbXQMQlRSkNozSxRejIJRBRoibULOJNBwwe9bodUAeERQ4K6PnzZo138SRb2x8Ypry6Ar6BmwHz6YW/w==",
- "size": 3050438,
- "sha256": "a7eb732d095de3bf0bc214fc6ca755be0662b75e22284006c0e599b06b69ba3f",
+ "file": "videora-5.9.1.bin",
+ "sig": "G/BPdpi0aZkruuZ3Qtp370lO8VwSPWho2/SrUU0iCv2wcjlGF1SvA2OPiIVEw37nAk03DgF4Bi/5US694GASdg==",
+ "size": 3050779,
+ "sha256": "4207ee51f8ced96b393ae221df9e6710f75b899d138b60999caa2263c287a295",
  "full": false
 }
