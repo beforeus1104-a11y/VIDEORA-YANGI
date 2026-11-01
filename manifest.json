@@ -1,14 +1,14 @@
 {
- "version": "5.8.1",
+ "version": "5.9.0",
  "date": "2026-11-01",
  "notes": [
-  "Yangilanish endi osilib qolmaydi: yuklash vaqt chegarasi bilan, bir manzil ishlamasa ikkinchisidan yuklanadi, tugma bosilganda jarayon ko'rinadi",
-  "AI yordamchi: ChatGPT va Claude agentlari — versiyasini tanlaysiz, javob yozilayotganda chiqib boradi, suhbatlar saqlanadi, yangi suhbat ochiladi, kerak bo'lsa internetdan qidiradi",
-  "Rasm: yordamchidan rasm chizishni so'rang yoki \"Rasm rejimi\"da promptni yozing — rasm suhbatning o'zida chiqadi, yuklab olish mumkin",
-  "Ssenariy endi har doim tanlangan mavzuda yoziladi; muharrir mavzudan chetga chiqishni ham tekshiradi",
-  "Google ovoz limiti tugasa, ovoz ChatGPT ovozi bilan avtomatik davom etadi"
+  "AI yordamchi oynasini tepasidagi chiziqdan ushlab istalgan joyga surish va burchagidan kattalashtirish mumkin — joyi eslab qolinadi",
+  "📋 Ko'p prompt: promptlarni bir yo'la tashlang (yoki \"Sahna promptlarini olish\") — rasmlar ketma-ket yaratilib, har biri o'z sahnasiga, media bo'limiga o'zi joylanadi",
+  "\"3-sahna rasmini dialogga moslab qayta yarat\" desangiz — yangi prompt yoziladi, rasm yaratiladi va videoning aynan o'sha joyiga qo'yiladi",
+  "\"6-soniyaga kuchli shamol effektini qo'y\" desangiz — effekt videoning o'sha soniyasiga qo'yiladi (media bo'limiga yuklagan o'z ovozlaringiz ham ishlatiladi)",
+  "AI yordamchi 3, 6, 12 oylik va Umrbod tariflarida ishlaydi"
  ],
  "full": true,
- "apk": "https://raw.githubusercontent.com/beforeus1104-a11y/VIDEORA-YANGI/main/yuklab-olish/Videora-5.8.1.apk",
- "exe": "https://github.com/beforeus1104-a11y/VIDEORA-YANGI/releases/download/v5.8.1/Videora-5.8.1-Setup.exe"
+ "apk": "https://raw.githubusercontent.com/beforeus1104-a11y/VIDEORA-YANGI/main/yuklab-olish/Videora-5.9.0.apk",
+ "exe": "https://github.com/beforeus1104-a11y/VIDEORA-YANGI/releases/download/v5.9.0/Videora-5.9.0-Setup.exe"
 }

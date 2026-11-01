@@ -1,16 +1,16 @@
 {
- "version": "5.8.1",
+ "version": "5.9.0",
  "date": "2026-11-01",
  "notes": [
-  "Yangilanish endi osilib qolmaydi: yuklash vaqt chegarasi bilan, bir manzil ishlamasa ikkinchisidan yuklanadi, tugma bosilganda jarayon ko'rinadi",
-  "AI yordamchi: ChatGPT va Claude agentlari — versiyasini tanlaysiz, javob yozilayotganda chiqib boradi, suhbatlar saqlanadi, yangi suhbat ochiladi, kerak bo'lsa internetdan qidiradi",
-  "Rasm: yordamchidan rasm chizishni so'rang yoki \"Rasm rejimi\"da promptni yozing — rasm suhbatning o'zida chiqadi, yuklab olish mumkin",
-  "Ssenariy endi har doim tanlangan mavzuda yoziladi; muharrir mavzudan chetga chiqishni ham tekshiradi",
-  "Google ovoz limiti tugasa, ovoz ChatGPT ovozi bilan avtomatik davom etadi"
+  "AI yordamchi oynasini tepasidagi chiziqdan ushlab istalgan joyga surish va burchagidan kattalashtirish mumkin — joyi eslab qolinadi",
+  "📋 Ko'p prompt: promptlarni bir yo'la tashlang (yoki \"Sahna promptlarini olish\") — rasmlar ketma-ket yaratilib, har biri o'z sahnasiga, media bo'limiga o'zi joylanadi",
+  "\"3-sahna rasmini dialogga moslab qayta yarat\" desangiz — yangi prompt yoziladi, rasm yaratiladi va videoning aynan o'sha joyiga qo'yiladi",
+  "\"6-soniyaga kuchli shamol effektini qo'y\" desangiz — effekt videoning o'sha soniyasiga qo'yiladi (media bo'limiga yuklagan o'z ovozlaringiz ham ishlatiladi)",
+  "AI yordamchi 3, 6, 12 oylik va Umrbod tariflarida ishlaydi"
  ],
- "file": "videora-5.8.1.bin",
- "sig": "1zm3S7/f73fEffZcMLpI7GhkpVh0VCVx3f17x1uzBICztTRJFVQ8b4wPKpFNi2n7LCJYOg7bnRi5Z6wNcsNZAw==",
- "size": 3038134,
- "sha256": "c3b2c676c9c6c7050c22c3146fb3effcb5bbcb08aaa49918c97fdcf564a90d0e",
+ "file": "videora-5.9.0.bin",
+ "sig": "npeHp6FbXQMQlRSkNozSxRejIJRBRoibULOJNBwwe9bodUAeERQ4K6PnzZo138SRb2x8Ypry6Ar6BmwHz6YW/w==",
+ "size": 3050438,
+ "sha256": "a7eb732d095de3bf0bc214fc6ca755be0662b75e22284006c0e599b06b69ba3f",
  "full": false
 }
