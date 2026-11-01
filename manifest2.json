@@ -1,15 +1,14 @@
 {
- "version": "5.6.0",
+ "version": "5.6.1",
  "date": "2026-11-01",
  "notes": [
-  "Yangi: \"AI yordamchi\" — Stickman loyihasi ichida ChatGPT bilan oddiy suhbat",
-  "Yordamchi loyihani ko'radi (mavzu, ssenariy, personajlar, sahnalar) va \"boshqasini ber\", \"yaxshiroq qil\" kabi qisqa gaplarni tushunadi",
-  "Taklif qilingan o'zgarishlar (mavzu, ssenariy, sahna rasmi) \"Qo'llash\" tugmasi bilan loyihaga qo'yiladi",
-  "Hikoyalarda joy, buyum va yechimlar takrorlanmaydi"
+  "AI yordamchi: \"ssenariy yozib ber\" desangiz, mavzuni qo'yadi va studiyaning to'liq ssenariy jarayonini o'zi ishga tushiradi",
+  "Mavzu almashganda eski ssenariy va sahnalar tozalanadi — yangi mavzu ostida eski hikoya qolmaydi",
+  "Yordamchi so'ragan yo'nalishingizga (masalan, maktab) mos mavzu tanlaydi"
  ],
- "file": "videora-5.6.0.bin",
- "sig": "PlYfIaa9FeC6yn6M1BrWqc8cz9z7RrVFd2jmJUIEdrRAYtKGqNDQtyokYbWvKO0Mv4oOSn+b07R3gZid4tcWdQ==",
- "size": 3013472,
- "sha256": "c3f5a81c771e6402bd236a250b45a935866065f316cb867c4efec864f506f0c7",
+ "file": "videora-5.6.1.bin",
+ "sig": "pA0O9NGWHnFyGURI/D/S/k6PkHTBS2kMyI9pLzBByOLFSqibe5huj5ReyRlM961FHLCTGsAOUaPhI08EPdSL3g==",
+ "size": 3015379,
+ "sha256": "72e98fdfa7257939ce8019316ce40fe3a5fcc36dd069319800ac78f69e05b64e",
  "full": false
 }
