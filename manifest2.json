@@ -1,15 +1,17 @@
 {
- "version": "6.3.1",
+ "version": "6.4.0",
  "date": "2026-11-02",
  "notes": [
-  "Quiz Videos sahifasiga yangi katta banner va har bir quiz turiga o'z rasmi qo'yildi",
-  "Quiz bosqichlari banneriga yangi rasm",
-  "Stickman Stories bosh banneriga yangi rasm",
-  "Telefon va planshetda hamma oynalar to'g'ri ko'rinadi; AI yordamchi va Google Flow Quiz bo'limida ham ishlaydi"
+  "AI yordamchida rasm yaratish limiti olib tashlandi",
+  "Uslub qulfi: 7 ta uslubning har biri (Stickman komiks, Toza 2D, Yorqin multfilm, Piksel-anime, Chibi, Bolalar chizgan, Voksel) to'liq aniq ta'rifga ega — bitta videodagi hamma rasmlar bir xil uslubda",
+  "Har bir rasmga professional sifat talablari va uslubga mos \"bo'lmasin\" ro'yxati qo'shiladi (Piksel uslubida pikselga ruxsat)",
+  "Stickman sahnalari loyihaning personaj namunasi rasmi asosida chiziladi — qahramon hamma sahnada bir xil",
+  "Har sahnaga mos kamera, yorug'lik va kompozitsiya; Quiz rasmlari faqat savoldagi gumondorlar va izlarni ko'rsatadi",
+  "Sifat nazorati: har rasm o'lchami, aniqligi va sahnaga mosligi tekshiriladi, nuqsonli bo'lsa 2 martagacha qayta chiziladi; o'tmagan rasm videoga o'zi qo'yilmaydi"
  ],
- "file": "videora-6.3.1.bin",
- "sig": "EiRMqgA/fRe/IafQb6fiZ6c0odCpPJuD1FHr0IbiceOXkinoUT5Cp/49Vn95Gyx7qnjkiWdXb4l45Bp/gyzg2g==",
- "size": 4712638,
- "sha256": "3b4892be76f29336bcc52f784616131beb78fc938bfb8a2ff9ebef20d0070889",
+ "file": "videora-6.4.0.bin",
+ "sig": "hHvxLp46Tv5n3PaRx+b0CuNjE8/Xy0yHZ635QcUi+lbYGU/YqWXsN6xrgNfhgHA6/kqhSctDT9hXVmc7EreB4Q==",
+ "size": 4730365,
+ "sha256": "b306fc3044da9083828dec443b45017085eaedce55e1682b74e122939a4c5f9b",
  "full": false
 }

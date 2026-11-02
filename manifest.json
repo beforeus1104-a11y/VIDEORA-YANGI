@@ -1,13 +1,15 @@
 {
- "version": "6.3.1",
+ "version": "6.4.0",
  "date": "2026-11-02",
  "notes": [
-  "Quiz Videos sahifasiga yangi katta banner va har bir quiz turiga o'z rasmi qo'yildi",
-  "Quiz bosqichlari banneriga yangi rasm",
-  "Stickman Stories bosh banneriga yangi rasm",
-  "Telefon va planshetda hamma oynalar to'g'ri ko'rinadi; AI yordamchi va Google Flow Quiz bo'limida ham ishlaydi"
+  "AI yordamchida rasm yaratish limiti olib tashlandi",
+  "Uslub qulfi: 7 ta uslubning har biri (Stickman komiks, Toza 2D, Yorqin multfilm, Piksel-anime, Chibi, Bolalar chizgan, Voksel) to'liq aniq ta'rifga ega — bitta videodagi hamma rasmlar bir xil uslubda",
+  "Har bir rasmga professional sifat talablari va uslubga mos \"bo'lmasin\" ro'yxati qo'shiladi (Piksel uslubida pikselga ruxsat)",
+  "Stickman sahnalari loyihaning personaj namunasi rasmi asosida chiziladi — qahramon hamma sahnada bir xil",
+  "Har sahnaga mos kamera, yorug'lik va kompozitsiya; Quiz rasmlari faqat savoldagi gumondorlar va izlarni ko'rsatadi",
+  "Sifat nazorati: har rasm o'lchami, aniqligi va sahnaga mosligi tekshiriladi, nuqsonli bo'lsa 2 martagacha qayta chiziladi; o'tmagan rasm videoga o'zi qo'yilmaydi"
  ],
  "full": true,
- "apk": "https://raw.githubusercontent.com/beforeus1104-a11y/VIDEORA-YANGI/main/yuklab-olish/Videora-6.3.1.apk",
- "exe": "https://github.com/beforeus1104-a11y/VIDEORA-YANGI/releases/download/v6.3.1/Videora-6.3.1-Setup.exe"
+ "apk": "https://raw.githubusercontent.com/beforeus1104-a11y/VIDEORA-YANGI/main/yuklab-olish/Videora-6.4.0.apk",
+ "exe": "https://github.com/beforeus1104-a11y/VIDEORA-YANGI/releases/download/v6.4.0/Videora-6.4.0-Setup.exe"
 }
