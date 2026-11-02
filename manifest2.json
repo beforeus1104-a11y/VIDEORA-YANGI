@@ -1,15 +1,15 @@
 {
- "version": "6.3.0",
+ "version": "6.3.1",
  "date": "2026-11-02",
  "notes": [
-  "Telefon va planshetda hamma oynalar to'g'ri ko'rinadi: ustunlar endi siqilmaydi, matn bittadan so'z bo'lib tushmaydi, video preview to'liq kenglikda",
-  "AI yordamchi endi Quiz bo'limida ham ishlaydi: savollaringizni ko'radi, \"3-savol rasmini qayta yarat\" desangiz — rasm yaratilib, o'sha savolga qo'yiladi; Ko'p prompt ham ishlaydi",
-  "Google Flow yordamchisi Quiz bo'limida ham: savol promptini nusxalaysiz, Flow'dan yuklangan rasm o'z savoliga tushadi",
-  "Pastdagi \"AI yordamchi\" va \"Google Flow\" tugmalari endi sahifa tugmalarini yopib qo'ymaydi"
+  "Quiz Videos sahifasiga yangi katta banner va har bir quiz turiga o'z rasmi qo'yildi",
+  "Quiz bosqichlari banneriga yangi rasm",
+  "Stickman Stories bosh banneriga yangi rasm",
+  "Telefon va planshetda hamma oynalar to'g'ri ko'rinadi; AI yordamchi va Google Flow Quiz bo'limida ham ishlaydi"
  ],
- "file": "videora-6.3.0.bin",
- "sig": "hL/YcdzQh8YofpgOYvLMAMxWPrVY7YlrzNMciFOaN1vYWxw4yBbn5d6C+z06vxjWEpgnIPX7n94YRRpf8/vlOA==",
- "size": 4168509,
- "sha256": "d07e465d66be2b7d72eb3c41cd297d6f716f747af256544d8749fc5545339e4a",
+ "file": "videora-6.3.1.bin",
+ "sig": "EiRMqgA/fRe/IafQb6fiZ6c0odCpPJuD1FHr0IbiceOXkinoUT5Cp/49Vn95Gyx7qnjkiWdXb4l45Bp/gyzg2g==",
+ "size": 4712638,
+ "sha256": "3b4892be76f29336bcc52f784616131beb78fc938bfb8a2ff9ebef20d0070889",
  "full": false
 }
