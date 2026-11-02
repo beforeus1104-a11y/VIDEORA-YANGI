@@ -1,17 +1,13 @@
 {
- "version": "6.4.0",
+ "version": "6.4.1",
  "date": "2026-11-02",
  "notes": [
-  "AI yordamchida rasm yaratish limiti olib tashlandi",
-  "Uslub qulfi: 7 ta uslubning har biri (Stickman komiks, Toza 2D, Yorqin multfilm, Piksel-anime, Chibi, Bolalar chizgan, Voksel) to'liq aniq ta'rifga ega — bitta videodagi hamma rasmlar bir xil uslubda",
-  "Har bir rasmga professional sifat talablari va uslubga mos \"bo'lmasin\" ro'yxati qo'shiladi (Piksel uslubida pikselga ruxsat)",
-  "Stickman sahnalari loyihaning personaj namunasi rasmi asosida chiziladi — qahramon hamma sahnada bir xil",
-  "Har sahnaga mos kamera, yorug'lik va kompozitsiya; Quiz rasmlari faqat savoldagi gumondorlar va izlarni ko'rsatadi",
-  "Sifat nazorati: har rasm o'lchami, aniqligi va sahnaga mosligi tekshiriladi, nuqsonli bo'lsa 2 martagacha qayta chiziladi; o'tmagan rasm videoga o'zi qo'yilmaydi"
+  "Ovoz hech qachon to'xtamaydi: Google ovozi har qanday sabab bilan ishlamasa (limit, kalit xatosi, \"API key not valid\"), matn avtomatik ChatGPT ovozi bilan o'qiladi",
+  "Butun video bitta ovoz bilan o'qiladi — diktor o'rtada almashmaydi"
  ],
- "file": "videora-6.4.0.bin",
- "sig": "hHvxLp46Tv5n3PaRx+b0CuNjE8/Xy0yHZ635QcUi+lbYGU/YqWXsN6xrgNfhgHA6/kqhSctDT9hXVmc7EreB4Q==",
- "size": 4730365,
- "sha256": "b306fc3044da9083828dec443b45017085eaedce55e1682b74e122939a4c5f9b",
+ "file": "videora-6.4.1.bin",
+ "sig": "17t8B+TLAmcdA8Gq9tQSmUV3Ga+pDeXIzx0dzDNoYTvqTKu++Gxz+6yvBguvB27aKjOosga8lwtsWRjsTENm6w==",
+ "size": 4730568,
+ "sha256": "26fadfc1efdd3542b46c569a86dd8df00a1359b7743c3d6d6d76e32f742c2bc7",
  "full": false
 }
