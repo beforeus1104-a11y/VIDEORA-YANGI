@@ -1,14 +1,14 @@
 {
- "version": "6.7.0",
- "date": "2026-11-03",
+ "version": "6.8.0",
+ "date": "2026-11-04",
  "notes": [
-  "Yangi bo'lim: Rasmga qarab top → Logoni top",
-  "Logo ko'rinishi: to'liq, yaqinlashtirilgan, xira yoki siluet",
-  "Logolar kutubxonasi ikkala bo'limda ham ishlaydi"
+  "Yangi bo'lim: Rasmga qarab top → Bayroqni top",
+  "194 ta davlat bayrog'i dastur ichida — rasm yuklash shart emas",
+  "Davlat nomlari 4 tilda avtomatik"
  ],
- "file": "videora-6.7.0.bin",
- "sig": "bOJYtO5UKeoYE/BI/TTcTC1uGKKuNBKY2Ed2Hqtb0W4orvVNb3FCkEnoUU27Vc73aqXO9ZtdcaVKCaWNU0Mp9w==",
- "size": 4905943,
- "sha256": "a7f5d3b5589f188125aab1b841a1f01d45500ed64e75c4db06600c1a59c0653f",
+ "file": "videora-6.8.0.bin",
+ "sig": "U0Ez9dvzOulFEZbzY+tc3SxiwQeFTwD4ClAr+cKO9Nrb7HW1eOsOL7lCjspoRBfj8IKeR9ojBpnb76iNSt8mjA==",
+ "size": 5466916,
+ "sha256": "e5627257e7fa3b52c550d5537dfaa8c0f3f4c2c3b866c1f9eb2a5d17e5d28c04",
  "full": false
 }
