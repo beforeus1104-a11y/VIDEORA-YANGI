@@ -1,0 +1,14 @@
+{
+ "version": "6.6.0",
+ "date": "2026-11-03",
+ "notes": [
+  "Yangi bo'lim: Rasmga qarab top → Mashina brendi",
+  "Mening loyihalarim: har bir video alohida loyiha",
+  "Diktor matni avtomatik yoziladi (ElevenLabs uchun)"
+ ],
+ "file": "videora-6.6.0.bin",
+ "sig": "wstDhXtAi11cwC/ZzTknLOG41jlb0b7+AkfyH+VVMVV64lG7nqM9fTQm0KxgS7Dd5UWgqMVfEq9WGUQH4I0Uhg==",
+ "size": 4886841,
+ "sha256": "e99817a9f03d16aec563a54fb7139dda2d8ca329871894a963ac542ac111b33e",
+ "full": false
+}
