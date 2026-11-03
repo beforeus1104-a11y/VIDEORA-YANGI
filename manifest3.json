@@ -1,14 +1,14 @@
 {
- "version": "6.6.0",
+ "version": "6.7.0",
  "date": "2026-11-03",
  "notes": [
-  "Yangi bo'lim: Rasmga qarab top → Mashina brendi",
-  "Mening loyihalarim: har bir video alohida loyiha",
-  "Diktor matni avtomatik yoziladi (ElevenLabs uchun)"
+  "Yangi bo'lim: Rasmga qarab top → Logoni top",
+  "Logo ko'rinishi: to'liq, yaqinlashtirilgan, xira yoki siluet",
+  "Logolar kutubxonasi ikkala bo'limda ham ishlaydi"
  ],
- "file": "videora-6.6.0.bin",
- "sig": "wstDhXtAi11cwC/ZzTknLOG41jlb0b7+AkfyH+VVMVV64lG7nqM9fTQm0KxgS7Dd5UWgqMVfEq9WGUQH4I0Uhg==",
- "size": 4886841,
- "sha256": "e99817a9f03d16aec563a54fb7139dda2d8ca329871894a963ac542ac111b33e",
+ "file": "videora-6.7.0.bin",
+ "sig": "bOJYtO5UKeoYE/BI/TTcTC1uGKKuNBKY2Ed2Hqtb0W4orvVNb3FCkEnoUU27Vc73aqXO9ZtdcaVKCaWNU0Mp9w==",
+ "size": 4905943,
+ "sha256": "a7f5d3b5589f188125aab1b841a1f01d45500ed64e75c4db06600c1a59c0653f",
  "full": false
 }
