@@ -1,14 +1,14 @@
 {
- "version": "6.8.0",
+ "version": "6.9.0",
  "date": "2026-11-04",
  "notes": [
-  "Yangi bo'lim: Rasmga qarab top → Bayroqni top",
-  "194 ta davlat bayrog'i dastur ichida — rasm yuklash shart emas",
-  "Davlat nomlari 4 tilda avtomatik"
+  "Yangi bo'lim: Rasmga qarab top → Futbolchini top",
+  "Rasm xira, piksel, yuzga yaqinlashtirilgan yoki siluet holda chiqadi",
+  "100 ta futbolchi ro'yxati (o'zbek futbolchilari ham bor)"
  ],
- "file": "videora-6.8.0.bin",
- "sig": "U0Ez9dvzOulFEZbzY+tc3SxiwQeFTwD4ClAr+cKO9Nrb7HW1eOsOL7lCjspoRBfj8IKeR9ojBpnb76iNSt8mjA==",
- "size": 5466916,
- "sha256": "e5627257e7fa3b52c550d5537dfaa8c0f3f4c2c3b866c1f9eb2a5d17e5d28c04",
+ "file": "videora-6.9.0.bin",
+ "sig": "s8tS31S04T3oxyzD4f27RdRYpT4cs+KJ0Kor1jGMb8lncoAd0UUXkT0nr6gHjbKQQNqAaz+8rW8aG+hh6Co1LA==",
+ "size": 5484535,
+ "sha256": "2fb02b92a562774febc144d54ac4372aa1c9d95046b7163f89a6007b799f7422",
  "full": false
 }
