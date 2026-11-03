@@ -1,14 +1,14 @@
 {
- "version": "6.9.0",
+ "version": "7.0.0",
  "date": "2026-11-04",
  "notes": [
-  "Yangi bo'lim: Rasmga qarab top → Futbolchini top",
-  "Rasm xira, piksel, yuzga yaqinlashtirilgan yoki siluet holda chiqadi",
-  "100 ta futbolchi ro'yxati (o'zbek futbolchilari ham bor)"
+  "Yangi bo'limlar: Hayvonni top va Davlatni top (xaritadagi shakl)",
+  "8 xil taymer ko'rinishi (doira, bomba, qum soat, sekundomer va boshqalar)",
+  "Shriftni tanlash, musiqalarni eshitib tanlash, o'z musiqangizni qo'yish"
  ],
- "file": "videora-6.9.0.bin",
- "sig": "s8tS31S04T3oxyzD4f27RdRYpT4cs+KJ0Kor1jGMb8lncoAd0UUXkT0nr6gHjbKQQNqAaz+8rW8aG+hh6Co1LA==",
- "size": 5484535,
- "sha256": "2fb02b92a562774febc144d54ac4372aa1c9d95046b7163f89a6007b799f7422",
+ "file": "videora-7.0.0.bin",
+ "sig": "ocmJjp0toJENXk84yQ0WK9lEOfLjFFRzD+ZjEQc2Upc0UqQDpib+1pPXBcNkweAZp8ZnXPHeBGafrenspWwa0g==",
+ "size": 5608530,
+ "sha256": "0db08478bb2c3607fbaa2024b18b444c7aab796cca8657bfd6304bd97819d20f",
  "full": false
 }
