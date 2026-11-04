@@ -2,7 +2,7 @@
 <html lang="uz">
 <head>
 <meta charset="utf-8">
-<script>(function(){var B='7.0.2';
+<script>(function(){var B='7.0.3';
 function cmp(a,b){a=String(a).split('.').map(Number);b=String(b).split('.').map(Number);for(var i=0;i<Math.max(a.length,b.length);i++){var x=a[i]||0,y=b[i]||0;if(x!==y)return x>y?1:-1;}return 0;}
 window.VD_BUILD=B;window.vdVerCmp=cmp;
 /* an installed update is opened only after its signature and contents are checked */
@@ -25,6 +25,31 @@ document.write('<plaintext hidden>');
 })();
 </script>
 <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<script>/* ===== 7.0.3 · on every start (and after every update) the app asks which version to open: 5.1 (old design, handy on a phone) or the new design ===== */
+(function(){var V=window.VD_BUILD||'',K='vr-ui',ss=null;try{ss=window.sessionStorage;}catch(e){}
+  function get(){try{var v=ss&&ss.getItem(K);if(v&&v.split('|')[0]===V)return v.split('|')[1];}catch(e){}return '';}
+  function set(m){try{ss&&ss.setItem(K,V+'|'+m);}catch(e){}}
+  var h=String(location.hash||''),pre=/ui=old/.test(h)?'old':/ui=new/.test(h)?'new':'';if(pre)set(pre);
+  var m=get();window.VR_OLD=m==='old';window.vrUiSet=function(x,reload){set(x);if(reload)location.reload();};
+  if(m||window.VR_UI_SKIP)return;
+  var css='.vr-ask{position:fixed;inset:0;z-index:2147483600;background:radial-gradient(900px 520px at 80% -10%,rgba(143,115,255,.25),transparent 60%),#0A0E26;color:#EEF3FF;display:flex;align-items:center;justify-content:center;padding:20px;padding-top:calc(20px + env(safe-area-inset-top,0px));padding-bottom:calc(20px + env(safe-area-inset-bottom,0px));overflow-y:auto;font-family:system-ui,-apple-system,"Segoe UI",Roboto,sans-serif}'+
+    '.vr-ask-in{width:100%;max-width:460px}.vr-ask h1{margin:0 0 6px;font-size:26px;letter-spacing:.5px}.vr-ask h1 span{color:#5EEAD4}.vr-ask p.s{margin:0 0 20px;color:#AEB7DA;font-size:15px;line-height:1.45}'+
+    '.vr-ask button{display:flex;align-items:center;gap:14px;width:100%;text-align:left;margin:0 0 14px;padding:16px 18px;min-height:84px;border-radius:18px;border:1.5px solid #2B3A78;background:#121A44;color:#fff;cursor:pointer;font:inherit}'+
+    '.vr-ask button:focus-visible{outline:3px solid #A78BFA;outline-offset:2px}.vr-ask button.old{border-color:#FFB21E;background:linear-gradient(135deg,#2A1E05,#121A44)}'+
+    '.vr-ask .ic{flex:none;width:48px;height:48px;border-radius:14px;display:grid;place-items:center;font-size:24px;background:#1E2A66}.vr-ask .old .ic{background:#FFB21E;color:#1A1200}'+
+    '.vr-ask b{display:block;font-size:18px;margin-bottom:3px}.vr-ask small{display:block;color:#C8CFEE;font-size:14px;line-height:1.4}.vr-ask .tag{display:inline-block;margin-left:6px;padding:2px 8px;border-radius:999px;background:#FFB21E;color:#1A1200;font-size:11px;font-weight:800;vertical-align:middle}'+
+    '.vr-ask .n{color:#8E98C4;font-size:13px;text-align:center;margin-top:6px}';
+  function show(){if(document.getElementById('vrAsk'))return;var st=document.createElement('style');st.textContent=css;document.head.appendChild(st);
+    var w=document.createElement('div');w.className='vr-ask';w.id='vrAsk';w.setAttribute('role','dialog');w.setAttribute('aria-modal','true');w.setAttribute('aria-labelledby','vrAskH');
+    w.innerHTML='<div class="vr-ask-in"><h1 id="vrAskH">VIDE<span>ORA</span></h1><p class="s">Qaysi versiyaga kirasiz?</p>'+
+      '<button type="button" class="old" data-ui="old"><span class="ic" aria-hidden="true">📱</span><span><b>5.1 versiya<span class="tag">TELEFON UCHUN QULAY</span></b><small>Eski, tanish dizayn: Quvnoq quiz, Stickman. Telefonda ishlash oson.</small></span></button>'+
+      '<button type="button" data-ui="new"><span class="ic" aria-hidden="true">✨</span><span><b>Yangi versiya (v'+V+')</b><small>Yangi dizayn va barcha yangi bo\'limlar: Detective Quiz, Rasmga qarab top, loyihalar.</small></span></button>'+
+      '<p class="n">Bu savol har safar dastur ochilganda va har yangilanishdan keyin beriladi.</p></div>';
+    w.addEventListener('click',function(e){var b=e.target.closest('[data-ui]');if(!b)return;var x=b.getAttribute('data-ui');set(x);
+      if(x==='old'){location.reload();return;}w.remove();});
+    document.body.appendChild(w);try{w.querySelector('button').focus({preventScroll:true});}catch(e){}}
+  if(document.body)show();else document.addEventListener('DOMContentLoaded',show);})();
+</script>
 <meta name="theme-color" content="#0A0E26">
 <link rel="manifest" href="manifest.webmanifest">
 <link rel="icon" href="icon-192.png">
@@ -2200,11 +2225,15 @@ html.hubbed,html.hubbed body{overflow:hidden}
 .f702-pre{white-space:pre-wrap;overflow-wrap:anywhere;word-break:break-word;max-height:200px;overflow:auto;margin:0;background:#0b1030;border:1px solid #2b3a78;border-radius:10px;padding:10px 12px;font:12.5px/1.5 ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;color:#d5dbff}
 .f702-pre.big{max-height:320px;font-size:13px}
 @media (max-width:640px){.f702 .fq-btn{min-height:44px}}
+/* 7.0.3: full-screen preview — the round side buttons (🎨 and the helper) never cover the controls; controls wrap on a phone */
+html.fq-fs-on .vch-btn,html.fq-fs-on .fl-btn,html.fq-fs-on .vch,html.fq-fs-on .fl,html.fq-fs-on .vdu-bar{display:none!important}
+.fq-card.fq-fs .fq-ctl{flex-wrap:wrap;justify-content:center;row-gap:10px;padding-bottom:env(safe-area-inset-bottom,0px)}
+.fq-card.fq-fs .fq-ctl input[type=range]{flex:1 1 140px;min-width:120px}
 </style>
 
 <div class="hub" id="hub" role="dialog" aria-modal="true" aria-labelledby="hubTitle">
   <div class="hub-in">
-    <div class="hub-top"><h1>VIDE<span>ORA</span></h1><button type="button" class="hub-open" data-vdu>🔄 Yangilanishlar</button><span class="badge">Quiz video studiyasi · v7.0.2</span></div>
+    <div class="hub-top"><h1>VIDE<span>ORA</span></h1><button type="button" class="hub-open" data-vdu>🔄 Yangilanishlar</button><span class="badge">Quiz video studiyasi · v7.0.3</span></div>
     <div id="hubMain">
       <h2 id="hubTitle">Bo'limni tanlang</h2>
       <p class="hub-sub">Har bir bo'limning o'z sozlamalari bor. Bo'limlar orasida istalgan payt yuqoridagi "Bo'limlar" tugmasi bilan o'tasiz.</p>
@@ -3005,7 +3034,7 @@ html.hubbed,html.hubbed body{overflow:hidden}
 </div></div>
 <div class="gate" id="gate" hidden role="dialog" aria-modal="true" aria-labelledby="gTitle">
   <div class="gate-in">
-    <div class="gate-top"><div class="brand"><button type="button" class="admin-btn" id="adminBtn2" aria-label="Admin bilan Telegramda bog'lanish"><svg viewBox="0 0 24 24" width="17" height="17" fill="currentColor" aria-hidden="true"><path d="M21.9 4.3 18.8 19c-.2 1-.9 1.3-1.8.8l-4.8-3.5-2.3 2.2c-.3.3-.5.5-1 .5l.3-4.9 8.9-8c.4-.3-.1-.5-.6-.2L6.5 12.8 1.8 11.3c-1-.3-1-1 .2-1.5L20.5 2.8c.9-.3 1.6.2 1.4 1.5z"/></svg>Admin</button><h1>VIDE<span>ORA</span></h1><span class="badge">Quiz video studiyasi · v7.0.2</span></div><button class="btn" type="button" id="gClose" hidden>Yopish</button></div>
+    <div class="gate-top"><div class="brand"><button type="button" class="admin-btn" id="adminBtn2" aria-label="Admin bilan Telegramda bog'lanish"><svg viewBox="0 0 24 24" width="17" height="17" fill="currentColor" aria-hidden="true"><path d="M21.9 4.3 18.8 19c-.2 1-.9 1.3-1.8.8l-4.8-3.5-2.3 2.2c-.3.3-.5.5-1 .5l.3-4.9 8.9-8c.4-.3-.1-.5-.6-.2L6.5 12.8 1.8 11.3c-1-.3-1-1 .2-1.5L20.5 2.8c.9-.3 1.6.2 1.4 1.5z"/></svg>Admin</button><h1>VIDE<span>ORA</span></h1><span class="badge">Quiz video studiyasi · v7.0.3</span></div><button class="btn" type="button" id="gClose" hidden>Yopish</button></div>
     <div class="gate-grid">
       <section class="gate-demo" aria-label="Namuna video">
         <video id="gVideo" src="demo/videora-namuna.mp4" poster="demo/poster.jpg" controls playsinline loop preload="metadata"></video>
@@ -3052,7 +3081,7 @@ html.hubbed,html.hubbed body{overflow:hidden}
 </div>
 <div class="wrap">
   <header class="hero">
-    <div class="brand"><button type="button" class="admin-btn" id="adminBtn" aria-label="Admin bilan Telegramda bog'lanish"><svg viewBox="0 0 24 24" width="17" height="17" fill="currentColor" aria-hidden="true"><path d="M21.9 4.3 18.8 19c-.2 1-.9 1.3-1.8.8l-4.8-3.5-2.3 2.2c-.3.3-.5.5-1 .5l.3-4.9 8.9-8c.4-.3-.1-.5-.6-.2L6.5 12.8 1.8 11.3c-1-.3-1-1 .2-1.5L20.5 2.8c.9-.3 1.6.2 1.4 1.5z"/></svg>Admin</button><h1>VIDE<span>ORA</span></h1><span class="badge">Quiz video studiyasi · v7.0.2</span><button type="button" class="lic" id="licBadge" hidden></button><button type="button" class="hub-open" id="hubOpen">☰ Bo'limlar</button><button type="button" class="hub-open" data-vdu>🔄 Yangilanishlar</button></div>
+    <div class="brand"><button type="button" class="admin-btn" id="adminBtn" aria-label="Admin bilan Telegramda bog'lanish"><svg viewBox="0 0 24 24" width="17" height="17" fill="currentColor" aria-hidden="true"><path d="M21.9 4.3 18.8 19c-.2 1-.9 1.3-1.8.8l-4.8-3.5-2.3 2.2c-.3.3-.5.5-1 .5l.3-4.9 8.9-8c.4-.3-.1-.5-.6-.2L6.5 12.8 1.8 11.3c-1-.3-1-1 .2-1.5L20.5 2.8c.9-.3 1.6.2 1.4 1.5z"/></svg>Admin</button><h1>VIDE<span>ORA</span></h1><span class="badge">Quiz video studiyasi · v7.0.3</span><button type="button" class="lic" id="licBadge" hidden></button><button type="button" class="hub-open" id="hubOpen">☰ Bo'limlar</button><button type="button" class="hub-open" data-vdu>🔄 Yangilanishlar</button></div>
     <p class="tagline" id="tagline" aria-live="polite"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 2l2.2 6.6L21 11l-6.8 2.4L12 20l-2.2-6.6L3 11l6.8-2.4z"></path></svg><span id="taglineText">Rasm, ovoz va matnni bering. Tayyor quiz videoni oling.</span></p>
     <ul class="feats" aria-label="Dasturda nimalar bor">
       <li><b>152</b> shrift</li><li><b>270</b> fon</li><li><b>118</b> personaj</li><li><b>117</b> musiqa</li><li><b>600</b> ovoz effekti</li><li><b>41</b> o'tish</li><li><b>101</b> huk</li><li><b>154</b> jonli personaj</li>
@@ -9754,7 +9783,7 @@ function vrAct(a,el){var p=a.split(':');
   if(a==='projOpen'){vrHide();var t=vrEl('tab-s1');if(t)t.click();var b=vrEl('projOpen');if(b)b.click();return;}
   if(p[0]==='det'){var d=vrDetRead();d[p[1]]=/^\d+$/.test(p[2])?+p[2]:p[2];vrDetSave(d);vrRender();return;}
   if(a==='detGo'){vrDetGo();return;}}
-function vrInit(){var r=vrEl('vr');if(!r)return;
+function vrInit(){var r=vrEl('vr');if(!r||window.VR_OLD)return;
   r.addEventListener('click',function(e){var b=e.target.closest('[data-a]');if(!b||!r.contains(b))return;vrAct(b.dataset.a,b);});
   r.addEventListener('change',function(e){if(e.target.matches('[data-f]')&&VR.view==='det'){var d=vrDetRead();vrDetSave(d);if(e.target.dataset.f==='lang'||e.target.dataset.f==='fmt')vrRender();}});
   try{var pl=JSON.parse(localStorage.getItem('vd-plan')||'null');if(pl){VR.plan=pl.t;VR.period=pl.p||'m';}}catch(e){}
@@ -15633,6 +15662,13 @@ if(window.VR_IOS){
   var _fqExpChecks702=fqExpChecks;fqExpChecks=function(){var o=_fqExpChecks702.apply(this,arguments),c=FQ.caps;
     if(c&&!c.wc&&window.MediaRecorder&&FQ.p){o.forEach(function(r){if(/^Video o.lchami va format mos/.test(r[0])&&r[2]==='bad'){r[1]=fqDims(FQ.p.exp.res,FQ.p.set.ar).join('×')+' — real vaqtda yoziladi (video uzunligicha vaqt ketadi)';r[2]='warn';}});}
     return o;};}
+
+/* ===== 7.0.3 · 5.1 (old design) mode, and a full-screen preview that is not covered by the round side buttons ===== */
+if(window.VR_OLD){(function(){var hb=document.querySelector('#hub .hub-top');if(hb&&!document.getElementById('hubNewUi')){var b=document.createElement('button');b.type='button';b.id='hubNewUi';b.className='hub-open';b.textContent='✨ Yangi versiyaga o\'tish';
+    b.addEventListener('click',function(){if(window.vrUiSet)vrUiSet('new',true);});hb.appendChild(b);}})();}
+function fs703(){document.documentElement.classList.toggle('fq-fs-on',!!document.querySelector('.fq-fs'));}
+var _fqFull703=fqFull;fqFull=function(){var r=_fqFull703.apply(this,arguments);fs703();return r;};
+document.addEventListener('fullscreenchange',function(){setTimeout(fs703,0);});
 
 })();
 </script>
