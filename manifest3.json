@@ -1,14 +1,14 @@
 {
- "version": "7.0.1",
+ "version": "7.0.2",
  "date": "2026-11-04",
  "notes": [
-  "Detective Quiz: rasm endi bitta sahna (komiks-to'r emas)",
-  "Javob belgisi va zoom doim to'g'ri gumondorda",
-  "Maskot gumondorlarni to'smaydi, 1080p eksport, oxirida qora ekran yo'q"
+  "iPhone va iPad: Safari'da to'liq ishlaydi (filtrlar, saqlash, ovoz, to'liq ekran)",
+  "Quiz ssenariysi: ChatGPT faqat ma'lumot beradi, ovoz matni tayyor shablonlardan yig'iladi",
+  "Ovoz yaratishda xato sababi aniq yoziladi, Google limiti tugasa kutib qayta urinadi"
  ],
- "file": "videora-7.0.1.bin",
- "sig": "acgA77ieifdFXu+Pa0WSq4jtdGXic0VN6S2a5ZPJK8uw7xGafVzCv0KeseF7yhXNzA3LBtSCWga9GLLMZwp5EA==",
- "size": 5622249,
- "sha256": "070d2523c262351b6ec0120ddf685543e0a6c2384682a3e8e549cb91b6e55abc",
+ "file": "videora-7.0.2.bin",
+ "sig": "2Vqvnu1r+EUfufWfDOtAta7g4lOFWxBwUPVuk2+exhEKdS+Ulorc+0UU9BHUEUi5xQHnef5sVTncezPhwUGgCA==",
+ "size": 5670797,
+ "sha256": "5d79ad7b261b94f2d4dda6e4e035d209857e662b520b14dd542d039c3efbdc46",
  "full": false
 }
