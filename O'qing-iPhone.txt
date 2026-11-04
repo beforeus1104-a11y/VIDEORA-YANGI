@@ -1,0 +1,21 @@
+VIDEORA — iPhone (va iPad) uchun
+
+iPhone'ga App Store'dan tashqari ilova faylini (Android'dagi APK kabi) o'rnatib bo'lmaydi.
+Shuning uchun Videora iPhone'da "veb-ilova" bo'lib ishlaydi: Safari'da ochiladi va
+bosh ekranga oddiy ilova kabi qo'shiladi. Belgisi, to'liq ekran, saqlangan loyihalar — hammasi bor.
+
+O'RNATISH (1 marta):
+1. iPhone'da Safari'ni oching (Chrome emas — aynan Safari).
+2. Videora havolasini oching: https://beforeus1104-a11y.github.io/VIDEORA-YANGI/
+3. Pastdagi "Ulashish" tugmasini bosing (kvadrat va yuqoriga strelka).
+4. "Bosh ekranga qo'shish" (Add to Home Screen) → "Qo'shish" ni bosing.
+5. Endi Videora'ni bosh ekrandagi belgidan oching. Litsenziya kalitini shu yerda kiriting.
+
+MUHIM:
+- Barcha bo'limlarda video yaratish uchun iOS 26 yoki yangiroq kerak (iPhone 11 va undan yangi).
+  Sozlamalar → Umumiy → Dasturiy ta'minot yangilanishi.
+  Eskiroq iOS'da faqat Detective/Funny Quiz videosi yoziladi (real vaqtda, video uzunligicha vaqt ketadi).
+- Video tayyorlanayotganda ilovadan chiqmang va ekranni o'chirmang.
+- Tayyor videoni saqlash: "Saqlash" → "Videoni saqlash" (Rasmlar ilovasiga tushadi)
+  yoki "Fayllarga saqlash".
+- Telefonda ovoz chiqmasa, yon tomondagi ovozsiz rejim tugmasini tekshiring.
