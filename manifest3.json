@@ -1,14 +1,14 @@
 {
- "version": "7.0.6",
+ "version": "7.0.7",
  "date": "2026-11-04",
  "notes": [
-  "ChatGPT ishlamasa ham ovoz Google orqali eshitiladi: savollar, javoblar va yozuvlar ovozdagidek",
-  "Har bir rasm o'z savoliga rasmdagi yozuv bo'yicha aniq qo'yiladi (5.1 versiyada ham)",
-  "Ko'rib chiqish qotmaydi, stiker taymer yonida, yangilanish tarixi saqlanmaydi"
+  "3-bosqichda «Ovoz qaysi matndan yaratilgan?» maydoni: savollar, javoblar va rasmlar shu matn bo'yicha moslanadi",
+  "Javob belgisi har doim ovozda aytilgan harfga qo'yiladi",
+  "O'zbekcha kalit so'z inglizcha ovoz matni, sarlavha va heshteglarga tushmaydi"
  ],
- "file": "videora-7.0.6.bin",
- "sig": "CwDZtOQFmFSNXJFORY0n+RZJTknvc4NhcpWLHkRccMtcJ9q/dre96W8Axn9nmhJ/YPRxcvydph/4xgJKn5jZPg==",
- "size": 5695267,
- "sha256": "e9502448ea215e467d33318a84e4e845b9dcc2cb5c1518c064b1fb6bbd3fa499",
+ "file": "videora-7.0.7.bin",
+ "sig": "Sr+DrchN36dS03WmZOXt5XZ1jnbbxCOxWfsguuhQCs7PmcEAnwjnI1Xbw4ZELj03JwmCrCIfgs/UVsEFx3Ozpg==",
+ "size": 5699632,
+ "sha256": "4fc6c28360553ba5d2ccc04a8e6dc525bdc84d5ff75ef0dd80102d0105b68b52",
  "full": false
 }
