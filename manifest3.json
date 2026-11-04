@@ -1,14 +1,14 @@
 {
- "version": "7.0.0",
+ "version": "7.0.1",
  "date": "2026-11-04",
  "notes": [
-  "Yangi bo'limlar: Hayvonni top va Davlatni top (xaritadagi shakl)",
-  "8 xil taymer ko'rinishi (doira, bomba, qum soat, sekundomer va boshqalar)",
-  "Shriftni tanlash, musiqalarni eshitib tanlash, o'z musiqangizni qo'yish"
+  "Detective Quiz: rasm endi bitta sahna (komiks-to'r emas)",
+  "Javob belgisi va zoom doim to'g'ri gumondorda",
+  "Maskot gumondorlarni to'smaydi, 1080p eksport, oxirida qora ekran yo'q"
  ],
- "file": "videora-7.0.0.bin",
- "sig": "ocmJjp0toJENXk84yQ0WK9lEOfLjFFRzD+ZjEQc2Upc0UqQDpib+1pPXBcNkweAZp8ZnXPHeBGafrenspWwa0g==",
- "size": 5608530,
- "sha256": "0db08478bb2c3607fbaa2024b18b444c7aab796cca8657bfd6304bd97819d20f",
+ "file": "videora-7.0.1.bin",
+ "sig": "acgA77ieifdFXu+Pa0WSq4jtdGXic0VN6S2a5ZPJK8uw7xGafVzCv0KeseF7yhXNzA3LBtSCWga9GLLMZwp5EA==",
+ "size": 5622249,
+ "sha256": "070d2523c262351b6ec0120ddf685543e0a6c2384682a3e8e549cb91b6e55abc",
  "full": false
 }
