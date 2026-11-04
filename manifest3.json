@@ -1,14 +1,14 @@
 {
- "version": "7.0.4",
+ "version": "7.0.5",
  "date": "2026-11-04",
  "notes": [
-  "Ovoz boshqa matndan yaratilgan bo'lsa ham rasm, yozuv va javob ovozga moslashadi",
-  "Ovozdagi savol loyihada bo'lmasa, javob harfi va yozuv ovozdan olinadi va eksportdan oldin ogohlantiriladi",
-  "Kirish yozuvlari doim ovozda aytilgan so'zlar bilan bir xil"
+  "Ko'rib chiqish endi 'Jonli personaj tayyorlanmoqda'da qotib qolmaydi",
+  "Taymer yonidagi stiker (maskot) endi taymerning yonida turadi",
+  "Yangilanishlar oynasida eski yangilanishlar tarixi saqlanmaydi"
  ],
- "file": "videora-7.0.4.bin",
- "sig": "Kxs7g+xPP/u/97dGyAl49OZKcZNLamQSOkKbZkpfnX97xJadLDYUEQUOtKy14n8NPHbjeLRZBWSIRYJb5jGkZg==",
- "size": 5679341,
- "sha256": "64916088e792487654285d4e12d7988ce96c91916d533e35f17c906c01fbb8bd",
+ "file": "videora-7.0.5.bin",
+ "sig": "9idc0gx6k4wbB2u/2MWgMr03hsf15vwVRgd9x8jGHsOwT35G/OaerdbVp+YN/ixArEGbpDWtIxAmTzbRZruBCg==",
+ "size": 5683874,
+ "sha256": "8bfcbf557aedc8a4132e7bc123b77776b46e7cedca8e6b23f19aafc6b601cd72",
  "full": false
 }
