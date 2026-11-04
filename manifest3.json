@@ -1,14 +1,14 @@
 {
- "version": "7.0.2",
+ "version": "7.0.3",
  "date": "2026-11-04",
  "notes": [
-  "iPhone va iPad: Safari'da to'liq ishlaydi (filtrlar, saqlash, ovoz, to'liq ekran)",
-  "Quiz ssenariysi: ChatGPT faqat ma'lumot beradi, ovoz matni tayyor shablonlardan yig'iladi",
-  "Ovoz yaratishda xato sababi aniq yoziladi, Google limiti tugasa kutib qayta urinadi"
+  "Har kirganda so'raladi: 5.1 versiya (eski dizayn, telefon uchun qulay) yoki yangi versiya",
+  "To'liq ekranda yon tugmalar endi Chiqish tugmasini to'smaydi",
+  "iPhone, quiz ssenariy shablonlari va ovoz xatolari bo'yicha 7.0.2 tuzatishlari"
  ],
- "file": "videora-7.0.2.bin",
- "sig": "2Vqvnu1r+EUfufWfDOtAta7g4lOFWxBwUPVuk2+exhEKdS+Ulorc+0UU9BHUEUi5xQHnef5sVTncezPhwUGgCA==",
- "size": 5670797,
- "sha256": "5d79ad7b261b94f2d4dda6e4e035d209857e662b520b14dd542d039c3efbdc46",
+ "file": "videora-7.0.3.bin",
+ "sig": "j0StZ74v336I8s7sK67OB4/tKtIc+6ZzIGiCYqIp3kAnwSBmWo16VVwuA76p63Vt3cRnneoWiYQKFsQMy7jgiw==",
+ "size": 5675860,
+ "sha256": "a2d522702eb1c2fed2508c44225a0a092e694659d75b34de10e7dfed66d473c2",
  "full": false
 }
