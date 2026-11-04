@@ -1,14 +1,14 @@
 {
- "version": "7.0.3",
+ "version": "7.0.4",
  "date": "2026-11-04",
  "notes": [
-  "Har kirganda so'raladi: 5.1 versiya (eski dizayn, telefon uchun qulay) yoki yangi versiya",
-  "To'liq ekranda yon tugmalar endi Chiqish tugmasini to'smaydi",
-  "iPhone, quiz ssenariy shablonlari va ovoz xatolari bo'yicha 7.0.2 tuzatishlari"
+  "Ovoz boshqa matndan yaratilgan bo'lsa ham rasm, yozuv va javob ovozga moslashadi",
+  "Ovozdagi savol loyihada bo'lmasa, javob harfi va yozuv ovozdan olinadi va eksportdan oldin ogohlantiriladi",
+  "Kirish yozuvlari doim ovozda aytilgan so'zlar bilan bir xil"
  ],
- "file": "videora-7.0.3.bin",
- "sig": "j0StZ74v336I8s7sK67OB4/tKtIc+6ZzIGiCYqIp3kAnwSBmWo16VVwuA76p63Vt3cRnneoWiYQKFsQMy7jgiw==",
- "size": 5675860,
- "sha256": "a2d522702eb1c2fed2508c44225a0a092e694659d75b34de10e7dfed66d473c2",
+ "file": "videora-7.0.4.bin",
+ "sig": "Kxs7g+xPP/u/97dGyAl49OZKcZNLamQSOkKbZkpfnX97xJadLDYUEQUOtKy14n8NPHbjeLRZBWSIRYJb5jGkZg==",
+ "size": 5679341,
+ "sha256": "64916088e792487654285d4e12d7988ce96c91916d533e35f17c906c01fbb8bd",
  "full": false
 }
