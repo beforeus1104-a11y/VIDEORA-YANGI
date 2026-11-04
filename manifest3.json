@@ -1,14 +1,14 @@
 {
- "version": "7.0.5",
+ "version": "7.0.6",
  "date": "2026-11-04",
  "notes": [
-  "Ko'rib chiqish endi 'Jonli personaj tayyorlanmoqda'da qotib qolmaydi",
-  "Taymer yonidagi stiker (maskot) endi taymerning yonida turadi",
-  "Yangilanishlar oynasida eski yangilanishlar tarixi saqlanmaydi"
+  "ChatGPT ishlamasa ham ovoz Google orqali eshitiladi: savollar, javoblar va yozuvlar ovozdagidek",
+  "Har bir rasm o'z savoliga rasmdagi yozuv bo'yicha aniq qo'yiladi (5.1 versiyada ham)",
+  "Ko'rib chiqish qotmaydi, stiker taymer yonida, yangilanish tarixi saqlanmaydi"
  ],
- "file": "videora-7.0.5.bin",
- "sig": "9idc0gx6k4wbB2u/2MWgMr03hsf15vwVRgd9x8jGHsOwT35G/OaerdbVp+YN/ixArEGbpDWtIxAmTzbRZruBCg==",
- "size": 5683874,
- "sha256": "8bfcbf557aedc8a4132e7bc123b77776b46e7cedca8e6b23f19aafc6b601cd72",
+ "file": "videora-7.0.6.bin",
+ "sig": "CwDZtOQFmFSNXJFORY0n+RZJTknvc4NhcpWLHkRccMtcJ9q/dre96W8Axn9nmhJ/YPRxcvydph/4xgJKn5jZPg==",
+ "size": 5695267,
+ "sha256": "e9502448ea215e467d33318a84e4e845b9dcc2cb5c1518c064b1fb6bbd3fa499",
  "full": false
 }
