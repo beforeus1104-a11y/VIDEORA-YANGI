@@ -1,12 +1,13 @@
 {
- "version": "7.0.9",
+ "version": "7.1.0",
  "date": "2026-11-05",
  "notes": [
-  "Quiz master prompti: savollar soni sozlamadan olinadi, savol, joy, gumondorlar va iz o'zi to'ldiriladi"
+  "Master prompt ChatGPT'ga savol-javoblarni o'zi tuzishni aytadi va oxirida dastur uchun javob kalitini so'raydi",
+  "ChatGPT javobini dasturga qo'ysangiz, sahnalar va rasm promptlari o'zi to'ladi"
  ],
- "file": "videora-7.0.9.bin",
- "sig": "7RLUEUZuh6LH6hW4ktMjZssrPXmbTbaxQJu3NRS//i/un7BeyP47pmB+w0gcUimmCbBY84kJS/63GsVw8pmasg==",
- "size": 5744859,
- "sha256": "5b7f6ab4680db6bb94142d6ca3e0ac6f034eb5ddd547cd0e553e68bb263a4344",
+ "file": "videora-7.1.0.bin",
+ "sig": "YzydVzzOSTHVpZy/aaot4jr5tDOVjgWWgg2hsjFSVkHJJQIWUGWQyr7kcW5XL926+3dgs359sKIy0emeKwAgwA==",
+ "size": 5746871,
+ "sha256": "c582af0904005795f65d962f4b0453caed8a64b1e873398b31c26b1b83babc79",
  "full": false
 }
