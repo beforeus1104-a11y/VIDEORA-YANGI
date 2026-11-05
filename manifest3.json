@@ -1,13 +1,12 @@
 {
- "version": "7.1.4",
- "date": "2026-11-05",
+ "version": "7.1.5",
+ "date": "2026-11-06",
  "notes": [
-  "Yangi savolga o'tganda «Challenge» dan oldin eshitilgan ortiqcha tovush (oldingi gapning oxiri) olib tashlandi",
-  "Dalil belgilanmagan savollarda COMMENT belgisi diktor dalilni aytib bo'lgach chiqadi"
+  "Bepul variant: ChatGPT (OpenAI) hisobida pul tugasa, ssenariy, hikoya va sahnalarni bepul Google Gemini yozadi"
  ],
- "file": "videora-7.1.4.bin",
- "sig": "5o6FAc6wqADyxyjZO9DwCmpk4xZ6sFhiMdkw8AWNOBQylDm23CL+evKJJ43B/S5MtQzoGjrKoo8PrAo6JYu6aw==",
- "size": 5755761,
- "sha256": "702686e017718aa8f94c2f2579c94b4d208e3acab42df097acf07bbfe873e538",
+ "file": "videora-7.1.5.bin",
+ "sig": "Xmrm0p/ezLj5DslU6Wh3bCJV0IdOrCNCxtX3D1a7qJTzMxeZ/1n1KMQU5jRWZ+E/VsY9XP0NdzRWqU+UaGV+zw==",
+ "size": 5758256,
+ "sha256": "f2ca978be3560e3d752fe5f4e74c62d4cf9b1c616da322ff66743e1bc592a57a",
  "full": false
 }
