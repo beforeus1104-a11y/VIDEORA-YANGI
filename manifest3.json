@@ -1,12 +1,12 @@
 {
- "version": "7.0.8",
+ "version": "7.0.9",
  "date": "2026-11-05",
  "notes": [
-  "Quiz bo'limining master prompti yangilandi"
+  "Quiz master prompti: savollar soni sozlamadan olinadi, savol, joy, gumondorlar va iz o'zi to'ldiriladi"
  ],
- "file": "videora-7.0.8.bin",
- "sig": "n+dVk8d08cWlmXjHj93FBaO/7hXk0k+nPjMh7UlhOv9a64a4d2edYILL2dm5T59lQjbf/ial40L5qBkiQMNGOg==",
- "size": 5744312,
- "sha256": "b167ca409e067ef1fc859d28ac8df4b1bd97b28432b09c6a56d1c6a03746094a",
+ "file": "videora-7.0.9.bin",
+ "sig": "7RLUEUZuh6LH6hW4ktMjZssrPXmbTbaxQJu3NRS//i/un7BeyP47pmB+w0gcUimmCbBY84kJS/63GsVw8pmasg==",
+ "size": 5744859,
+ "sha256": "5b7f6ab4680db6bb94142d6ca3e0ac6f034eb5ddd547cd0e553e68bb263a4344",
  "full": false
 }
