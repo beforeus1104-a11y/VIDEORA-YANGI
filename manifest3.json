@@ -1,12 +1,14 @@
 {
- "version": "7.1.1",
+ "version": "7.1.3",
  "date": "2026-11-05",
  "notes": [
-  "ChatGPT javobini dasturga qo'yganda savollar, aybdor va iz har qanday ko'rinishda o'qiladi"
+  "Javob qismi diktor gapiga moslandi: rasm dalil aytilayotganda yaqinlashadi va dalil to'liq aytilib bo'lgach uzoqlashadi",
+  "COMMENT belgisi «izohlarda yozing» gapi bilan birga chiqadi; ovoz matnida «comments» so'zi doim bor",
+  "Google Flow yonida yangi «ChatGPT» tugmasi (master prompt o'zi nusxalanadi)"
  ],
- "file": "videora-7.1.1.bin",
- "sig": "cSnF9qpIzOAC0lgr5PrLZ3RNELqjj7XR/n7sBPp2Fig2jsX3Wn7Y7anfEYAPiwhLnprFo0BImaUnMATi4R1inA==",
- "size": 5749596,
- "sha256": "b13c52227aaffef01c77f684937cdb4be4c6e3bf830ec9cb8b172af840d6d822",
+ "file": "videora-7.1.3.bin",
+ "sig": "8QdWQIMOkBpek4ici5RgvjIjQC4fbuJA3m6gEwkZG/OYOxvsVqxaDST5G1hecgy1L8YpzueMZF+d2PgTmXmFQQ==",
+ "size": 5753931,
+ "sha256": "ec223376519ca3eeaf4eeba638a747a0a8583402bbc7577c32000dfa45094382",
  "full": false
 }
