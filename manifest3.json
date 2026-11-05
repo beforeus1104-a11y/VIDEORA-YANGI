@@ -1,14 +1,12 @@
 {
- "version": "7.0.7",
- "date": "2026-11-04",
+ "version": "7.0.8",
+ "date": "2026-11-05",
  "notes": [
-  "3-bosqichda «Ovoz qaysi matndan yaratilgan?» maydoni: savollar, javoblar va rasmlar shu matn bo'yicha moslanadi",
-  "Javob belgisi har doim ovozda aytilgan harfga qo'yiladi",
-  "O'zbekcha kalit so'z inglizcha ovoz matni, sarlavha va heshteglarga tushmaydi"
+  "Quiz bo'limining master prompti yangilandi"
  ],
- "file": "videora-7.0.7.bin",
- "sig": "Sr+DrchN36dS03WmZOXt5XZ1jnbbxCOxWfsguuhQCs7PmcEAnwjnI1Xbw4ZELj03JwmCrCIfgs/UVsEFx3Ozpg==",
- "size": 5699632,
- "sha256": "4fc6c28360553ba5d2ccc04a8e6dc525bdc84d5ff75ef0dd80102d0105b68b52",
+ "file": "videora-7.0.8.bin",
+ "sig": "n+dVk8d08cWlmXjHj93FBaO/7hXk0k+nPjMh7UlhOv9a64a4d2edYILL2dm5T59lQjbf/ial40L5qBkiQMNGOg==",
+ "size": 5744312,
+ "sha256": "b167ca409e067ef1fc859d28ac8df4b1bd97b28432b09c6a56d1c6a03746094a",
  "full": false
 }
