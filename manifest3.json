@@ -1,14 +1,13 @@
 {
- "version": "7.1.3",
+ "version": "7.1.4",
  "date": "2026-11-05",
  "notes": [
-  "Javob qismi diktor gapiga moslandi: rasm dalil aytilayotganda yaqinlashadi va dalil to'liq aytilib bo'lgach uzoqlashadi",
-  "COMMENT belgisi «izohlarda yozing» gapi bilan birga chiqadi; ovoz matnida «comments» so'zi doim bor",
-  "Google Flow yonida yangi «ChatGPT» tugmasi (master prompt o'zi nusxalanadi)"
+  "Yangi savolga o'tganda «Challenge» dan oldin eshitilgan ortiqcha tovush (oldingi gapning oxiri) olib tashlandi",
+  "Dalil belgilanmagan savollarda COMMENT belgisi diktor dalilni aytib bo'lgach chiqadi"
  ],
- "file": "videora-7.1.3.bin",
- "sig": "8QdWQIMOkBpek4ici5RgvjIjQC4fbuJA3m6gEwkZG/OYOxvsVqxaDST5G1hecgy1L8YpzueMZF+d2PgTmXmFQQ==",
- "size": 5753931,
- "sha256": "ec223376519ca3eeaf4eeba638a747a0a8583402bbc7577c32000dfa45094382",
+ "file": "videora-7.1.4.bin",
+ "sig": "5o6FAc6wqADyxyjZO9DwCmpk4xZ6sFhiMdkw8AWNOBQylDm23CL+evKJJ43B/S5MtQzoGjrKoo8PrAo6JYu6aw==",
+ "size": 5755761,
+ "sha256": "702686e017718aa8f94c2f2579c94b4d208e3acab42df097acf07bbfe873e538",
  "full": false
 }
