@@ -1,12 +1,12 @@
 {
- "version": "7.1.5",
+ "version": "7.1.6",
  "date": "2026-11-06",
  "notes": [
-  "Bepul variant: ChatGPT (OpenAI) hisobida pul tugasa, ssenariy, hikoya va sahnalarni bepul Google Gemini yozadi"
+  "iPhone: ovoz va musiqa fayllarini tanlab bo'lmasligi tuzatildi (fayllar oynasida kulrang bo'lib qolardi)"
  ],
- "file": "videora-7.1.5.bin",
- "sig": "Xmrm0p/ezLj5DslU6Wh3bCJV0IdOrCNCxtX3D1a7qJTzMxeZ/1n1KMQU5jRWZ+E/VsY9XP0NdzRWqU+UaGV+zw==",
- "size": 5758256,
- "sha256": "f2ca978be3560e3d752fe5f4e74c62d4cf9b1c616da322ff66743e1bc592a57a",
+ "file": "videora-7.1.6.bin",
+ "sig": "pEl7IANJ8TfuepqGOO4tjGbBsEevyfU5wPTGYJDUBA9L9vXWgfkOBwY10pwP6S0sIM0qExHU09p3W9HYwm5aGA==",
+ "size": 5759231,
+ "sha256": "c9754f4d8cad8434f7d7769e06ac78a72c4df0d1cadf6d0d189b266f537a8f28",
  "full": false
 }
