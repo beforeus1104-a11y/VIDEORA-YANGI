@@ -1,12 +1,12 @@
 {
- "version": "7.1.7",
+ "version": "7.1.8",
  "date": "2026-11-06",
  "notes": [
-  "Google Gemini ishlamasa, sababi aniq yoziladi va bepul Google kalitini qanday kiritish aytiladi"
+  "Bepul Google kalitini xato xabari ostidagi tugma orqali darhol kiritish mumkin (ssenariy yo'q bo'lsa ham)"
  ],
- "file": "videora-7.1.7.bin",
- "sig": "YRAyGPVN4v1NaRraJ1PuiItIoQXvTol/gXQsXK5mJYqm9HyxI87lAJ9O+iwfAtL6XZUwOcPfNlcUEJ70Mud4sw==",
- "size": 5759760,
- "sha256": "63b9964fbb780a0a5cf3fb9427717893cf5a226c62d7f7748ed3fade4583e237",
+ "file": "videora-7.1.8.bin",
+ "sig": "Mikxv5nro7QJXZPz2avgrcyP/AvKczPh0QXTW5xGe4hqqPZVNxlgKJrahRM4WtiHcFR1yoXTKOCKQy0beoHcUA==",
+ "size": 5762727,
+ "sha256": "6dbc01bcbd05579a3240db6d9adb30e5245a3181443af772d42d4c7a35ae1cfd",
  "full": false
 }
