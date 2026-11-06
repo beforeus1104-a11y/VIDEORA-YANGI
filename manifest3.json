@@ -1,13 +1,12 @@
 {
- "version": "7.2.0",
+ "version": "7.2.1",
  "date": "2026-11-06",
  "notes": [
-  "Ssenariy, hikoya va sahnalarni endi birinchi bo'lib bepul Google Gemini yozadi (ChatGPT shart emas)",
-  "Google «band» desa, boshqa bepul Gemini modellari sinaladi va bir necha marta qayta uriniladi"
+  "Stickman: ssenariyni Google Gemini to'liq yozadi — javob shakli aniq beriladi, tezroq ishlaydi, osilib qolmaydi"
  ],
- "file": "videora-7.2.0.bin",
- "sig": "Y3Et75Eja2n0AJ1VbRmC6fc9tOwYwV9htCulNFJ+56jPzGxjoWK5UiGKfrZLUJocOg7YeS5x/gBc2ifhAYZEBg==",
- "size": 5766131,
- "sha256": "9355c5beab09d36ed423fb8402478d18e5b35375eafb761e5a3fcffc486c187b",
+ "file": "videora-7.2.1.bin",
+ "sig": "xF+gokJf/Zx9r+mrob/djvT/qIIXjVK7fFtkjIdfc6P2hgPNFM/l0UiDbTV+uhrMgULAvA81Zq7T0buf/7p4cA==",
+ "size": 5772164,
+ "sha256": "5a2ba87ed6d02ad76f3ed698af8809496e5090fe2fc0f9f01716d090186494c7",
  "full": false
 }
