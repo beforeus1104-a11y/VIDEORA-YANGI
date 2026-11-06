@@ -1,12 +1,13 @@
 {
- "version": "7.1.9",
+ "version": "7.2.0",
  "date": "2026-11-06",
  "notes": [
-  "Yangi ko'rinishdagi Google kalitlari (AQ. bilan boshlanadigan) ham qabul qilinadi — «Saqlash» ishlaydi"
+  "Ssenariy, hikoya va sahnalarni endi birinchi bo'lib bepul Google Gemini yozadi (ChatGPT shart emas)",
+  "Google «band» desa, boshqa bepul Gemini modellari sinaladi va bir necha marta qayta uriniladi"
  ],
- "file": "videora-7.1.9.bin",
- "sig": "iobKgJaToPw0l+g90cUdNuGyOOoUjjutaIenYY8XY+M+ydD1GAozhJTQ6jxgVPm550EZC26G6397f28Pno5C1w==",
- "size": 5762751,
- "sha256": "23590d018d61d6dcb48ec94d1238b8efc32329f7f9fc14b9be9882dac309f884",
+ "file": "videora-7.2.0.bin",
+ "sig": "Y3Et75Eja2n0AJ1VbRmC6fc9tOwYwV9htCulNFJ+56jPzGxjoWK5UiGKfrZLUJocOg7YeS5x/gBc2ifhAYZEBg==",
+ "size": 5766131,
+ "sha256": "9355c5beab09d36ed423fb8402478d18e5b35375eafb761e5a3fcffc486c187b",
  "full": false
 }
