@@ -1,12 +1,12 @@
 {
- "version": "7.1.6",
+ "version": "7.1.7",
  "date": "2026-11-06",
  "notes": [
-  "iPhone: ovoz va musiqa fayllarini tanlab bo'lmasligi tuzatildi (fayllar oynasida kulrang bo'lib qolardi)"
+  "Google Gemini ishlamasa, sababi aniq yoziladi va bepul Google kalitini qanday kiritish aytiladi"
  ],
- "file": "videora-7.1.6.bin",
- "sig": "pEl7IANJ8TfuepqGOO4tjGbBsEevyfU5wPTGYJDUBA9L9vXWgfkOBwY10pwP6S0sIM0qExHU09p3W9HYwm5aGA==",
- "size": 5759231,
- "sha256": "c9754f4d8cad8434f7d7769e06ac78a72c4df0d1cadf6d0d189b266f537a8f28",
+ "file": "videora-7.1.7.bin",
+ "sig": "YRAyGPVN4v1NaRraJ1PuiItIoQXvTol/gXQsXK5mJYqm9HyxI87lAJ9O+iwfAtL6XZUwOcPfNlcUEJ70Mud4sw==",
+ "size": 5759760,
+ "sha256": "63b9964fbb780a0a5cf3fb9427717893cf5a226c62d7f7748ed3fade4583e237",
  "full": false
 }
