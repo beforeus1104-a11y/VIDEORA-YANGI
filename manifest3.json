@@ -1,12 +1,12 @@
 {
- "version": "7.1.8",
+ "version": "7.1.9",
  "date": "2026-11-06",
  "notes": [
-  "Bepul Google kalitini xato xabari ostidagi tugma orqali darhol kiritish mumkin (ssenariy yo'q bo'lsa ham)"
+  "Yangi ko'rinishdagi Google kalitlari (AQ. bilan boshlanadigan) ham qabul qilinadi — «Saqlash» ishlaydi"
  ],
- "file": "videora-7.1.8.bin",
- "sig": "Mikxv5nro7QJXZPz2avgrcyP/AvKczPh0QXTW5xGe4hqqPZVNxlgKJrahRM4WtiHcFR1yoXTKOCKQy0beoHcUA==",
- "size": 5762727,
- "sha256": "6dbc01bcbd05579a3240db6d9adb30e5245a3181443af772d42d4c7a35ae1cfd",
+ "file": "videora-7.1.9.bin",
+ "sig": "iobKgJaToPw0l+g90cUdNuGyOOoUjjutaIenYY8XY+M+ydD1GAozhJTQ6jxgVPm550EZC26G6397f28Pno5C1w==",
+ "size": 5762751,
+ "sha256": "23590d018d61d6dcb48ec94d1238b8efc32329f7f9fc14b9be9882dac309f884",
  "full": false
 }
