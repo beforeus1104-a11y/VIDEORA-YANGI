@@ -1,15 +1,14 @@
 {
- "version": "7.3.0",
+ "version": "7.3.1",
  "date": "2026-11-07",
  "notes": [
-  "Stickman: rasmlarni dasturdan chiqmay Google Flow'da avtomatik yaratish (yangi kompyuter va telefon dasturida)",
-  "Video sifati 4K gacha",
-  "Ovoz effekti aynan kadr almashganda chalinadi"
+  "Telefon dasturida «ChatGPT» tugmasi ChatGPT ilovasini ochadi (o'rnatilgan bo'lsa)",
+  "Google Flow'da avtomatik rasm yaratish, 4K video"
  ],
- "file": "videora-7.3.0.bin",
- "sig": "BkYYE4CaqClCgMHvdJ7sUpF4Vas2v20Z61w223DP4+OCORqbRmoLru3P2z4uPBx7vcS0l45eu4hbPng0BJHx5g==",
- "size": 6044938,
- "sha256": "12d95f29161c2dd3e0461b27d619f4cabcd60589e9adeff840a192371598e99d",
+ "file": "videora-7.3.1.bin",
+ "sig": "WLiO4Kvk/gL6MeuNEbR//YN19ZiCTi4izpdqhdTSQsO1F2zoN/FOy6BGcxlr2vJECoHw90y7Kbp5Krh2oZzLhA==",
+ "size": 6046333,
+ "sha256": "b19a826578192faecd2484e0caf7491d4c1336a2cde7a358ff11889c5f76aade",
  "full": false,
- "apk": "https://raw.githubusercontent.com/beforeus1104-a11y/videora-yangi/main/yuklab-olish/Videora-7.3.0.apk"
+ "apk": "https://raw.githubusercontent.com/beforeus1104-a11y/videora-yangi/main/yuklab-olish/Videora-7.3.1.apk"
 }
