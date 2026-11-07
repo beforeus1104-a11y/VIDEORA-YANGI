@@ -1,14 +1,13 @@
 {
- "version": "7.3.1",
- "date": "2026-11-07",
+ "version": "7.3.2",
+ "date": "2026-11-08",
  "notes": [
-  "Telefon dasturida «ChatGPT» tugmasi ChatGPT ilovasini ochadi (o'rnatilgan bo'lsa)",
-  "Google Flow'da avtomatik rasm yaratish, 4K video"
+  "Telefonda «ChatGPT» tugmasi yana ChatGPT saytini ochadi (agent rejimi saytda bor)"
  ],
- "file": "videora-7.3.1.bin",
- "sig": "WLiO4Kvk/gL6MeuNEbR//YN19ZiCTi4izpdqhdTSQsO1F2zoN/FOy6BGcxlr2vJECoHw90y7Kbp5Krh2oZzLhA==",
- "size": 6046333,
- "sha256": "b19a826578192faecd2484e0caf7491d4c1336a2cde7a358ff11889c5f76aade",
+ "file": "videora-7.3.2.bin",
+ "sig": "C8DGckTBEBWYqeQ5sFsEjhdWU0obm1fTOwuUe08vj5JdLP//J937UumUPWLY6T0qV/FMddg/OahcXasb2+eENw==",
+ "size": 6044938,
+ "sha256": "be5343320fcf0d7623ce5c1f9730d50c17cd06b7947555e38dea6a3a1098176b",
  "full": false,
  "apk": "https://raw.githubusercontent.com/beforeus1104-a11y/videora-yangi/main/yuklab-olish/Videora-7.3.1.apk"
 }
