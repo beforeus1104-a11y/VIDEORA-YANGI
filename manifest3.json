@@ -1,14 +1,13 @@
 {
- "version": "7.2.2",
+ "version": "7.2.3",
  "date": "2026-11-07",
  "notes": [
-  "Quiz rasm promptlari: sahnadagi «personajlar guruhi» qatori endi tanlangan 4 gumondor bilan zid kelmaydi",
-  "Master promptdagi savol belgisi haqidagi qarama-qarshi ko'rsatma tuzatildi",
-  "Google ulangan bo'lsa, ovozni Gemini eshitadi — «OpenAI transkripsiya bo'lmadi» degan chalg'ituvchi yozuv chiqmaydi"
+  "Detective Quiz: sizning master promptingiz 4 tilda (English, Español, हिन्दी, O'zbek) — ChatGPT avval savollar soni, taymer, kanal nomi va mavzuni so'raydi, keyin bosqichma-bosqich ishlaydi",
+  "ChatGPT bergan JSON kod: savol va dalil video tilida yozuvlarga tushadi, savollar soni loyihaga moslanadi"
  ],
- "file": "videora-7.2.2.bin",
- "sig": "Z1XzUc/PSQ1XfvcY+yerxE2s9BR8/07etyRl7gc7vSaKKBnRE3n3+SEcxOpnk6u38tr7iDDpixPQVnL6AgM/Og==",
- "size": 5774251,
- "sha256": "8571cc60626a65dc16d322b07c21d31a6882abc7c7c8937ae714cb67566fa854",
+ "file": "videora-7.2.3.bin",
+ "sig": "2kGm+6dXdSAkJ9PMfEJppeHtQDIttxGNXKLtIjw91eXqNTP9DQrr7k0T/YTPbuk2plA1wgJe6AybOQQeTdmCwg==",
+ "size": 5834250,
+ "sha256": "eb118a36c0e3e84bb64ab5debaf8fdc4d7d4ac825ab32c1e1a86251353712448",
  "full": false
 }
