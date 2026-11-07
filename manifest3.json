@@ -1,13 +1,13 @@
 {
- "version": "7.3.5",
+ "version": "7.3.6",
  "date": "2026-11-08",
  "notes": [
-  "Flow: rasmlar bir vaqtda 4 tadan yaratiladi, har biri o'z kadriga"
+  "Flow: kadr yonidagi ↻ tugmasi shu kadr rasmini qayta yaratadi"
  ],
- "file": "videora-7.3.5.bin",
- "sig": "eAMnEcCHelYMQa49DvbbrYLPdV1MbHWJBoQO1iFWy56gPt+qcE9GAmraFJd/HjkZVbzKOhmuOiGeNiTYRiQeLg==",
- "size": 6071863,
- "sha256": "2916d97bb1992ee9113b4b7f96e5ea8b3c79482da8119d5a92be646dd6b46018",
+ "file": "videora-7.3.6.bin",
+ "sig": "XcybWtyJa0SQj7lGUW+e1j27Wg91f+OmkKiFaFBFcPi9iROi4hGjxTijqiDrK8ffb8m2EVKfZMviRcwFujOqgw==",
+ "size": 6074751,
+ "sha256": "f108afd5c1c8dd1215d02a227b7a514100be9c61559f0b0ecd2c044d544193d4",
  "full": false,
  "apk": "https://raw.githubusercontent.com/beforeus1104-a11y/videora-yangi/main/yuklab-olish/Videora-7.3.1.apk"
 }
