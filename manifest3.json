@@ -1,15 +1,15 @@
 {
- "version": "7.2.8",
+ "version": "7.3.0",
  "date": "2026-11-07",
  "notes": [
-  "Stickman: 36 xil subtitr uslubi",
-  "Kadr almashganda 34 xil ovoz effekti: har kadrda, ba'zi kadrlarda, faqat sarlavhalarda yoki yo'q",
-  "Ovoz bir nechta fayl bo'lsa (ElevenLabs), hammasini birdan tanlab bitta ovozga ulash",
-  "Eski ssenariydan qolgan o'zbekcha yorliqlar endi chiqmaydi"
+  "Stickman: rasmlarni dasturdan chiqmay Google Flow'da avtomatik yaratish (yangi kompyuter va telefon dasturida)",
+  "Video sifati 4K gacha",
+  "Ovoz effekti aynan kadr almashganda chalinadi"
  ],
- "file": "videora-7.2.8.bin",
- "sig": "bJ+RxA8cbHAONwMJ5DDOgThK6ZUU2lxCeVULc2sTuoAwV/2OKInZPrqbhQj7t8hNS+VkzAR+T4uBivdlqxKK0A==",
- "size": 6018925,
- "sha256": "a237370054c4b1b0844ffc114999e788b7dd6bf4b4438c4311f817c97f4aecf7",
- "full": false
+ "file": "videora-7.3.0.bin",
+ "sig": "BkYYE4CaqClCgMHvdJ7sUpF4Vas2v20Z61w223DP4+OCORqbRmoLru3P2z4uPBx7vcS0l45eu4hbPng0BJHx5g==",
+ "size": 6044938,
+ "sha256": "12d95f29161c2dd3e0461b27d619f4cabcd60589e9adeff840a192371598e99d",
+ "full": false,
+ "apk": "https://raw.githubusercontent.com/beforeus1104-a11y/videora-yangi/main/yuklab-olish/Videora-7.3.0.apk"
 }
