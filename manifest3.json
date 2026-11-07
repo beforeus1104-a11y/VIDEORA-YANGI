@@ -1,13 +1,15 @@
 {
- "version": "7.2.7",
+ "version": "7.2.8",
  "date": "2026-11-07",
  "notes": [
-  "Stickman: ortiqcha sozlamalar olib tashlandi (huk, kichik yorliq, eski subtitr, ovoz tili)",
-  "Stickman Stories bo'limi yangi videolar uchun yashirildi — hammasi ChatGPT master prompt orqali"
+  "Stickman: 36 xil subtitr uslubi",
+  "Kadr almashganda 34 xil ovoz effekti: har kadrda, ba'zi kadrlarda, faqat sarlavhalarda yoki yo'q",
+  "Ovoz bir nechta fayl bo'lsa (ElevenLabs), hammasini birdan tanlab bitta ovozga ulash",
+  "Eski ssenariydan qolgan o'zbekcha yorliqlar endi chiqmaydi"
  ],
- "file": "videora-7.2.7.bin",
- "sig": "fWwsEjr6bNVmMf7wnS25EqoUrOfNBB3kHDe4I+h7WeDA/fhh1MJAoP9oKt4JJwkjtLUWuZ/l6+MQ1G/i1hxGoA==",
- "size": 5999129,
- "sha256": "c1d49c337ee80d9f1b7d51f5b80313c07b8ab0d2e9a38a8d8b27045d42009f9f",
+ "file": "videora-7.2.8.bin",
+ "sig": "bJ+RxA8cbHAONwMJ5DDOgThK6ZUU2lxCeVULc2sTuoAwV/2OKInZPrqbhQj7t8hNS+VkzAR+T4uBivdlqxKK0A==",
+ "size": 6018925,
+ "sha256": "a237370054c4b1b0844ffc114999e788b7dd6bf4b4438c4311f817c97f4aecf7",
  "full": false
 }
