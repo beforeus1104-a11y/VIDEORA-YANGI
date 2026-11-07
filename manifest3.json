@@ -1,13 +1,14 @@
 {
- "version": "7.2.4",
+ "version": "7.2.6",
  "date": "2026-11-07",
  "notes": [
-  "Detective Quiz sozlamalari soddalashtirildi: master prompt so'raydigan sozlamalar (savollar soni, mavzu, hazil, auditoriya, qiyinlik, kanal nomi) olib tashlandi",
-  "ChatGPT JSON kodida taymer ham keladi va o'zi qo'yiladi"
+  "Stickman bo'limi soddalashtirildi: 3 qadam, har qadamda tushuntirish",
+  "Promptlardagi ekran yozuvlari (oltin sarlavha), seriya yorlig'i va karaoke subtitr qo'shildi",
+  "10 ta yo'nalish uchun master promptlar"
  ],
- "file": "videora-7.2.4.bin",
- "sig": "ISpSNFjxwUqAcmbSRQWNUUV+dg0Ukk1ll0ydTqjLcn8TR2gdNENTDkOsQqDnYeiigMgefu5kwpRqli/F5FLhoQ==",
- "size": 5837686,
- "sha256": "bab3e6758677a58780ebc016bc16202c68cf412278be44f2e289b159f05c35c9",
+ "file": "videora-7.2.6.bin",
+ "sig": "DiatWg+bv+sns/SiIPC5gcFp8XaEl76DXEKDOM3J8mZIo46cPl+15La9ipYfiyfFpViX/CZVwf69711r6qsYKQ==",
+ "size": 5995273,
+ "sha256": "a91bbffb11e846380ba1eca064d5ddbd87a98c9f881a55e9758c664432799ca9",
  "full": false
 }
