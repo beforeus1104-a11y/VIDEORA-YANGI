@@ -1,13 +1,13 @@
 {
- "version": "7.2.3",
+ "version": "7.2.4",
  "date": "2026-11-07",
  "notes": [
-  "Detective Quiz: sizning master promptingiz 4 tilda (English, Español, हिन्दी, O'zbek) — ChatGPT avval savollar soni, taymer, kanal nomi va mavzuni so'raydi, keyin bosqichma-bosqich ishlaydi",
-  "ChatGPT bergan JSON kod: savol va dalil video tilida yozuvlarga tushadi, savollar soni loyihaga moslanadi"
+  "Detective Quiz sozlamalari soddalashtirildi: master prompt so'raydigan sozlamalar (savollar soni, mavzu, hazil, auditoriya, qiyinlik, kanal nomi) olib tashlandi",
+  "ChatGPT JSON kodida taymer ham keladi va o'zi qo'yiladi"
  ],
- "file": "videora-7.2.3.bin",
- "sig": "2kGm+6dXdSAkJ9PMfEJppeHtQDIttxGNXKLtIjw91eXqNTP9DQrr7k0T/YTPbuk2plA1wgJe6AybOQQeTdmCwg==",
- "size": 5834250,
- "sha256": "eb118a36c0e3e84bb64ab5debaf8fdc4d7d4ac825ab32c1e1a86251353712448",
+ "file": "videora-7.2.4.bin",
+ "sig": "ISpSNFjxwUqAcmbSRQWNUUV+dg0Ukk1ll0ydTqjLcn8TR2gdNENTDkOsQqDnYeiigMgefu5kwpRqli/F5FLhoQ==",
+ "size": 5837686,
+ "sha256": "bab3e6758677a58780ebc016bc16202c68cf412278be44f2e289b159f05c35c9",
  "full": false
 }
