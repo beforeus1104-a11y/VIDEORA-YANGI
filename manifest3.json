@@ -1,14 +1,13 @@
 {
- "version": "7.2.6",
+ "version": "7.2.7",
  "date": "2026-11-07",
  "notes": [
-  "Stickman bo'limi soddalashtirildi: 3 qadam, har qadamda tushuntirish",
-  "Promptlardagi ekran yozuvlari (oltin sarlavha), seriya yorlig'i va karaoke subtitr qo'shildi",
-  "10 ta yo'nalish uchun master promptlar"
+  "Stickman: ortiqcha sozlamalar olib tashlandi (huk, kichik yorliq, eski subtitr, ovoz tili)",
+  "Stickman Stories bo'limi yangi videolar uchun yashirildi — hammasi ChatGPT master prompt orqali"
  ],
- "file": "videora-7.2.6.bin",
- "sig": "DiatWg+bv+sns/SiIPC5gcFp8XaEl76DXEKDOM3J8mZIo46cPl+15La9ipYfiyfFpViX/CZVwf69711r6qsYKQ==",
- "size": 5995273,
- "sha256": "a91bbffb11e846380ba1eca064d5ddbd87a98c9f881a55e9758c664432799ca9",
+ "file": "videora-7.2.7.bin",
+ "sig": "fWwsEjr6bNVmMf7wnS25EqoUrOfNBB3kHDe4I+h7WeDA/fhh1MJAoP9oKt4JJwkjtLUWuZ/l6+MQ1G/i1hxGoA==",
+ "size": 5999129,
+ "sha256": "c1d49c337ee80d9f1b7d51f5b80313c07b8ab0d2e9a38a8d8b27045d42009f9f",
  "full": false
 }
