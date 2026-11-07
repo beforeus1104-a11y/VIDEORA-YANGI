@@ -1,13 +1,13 @@
 {
- "version": "7.3.3",
+ "version": "7.3.4",
  "date": "2026-11-08",
  "notes": [
-  "Telefonda «ChatGPT» tugmasi ChatGPT ilovasini ochadi; rasmlar Flow saytida yaratiladi"
+  "Stickman: AI yordamchi (Google Gemini, bepul kalit) — loyihani ko'radi, kadr matni, rasm promptlari, yozuvlar va sozlamalarni o'zgartiradi"
  ],
- "file": "videora-7.3.3.bin",
- "sig": "dhl6nw4D8AJ3qVYNLgO5643xMtiH2Mo15aTf8P1PXHsgOUesushW6BvDMRYOgcuirIYNkb4sNF5Abul6t+IL/w==",
- "size": 6046333,
- "sha256": "74dbf3b4d7833fdcd3c219f89d8c64fe16dceb8f95dd791059b2f1fd8ba46add",
+ "file": "videora-7.3.4.bin",
+ "sig": "rwGkH8F9xnSAE9owxX5XbOfX249iy+eTnVY09r487Qb+tbiCUAgmzVeOEMTRk9jzDWQNf3TpdlMMz5Bxpfb4WA==",
+ "size": 6062161,
+ "sha256": "82608e65f6c0a5ff540bf81e2c6851609052f474912c97972bdd643b9a6fdff4",
  "full": false,
  "apk": "https://raw.githubusercontent.com/beforeus1104-a11y/videora-yangi/main/yuklab-olish/Videora-7.3.1.apk"
 }
