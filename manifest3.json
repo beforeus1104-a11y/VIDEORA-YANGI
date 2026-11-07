@@ -1,12 +1,14 @@
 {
- "version": "7.2.1",
- "date": "2026-11-06",
+ "version": "7.2.2",
+ "date": "2026-11-07",
  "notes": [
-  "Stickman: ssenariyni Google Gemini to'liq yozadi — javob shakli aniq beriladi, tezroq ishlaydi, osilib qolmaydi"
+  "Quiz rasm promptlari: sahnadagi «personajlar guruhi» qatori endi tanlangan 4 gumondor bilan zid kelmaydi",
+  "Master promptdagi savol belgisi haqidagi qarama-qarshi ko'rsatma tuzatildi",
+  "Google ulangan bo'lsa, ovozni Gemini eshitadi — «OpenAI transkripsiya bo'lmadi» degan chalg'ituvchi yozuv chiqmaydi"
  ],
- "file": "videora-7.2.1.bin",
- "sig": "xF+gokJf/Zx9r+mrob/djvT/qIIXjVK7fFtkjIdfc6P2hgPNFM/l0UiDbTV+uhrMgULAvA81Zq7T0buf/7p4cA==",
- "size": 5772164,
- "sha256": "5a2ba87ed6d02ad76f3ed698af8809496e5090fe2fc0f9f01716d090186494c7",
+ "file": "videora-7.2.2.bin",
+ "sig": "Z1XzUc/PSQ1XfvcY+yerxE2s9BR8/07etyRl7gc7vSaKKBnRE3n3+SEcxOpnk6u38tr7iDDpixPQVnL6AgM/Og==",
+ "size": 5774251,
+ "sha256": "8571cc60626a65dc16d322b07c21d31a6882abc7c7c8937ae714cb67566fa854",
  "full": false
 }
