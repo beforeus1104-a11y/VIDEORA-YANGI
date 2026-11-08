@@ -1,14 +1,13 @@
 {
- "version": "7.4.8",
+ "version": "7.4.9",
  "date": "2026-11-08",
  "notes": [
-  "Flow orqada ishlashda davom etadi (Videora'ga qaytsangiz ham)",
-  "Flow'da prompt maydoni yo'qolsa dastur o'zi qaytaradi va davom etadi"
+  "Rasm promptlarini nusxalash tugmalari (hammasi va 40 tadan bloklar)"
  ],
- "file": "videora-7.4.8.bin",
- "sig": "UGAVszMsD2erHTXa1h8fNHpB4ajo5qnrhWufHkORNeo+8fauvSDzgHIErAuCt3JnRj7sSYq1VzpZ+i8lERTEXQ==",
- "size": 6199589,
- "sha256": "18c620613b3db51e15f70cb47162e9b6d74aad120f50a82b9a114663014ceb58",
+ "file": "videora-7.4.9.bin",
+ "sig": "dapHH44jWS/CMQU2opFGR5ElPMnxvMSld857ROS9vlytsJxNU3X4tcCVB9VvANHXTQc4IdK5RWBKytiPLtGEpQ==",
+ "size": 6201299,
+ "sha256": "f6db67d659ce4aabbbab8909a1b1ac7a3641cd9ce5d3e4098c2ba626219a3e32",
  "full": false,
  "apk": "https://raw.githubusercontent.com/beforeus1104-a11y/videora-yangi/main/yuklab-olish/Videora-7.3.1.apk"
 }
