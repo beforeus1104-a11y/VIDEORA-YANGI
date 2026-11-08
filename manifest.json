@@ -1,14 +1,14 @@
 {
- "version": "7.4.5",
+ "version": "7.4.6",
  "date": "2026-11-08",
  "notes": [
-  "Google: yangi model nomlari Google'dan olinadi, kunlik limit tugasa keyingi model ishlatiladi",
-  "Ssenariy kamroq so'rov bilan yoziladi (bepul limitni tejaydi)"
+  "Ssenariy: davomiylik × 150 so'z, rasmlar soni = davomiylik ÷ kadr vaqti, sahnalar vaqtlari bilan",
+  "Kvota tugasa yozilgani saqlanadi va davom ettiriladi; ChatGPT zaxira"
  ],
- "file": "videora-7.4.5.bin",
- "sig": "MMob3eDYHammksNt4D6ee/eQo4BISgXLwMzO1Yg0gvRxQ0Pnd3/3W2AnqfLzPC3urg8NEHiwxLXyJAvKAHHiMw==",
- "size": 6185779,
- "sha256": "960cde597073c12251d476bf54a50f11f2c85396b5af575a6f72f23943737088",
+ "file": "videora-7.4.6.bin",
+ "sig": "tTzemVMyITo42Y5GFi13Vdg6p2uLaNEY0/1oSdoq7q5U2r4GRcFmw5Zdwm+urRwIo8MY0RimZ0TuTkw8qW2MKw==",
+ "size": 6193365,
+ "sha256": "8bd9c751bf4ba90c84330ab004098afd9ab142af993bfd25db53d829776625b4",
  "full": false,
  "apk": "https://raw.githubusercontent.com/beforeus1104-a11y/videora-yangi/main/yuklab-olish/Videora-7.3.1.apk"
 }
