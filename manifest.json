@@ -1,13 +1,14 @@
 {
- "version": "7.4.1",
+ "version": "7.4.3",
  "date": "2026-11-08",
  "notes": [
-  "Stickman: yangi «Agar sen...» yo'nalishi (master prompt)"
+  "Flow: rasmlar o'z kadriga aniq tushadi, yana 4 tadan",
+  "Ovoz: ElevenLabs havolasi va Google AI Studio ilova ichida"
  ],
- "file": "videora-7.4.1.bin",
- "sig": "FU0aemYmj769hcU1u1SdgQA2BiX5R6yQ79rxXhErjLNVC3EE+MRVk8VWk6MJKVT4qS74xY+hPzBIhdt0jOjw9g==",
- "size": 6147427,
- "sha256": "8365576ec9ad63631f6433ed94bef5688e2f31d833d7491216bc2b701ed2d428",
+ "file": "videora-7.4.3.bin",
+ "sig": "PI3Vwa8TiCM5phN7oId7wusiJk/G50pAPHAl+IJEY7Ue5v0RSImzPwMcoGIcMnHHxEg9vEVXb0w53JYdp3JJyQ==",
+ "size": 6172833,
+ "sha256": "0e3f2555d1a61a41fafe62713bc602dc16b9adc9c8ede65b19b38dd405a9f651",
  "full": false,
  "apk": "https://raw.githubusercontent.com/beforeus1104-a11y/videora-yangi/main/yuklab-olish/Videora-7.3.1.apk"
 }
