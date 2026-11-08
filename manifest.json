@@ -1,16 +1,13 @@
 {
- "version": "7.3.9",
+ "version": "7.4.0",
  "date": "2026-11-08",
  "notes": [
-  "Stickman: jimliklarni qisqartirish (rasmlar joyidan siljimaydi)",
-  "Ovoz qismlari ro'yxati: ↑ ↓ ✕, yana qism qo'shish",
-  "Video ostida vaqt chizig'i: kadrlar, ovoz to'lqini, kadr vaqti",
-  "8 ta uslub shabloni"
+  "Stickman: ssenariy va rasm promptlarini dastur o'zi yozadi (Gemini)"
  ],
- "file": "videora-7.3.9.bin",
- "sig": "EZyiiByYVN5dE+fkVlChba4dJ1kZ28Ag42I2BIHSvIooM/pHm0+5fpPCKoAYQZ/D8wlWOeP5FWU9JFbAHDweUw==",
- "size": 6108939,
- "sha256": "a8f6bc0e234d0858acfe2357b64754f7d20f65c0fa5bed5a270b1bb0db9f20e9",
+ "file": "videora-7.4.0.bin",
+ "sig": "EecZQEgyl06SfUacE5nD2VH513mON2jHHE0Pi/HZD+CF+G29e+ANn/NUZXoigHZ3x9ddqvmi7ZBSKXqho/7E7A==",
+ "size": 6131166,
+ "sha256": "8365f63b66b09f288a76093556024f59e2f4388b6671ddd87753d80eee44d87b",
  "full": false,
  "apk": "https://raw.githubusercontent.com/beforeus1104-a11y/videora-yangi/main/yuklab-olish/Videora-7.3.1.apk"
 }
