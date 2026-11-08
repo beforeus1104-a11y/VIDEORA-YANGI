@@ -1,14 +1,14 @@
 {
- "version": "7.4.6",
+ "version": "7.4.7",
  "date": "2026-11-08",
  "notes": [
-  "Ssenariy: davomiylik × 150 so'z, rasmlar soni = davomiylik ÷ kadr vaqti, sahnalar vaqtlari bilan",
-  "Kvota tugasa yozilgani saqlanadi va davom ettiriladi; ChatGPT zaxira"
+  "Ssenariy qisqa chiqsa bo'lakma-bo'lak kerakli uzunlikka yetkaziladi (so'zlarni dastur sanaydi)",
+  "Mavzu siz yozgandek qoladi"
  ],
- "file": "videora-7.4.6.bin",
- "sig": "tTzemVMyITo42Y5GFi13Vdg6p2uLaNEY0/1oSdoq7q5U2r4GRcFmw5Zdwm+urRwIo8MY0RimZ0TuTkw8qW2MKw==",
- "size": 6193365,
- "sha256": "8bd9c751bf4ba90c84330ab004098afd9ab142af993bfd25db53d829776625b4",
+ "file": "videora-7.4.7.bin",
+ "sig": "Vf1t27I00VBO8nlie7rED8rgbOyOUEqDwMGbtVPsDLLS4LTlu/kyBs9/74+ZV6qeTZRcuF/A/P+VAFP1o0Eoyw==",
+ "size": 6194683,
+ "sha256": "c88eb4a8e232462020c20f390a1344325ca8608bb8a8cf519296dff6a8af6a65",
  "full": false,
  "apk": "https://raw.githubusercontent.com/beforeus1104-a11y/videora-yangi/main/yuklab-olish/Videora-7.3.1.apk"
 }
