@@ -1,13 +1,13 @@
 {
- "version": "7.5.4",
+ "version": "7.5.5",
  "date": "2026-11-09",
  "notes": [
-  "Stickman: rasm va subtitrlar matndagi gaplar bo'yicha ovozga moslanadi"
+  "Telefonda ssenariy tezroq yoziladi: bo'laklar bir vaqtda so'raladi, soat va holat ko'rinadi"
  ],
- "file": "videora-7.5.4.bin",
- "sig": "puv3ZBQ2K/QgbU/NDYKKInts9ba0B+9GIFL/97Es4j14wycLLV++y5Rt2dOAnRkHtaDrmK/xAjLqNiC6tuNZTg==",
- "size": 6229359,
- "sha256": "86c0e662c10e159ad5325f5104e1d5b146f5cdcbc774d979c120d801f82964a0",
+ "file": "videora-7.5.5.bin",
+ "sig": "cj3BMCpfA9gUF9MoLOTakpVTgsrNnCXlUndorNsF4qxSJJK0QpfXQ/WzgyNph9Nn/lMVMJXZjHIkli+rKRV0uA==",
+ "size": 6235119,
+ "sha256": "d7852c96316073a84e86c3d040723efa7781414b61c7dead3593d08504b8e149",
  "full": false,
  "apk": "https://raw.githubusercontent.com/beforeus1104-a11y/videora-yangi/main/yuklab-olish/Videora-7.3.1.apk"
 }
