@@ -1,13 +1,13 @@
 {
- "version": "7.5.3",
+ "version": "7.5.4",
  "date": "2026-11-09",
  "notes": [
-  "Stickman: rasmlar fayl nomidagi raqam bo'yicha to'g'ri tartiblanadi"
+  "Stickman: rasm va subtitrlar matndagi gaplar bo'yicha ovozga moslanadi"
  ],
- "file": "videora-7.5.3.bin",
- "sig": "TYZB7iA3vG8oss6oPDkCfQ+jfd5tq7zs+kxOc3SZjjwG+Fcs8NRVOIbHPLhMD0WP54fKfY0e+tbEEoAvEtaqiQ==",
- "size": 6222762,
- "sha256": "4da24ffce8c8dc852ab5ce2dacd11996654de42da8ee253642aea6764019125c",
+ "file": "videora-7.5.4.bin",
+ "sig": "puv3ZBQ2K/QgbU/NDYKKInts9ba0B+9GIFL/97Es4j14wycLLV++y5Rt2dOAnRkHtaDrmK/xAjLqNiC6tuNZTg==",
+ "size": 6229359,
+ "sha256": "86c0e662c10e159ad5325f5104e1d5b146f5cdcbc774d979c120d801f82964a0",
  "full": false,
  "apk": "https://raw.githubusercontent.com/beforeus1104-a11y/videora-yangi/main/yuklab-olish/Videora-7.3.1.apk"
 }
