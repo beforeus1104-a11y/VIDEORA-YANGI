@@ -1,14 +1,16 @@
 {
- "version": "7.3.8",
+ "version": "7.3.9",
  "date": "2026-11-08",
  "notes": [
-  "Stickman aniq rejim: faqat ElevenLabs pauza belgilari (≥0,98 s) chegara; gap orasidagi tabiiy pauzalar chalg'itmaydi",
-  "Matn va ovoz mos kelmasa aniq ogohlantirish"
+  "Stickman: jimliklarni qisqartirish (rasmlar joyidan siljimaydi)",
+  "Ovoz qismlari ro'yxati: ↑ ↓ ✕, yana qism qo'shish",
+  "Video ostida vaqt chizig'i: kadrlar, ovoz to'lqini, kadr vaqti",
+  "8 ta uslub shabloni"
  ],
- "file": "videora-7.3.8.bin",
- "sig": "V1X9O7MolbkYsKBnIrq02wfEcZaI5KunfgefYZkkErs/K5uE33VGS3hr4bTf1zvztYK+wKbnHrw49WsNJosqQA==",
- "size": 6088598,
- "sha256": "e2c94ad7f912208848d85a4a3aa5f415237d6ebdee4d9af2b8041414ee92eef7",
+ "file": "videora-7.3.9.bin",
+ "sig": "EZyiiByYVN5dE+fkVlChba4dJ1kZ28Ag42I2BIHSvIooM/pHm0+5fpPCKoAYQZ/D8wlWOeP5FWU9JFbAHDweUw==",
+ "size": 6108939,
+ "sha256": "a8f6bc0e234d0858acfe2357b64754f7d20f65c0fa5bed5a270b1bb0db9f20e9",
  "full": false,
  "apk": "https://raw.githubusercontent.com/beforeus1104-a11y/videora-yangi/main/yuklab-olish/Videora-7.3.1.apk"
 }
