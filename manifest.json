@@ -1,14 +1,14 @@
 {
- "version": "7.4.3",
+ "version": "7.4.4",
  "date": "2026-11-08",
  "notes": [
-  "Flow: rasmlar o'z kadriga aniq tushadi, yana 4 tadan",
-  "Ovoz: ElevenLabs havolasi va Google AI Studio ilova ichida"
+  "Ssenariy so'ralgan uzunlikda yoziladi (qismma-qism, so'zlar sanaladi)",
+  "Flow: Google «shubhali faollik» desa darhol to'xtaydi; sekinroq yuboradi"
  ],
- "file": "videora-7.4.3.bin",
- "sig": "PI3Vwa8TiCM5phN7oId7wusiJk/G50pAPHAl+IJEY7Ue5v0RSImzPwMcoGIcMnHHxEg9vEVXb0w53JYdp3JJyQ==",
- "size": 6172833,
- "sha256": "0e3f2555d1a61a41fafe62713bc602dc16b9adc9c8ede65b19b38dd405a9f651",
+ "file": "videora-7.4.4.bin",
+ "sig": "iTIK1gidlQCh67zkgtvoCbWloAXJWJtQGIkUrOGx/biDoLYzEOj63rZ5aFuZmtVVsN9bm8jnobY9i4FwLLqgZQ==",
+ "size": 6180336,
+ "sha256": "a3b62fb3de76e1447a21f5c7417766ab1187f6c7ae80e0d258a993abad4b85f9",
  "full": false,
  "apk": "https://raw.githubusercontent.com/beforeus1104-a11y/videora-yangi/main/yuklab-olish/Videora-7.3.1.apk"
 }
