@@ -1,14 +1,14 @@
 {
- "version": "7.4.7",
+ "version": "7.4.8",
  "date": "2026-11-08",
  "notes": [
-  "Ssenariy qisqa chiqsa bo'lakma-bo'lak kerakli uzunlikka yetkaziladi (so'zlarni dastur sanaydi)",
-  "Mavzu siz yozgandek qoladi"
+  "Flow orqada ishlashda davom etadi (Videora'ga qaytsangiz ham)",
+  "Flow'da prompt maydoni yo'qolsa dastur o'zi qaytaradi va davom etadi"
  ],
- "file": "videora-7.4.7.bin",
- "sig": "Vf1t27I00VBO8nlie7rED8rgbOyOUEqDwMGbtVPsDLLS4LTlu/kyBs9/74+ZV6qeTZRcuF/A/P+VAFP1o0Eoyw==",
- "size": 6194683,
- "sha256": "c88eb4a8e232462020c20f390a1344325ca8608bb8a8cf519296dff6a8af6a65",
+ "file": "videora-7.4.8.bin",
+ "sig": "UGAVszMsD2erHTXa1h8fNHpB4ajo5qnrhWufHkORNeo+8fauvSDzgHIErAuCt3JnRj7sSYq1VzpZ+i8lERTEXQ==",
+ "size": 6199589,
+ "sha256": "18c620613b3db51e15f70cb47162e9b6d74aad120f50a82b9a114663014ceb58",
  "full": false,
  "apk": "https://raw.githubusercontent.com/beforeus1104-a11y/videora-yangi/main/yuklab-olish/Videora-7.3.1.apk"
 }
