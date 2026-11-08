@@ -1,13 +1,13 @@
 {
- "version": "7.5.0",
- "date": "2026-11-08",
+ "version": "7.5.1",
+ "date": "2026-11-09",
  "notes": [
-  "Flow: yangi ko'rinishdagi prompt maydoni ham topiladi"
+  "Rasm promptlari 20 tadan nusxalanadi"
  ],
- "file": "videora-7.5.0.bin",
- "sig": "1msJoM/q6QMLxKrUgpYC9z8D3ZxfTxPWUGhYzKHdSEbR2MOdQGDYr78xyNghC00onFEqjMEjdkTobRhtkyvwNA==",
- "size": 6205959,
- "sha256": "fc5dfae96a07e4175319ab6de6b67d0144235b87cbabeb777a9ccf3b2d34d134",
+ "file": "videora-7.5.1.bin",
+ "sig": "stlqmODoHzAFBfj0wDZyJdd3uOPgO1+NJLP1rfBIHX8YUtFLTSmyq26bx+nJm2XQRgC3CqSs2/tGsgceGhdTsQ==",
+ "size": 6205966,
+ "sha256": "6c09e26995eaa09cc24836f2f9f1598f8bdda5964b25fadf9d6b973eb568c51e",
  "full": false,
  "apk": "https://raw.githubusercontent.com/beforeus1104-a11y/videora-yangi/main/yuklab-olish/Videora-7.3.1.apk"
 }
