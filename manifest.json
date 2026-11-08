@@ -1,13 +1,13 @@
 {
- "version": "7.5.1",
+ "version": "7.5.2",
  "date": "2026-11-09",
  "notes": [
-  "Rasm promptlari 20 tadan nusxalanadi"
+  "Stickman: rasm va subtitrlar ovozga aniq moslanadi"
  ],
- "file": "videora-7.5.1.bin",
- "sig": "stlqmODoHzAFBfj0wDZyJdd3uOPgO1+NJLP1rfBIHX8YUtFLTSmyq26bx+nJm2XQRgC3CqSs2/tGsgceGhdTsQ==",
- "size": 6205966,
- "sha256": "6c09e26995eaa09cc24836f2f9f1598f8bdda5964b25fadf9d6b973eb568c51e",
+ "file": "videora-7.5.2.bin",
+ "sig": "RcC6ezEp3cW2oT2zlK1pIkbKI/nKD0pNds4YlT5flx4VeQbdTMBPQQ8SkhzU/UqEU+1EyquQTtFaYtSY9PihVA==",
+ "size": 6222254,
+ "sha256": "18678805ecec6f093ab042006fab4979f96b578ba5a0787d0fa0f378159cd010",
  "full": false,
  "apk": "https://raw.githubusercontent.com/beforeus1104-a11y/videora-yangi/main/yuklab-olish/Videora-7.3.1.apk"
 }
