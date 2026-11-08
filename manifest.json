@@ -1,13 +1,14 @@
 {
- "version": "7.3.6",
+ "version": "7.3.7",
  "date": "2026-11-08",
  "notes": [
-  "Flow: kadr yonidagi ↻ tugmasi shu kadr rasmini qayta yaratadi"
+  "Stickman: aniq moslash — ElevenLabs matni pauza belgilari bilan; rasm har qator to'liq aytilgandan keyin almashadi",
+  "Belgisiz ovozda yangi moslash algoritmi va ◀ ▶ qo'lda tuzatish"
  ],
- "file": "videora-7.3.6.bin",
- "sig": "XcybWtyJa0SQj7lGUW+e1j27Wg91f+OmkKiFaFBFcPi9iROi4hGjxTijqiDrK8ffb8m2EVKfZMviRcwFujOqgw==",
- "size": 6074751,
- "sha256": "f108afd5c1c8dd1215d02a227b7a514100be9c61559f0b0ecd2c044d544193d4",
+ "file": "videora-7.3.7.bin",
+ "sig": "XTWOQKogLbBAJfh4KSZ10tkIxKYvh+Ra3jmw6lxrGJdqdGY+Xr0zeq/LIkdhKwCaAuOM8L6bS2yghWia5+SA3Q==",
+ "size": 6087814,
+ "sha256": "aae0c833c24f5eeb1a3de2466a47d776b6898d80588014dd4ae21ffd94c46c87",
  "full": false,
  "apk": "https://raw.githubusercontent.com/beforeus1104-a11y/videora-yangi/main/yuklab-olish/Videora-7.3.1.apk"
 }
