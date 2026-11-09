@@ -1,13 +1,13 @@
 {
- "version": "7.5.7",
+ "version": "7.5.8",
  "date": "2026-11-09",
  "notes": [
-  "O'z Gemini kaliti; fonli va yumshoq subtitrlar; 18 ta ovoz effekti; har bo'limga mos uslub"
+  "Faqat Umrbod tarifi 30 $; subtitrni ko'rib tanlash va o'lchamini sozlash"
  ],
- "file": "videora-7.5.7.bin",
- "sig": "wqsuc98yaSiF48kVFV015XxCuU9XCe+KFu32/jseRLKss1QoMnYAimokIHcmRHgmFU7aEXOQp33FhC+q9mq6IA==",
- "size": 7238239,
- "sha256": "5464fd1ac8aab9fd3e61e4a36e02144c2256930deecbbfa48e2a20d6f342b45b",
+ "file": "videora-7.5.8.bin",
+ "sig": "urGOKMh5fwHxLQA7WclsgrwV20if7XhqwQR9Q90Bb3v44HiCrzAvk7X4pTFNVdWy+WRwwDFSA8d1w/mIIFqK9A==",
+ "size": 7247871,
+ "sha256": "4f5b69deef4b27441dfd8bc6a3166c9a814dc397fb8c82f0190d556c7b1f379f",
  "full": false,
  "apk": "https://raw.githubusercontent.com/beforeus1104-a11y/videora-yangi/main/yuklab-olish/Videora-7.3.1.apk"
 }
