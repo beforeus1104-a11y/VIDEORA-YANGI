@@ -1,13 +1,13 @@
 {
- "version": "7.5.6",
+ "version": "7.5.7",
  "date": "2026-11-09",
  "notes": [
-  "Stickman: 10 yo'nalish yangi master promptlarda ishlaydi"
+  "O'z Gemini kaliti; fonli va yumshoq subtitrlar; 18 ta ovoz effekti; har bo'limga mos uslub"
  ],
- "file": "videora-7.5.6.bin",
- "sig": "z3HdXVvZRNYfVUBseJ/XWSNLYT+B5PDRUcSGU92dpwuFLksv+8dsHqJYmAoB2lMOYv58r/yADnXYuQ3iBIYJzA==",
- "size": 6327953,
- "sha256": "87ffbc5e35ba68295f29b5f7eaec9ee62cdea1453d842f541a3d99d103d9839f",
+ "file": "videora-7.5.7.bin",
+ "sig": "wqsuc98yaSiF48kVFV015XxCuU9XCe+KFu32/jseRLKss1QoMnYAimokIHcmRHgmFU7aEXOQp33FhC+q9mq6IA==",
+ "size": 7238239,
+ "sha256": "5464fd1ac8aab9fd3e61e4a36e02144c2256930deecbbfa48e2a20d6f342b45b",
  "full": false,
  "apk": "https://raw.githubusercontent.com/beforeus1104-a11y/videora-yangi/main/yuklab-olish/Videora-7.3.1.apk"
 }
