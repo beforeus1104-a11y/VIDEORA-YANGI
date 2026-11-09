@@ -1,13 +1,13 @@
 {
- "version": "7.5.5",
+ "version": "7.5.6",
  "date": "2026-11-09",
  "notes": [
-  "Telefonda ssenariy tezroq yoziladi: bo'laklar bir vaqtda so'raladi, soat va holat ko'rinadi"
+  "Stickman: 10 yo'nalish yangi master promptlarda ishlaydi"
  ],
- "file": "videora-7.5.5.bin",
- "sig": "cj3BMCpfA9gUF9MoLOTakpVTgsrNnCXlUndorNsF4qxSJJK0QpfXQ/WzgyNph9Nn/lMVMJXZjHIkli+rKRV0uA==",
- "size": 6235119,
- "sha256": "d7852c96316073a84e86c3d040723efa7781414b61c7dead3593d08504b8e149",
+ "file": "videora-7.5.6.bin",
+ "sig": "z3HdXVvZRNYfVUBseJ/XWSNLYT+B5PDRUcSGU92dpwuFLksv+8dsHqJYmAoB2lMOYv58r/yADnXYuQ3iBIYJzA==",
+ "size": 6327953,
+ "sha256": "87ffbc5e35ba68295f29b5f7eaec9ee62cdea1453d842f541a3d99d103d9839f",
  "full": false,
  "apk": "https://raw.githubusercontent.com/beforeus1104-a11y/videora-yangi/main/yuklab-olish/Videora-7.3.1.apk"
 }
