@@ -1,13 +1,13 @@
 {
- "version": "7.5.9",
- "date": "2026-11-09",
+ "version": "7.6.0",
+ "date": "2026-11-10",
  "notes": [
-  "Stickman: kanal nomini 3-qadamda kiritish"
+  "Kompyuterda Google AI Studio ovozi brauzerda ochiladi (ilova ichida 403 xatosi)"
  ],
- "file": "videora-7.5.9.bin",
- "sig": "BVPErBn5CWH19rqkZye4CfV9LPdIiMO+KjpH46SxvI5X7HImj7q2Rv/IpaUH0Y4xo48aKYXvXNGezEE/XDWPnA==",
- "size": 7250046,
- "sha256": "bd2da26c7e02be9e92b0c7c948cd63c49f56e2300f5998267cc19aa7682c439f",
+ "file": "videora-7.6.0.bin",
+ "sig": "HbcCqGp8fwBynOKYIL4CIgjz5503AYXBRIqk0eTAwL6uf1T4PLh8R7OGloWlDhZysc9eoukrz5u4QKgKOK/qzw==",
+ "size": 7253232,
+ "sha256": "bd6fc63009f5c8ad73edb2cc3feba7e3e3f221648154e3c723a5a079de08ca17",
  "full": false,
  "apk": "https://raw.githubusercontent.com/beforeus1104-a11y/videora-yangi/main/yuklab-olish/Videora-7.3.1.apk"
 }
