@@ -1,13 +1,16 @@
 {
- "version": "7.6.0",
- "date": "2026-11-10",
+ "version": "7.6.1",
+ "date": "2026-11-11",
  "notes": [
-  "Kompyuterda Google AI Studio ovozi brauzerda ochiladi (ilova ichida 403 xatosi)"
+  "Yangi bosh sahifa: Quiz, Stickman va Monster yo'nalishlari",
+  "Stickman: 11 yo'nalish alohida sahifada, yangi muqovalar",
+  "Yangi bo'lim: Monster (O'lcham solishtirish) videolari",
+  "«Rasmga qarab top» kartochkalariga yangi muqovalar"
  ],
- "file": "videora-7.6.0.bin",
- "sig": "HbcCqGp8fwBynOKYIL4CIgjz5503AYXBRIqk0eTAwL6uf1T4PLh8R7OGloWlDhZysc9eoukrz5u4QKgKOK/qzw==",
- "size": 7253232,
- "sha256": "bd6fc63009f5c8ad73edb2cc3feba7e3e3f221648154e3c723a5a079de08ca17",
+ "file": "videora-7.6.1.bin",
+ "sig": "j7cpyq12s6c6IcfIjkGllVCTAmPM6KWXLg6/XVkYM9ZIvSU2hcQyhcka6bhZH63XbeKfYfQ5amidWWrUDxrakg==",
+ "size": 9049364,
+ "sha256": "f1156ce4fa0bafa95e4dd781376ce22970856f3e01952ed453dff153094bd6c7",
  "full": false,
  "apk": "https://raw.githubusercontent.com/beforeus1104-a11y/videora-yangi/main/yuklab-olish/Videora-7.3.1.apk"
 }
