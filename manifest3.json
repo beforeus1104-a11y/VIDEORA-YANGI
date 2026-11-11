@@ -1,16 +1,14 @@
 {
- "version": "7.6.1",
+ "version": "7.6.2",
  "date": "2026-11-11",
  "notes": [
-  "Yangi bosh sahifa: Quiz, Stickman va Monster yo'nalishlari",
-  "Stickman: 11 yo'nalish alohida sahifada, yangi muqovalar",
-  "Yangi bo'lim: Monster (O'lcham solishtirish) videolari",
-  "«Rasmga qarab top» kartochkalariga yangi muqovalar"
+  "«Rasmga qarab top»: diktor matnini bitta ovoz fayli qilib yuklash — dastur o'zi gaplarga bo'ladi",
+  "«Hamma gaplarni nusxalash» endi kodlarsiz, faqat matn"
  ],
- "file": "videora-7.6.1.bin",
- "sig": "j7cpyq12s6c6IcfIjkGllVCTAmPM6KWXLg6/XVkYM9ZIvSU2hcQyhcka6bhZH63XbeKfYfQ5amidWWrUDxrakg==",
- "size": 9049364,
- "sha256": "f1156ce4fa0bafa95e4dd781376ce22970856f3e01952ed453dff153094bd6c7",
+ "file": "videora-7.6.2.bin",
+ "sig": "P1a/xHqWDxVxaZirFncTqQXBH7DV50rfkWA02b7Z7hZV8Tcr0uL3j3egXdxUgZBzd7SR+WfsJFCWno+1haqiRw==",
+ "size": 9054373,
+ "sha256": "c43f01256b78d04cb7e537fb0017134c07c839a8920387db3169742f246e6e84",
  "full": false,
  "apk": "https://raw.githubusercontent.com/beforeus1104-a11y/videora-yangi/main/yuklab-olish/Videora-7.3.1.apk"
 }
