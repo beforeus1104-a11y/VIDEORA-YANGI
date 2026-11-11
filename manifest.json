@@ -1,14 +1,14 @@
 {
- "version": "7.6.2",
+ "version": "7.6.3",
  "date": "2026-11-11",
  "notes": [
-  "«Rasmga qarab top»: diktor matnini bitta ovoz fayli qilib yuklash — dastur o'zi gaplarga bo'ladi",
-  "«Hamma gaplarni nusxalash» endi kodlarsiz, faqat matn"
+  "Telefonda Stickman subtitr bo'limi endi to'liq kenglikda (kesilmaydi)",
+  "Telefonda «AI yordamchi» tugmasi pastki menyuni yopmaydi"
  ],
- "file": "videora-7.6.2.bin",
- "sig": "P1a/xHqWDxVxaZirFncTqQXBH7DV50rfkWA02b7Z7hZV8Tcr0uL3j3egXdxUgZBzd7SR+WfsJFCWno+1haqiRw==",
- "size": 9054373,
- "sha256": "c43f01256b78d04cb7e537fb0017134c07c839a8920387db3169742f246e6e84",
+ "file": "videora-7.6.3.bin",
+ "sig": "+FRT3nqc88EKLTgdTIJyC73sHehO074oJbNEOlxBnTdnLyAx2vPHujadqSDgWnEyGzvJIt5UpuPONJ3u3e0BGg==",
+ "size": 9055761,
+ "sha256": "a5a2a1eddad3cfb8dc952304340bfe4fd5308882b8ea53222c3ca90cad77c61d",
  "full": false,
  "apk": "https://raw.githubusercontent.com/beforeus1104-a11y/videora-yangi/main/yuklab-olish/Videora-7.3.1.apk"
 }
