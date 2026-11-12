@@ -1,13 +1,13 @@
 {
- "version": "7.7.2",
+ "version": "7.7.3",
  "date": "2026-11-12",
  "notes": [
-  "Stickman: Jamiyat, Tibbiyot, Horror, Brendlar endi 6 bosqichda, har bosqichdan keyin tasdiq kutadi"
+  "Stickman: subtitrlar va rasmlar ovozga aniqroq moslashadi (qisqa pauzali ovozlar, Gemini eshitish yo'li)"
  ],
- "file": "videora-7.7.2.bin",
- "sig": "p3USG7VHubUBwCvp+mwMjhgISUgoM6z6ITsu6k3uyxpn2NICrZ8n4prjYeiVGjqivGH6arsc9aica68jlZa0uA==",
- "size": 9518499,
- "sha256": "1dbc6b45705fb81e65ddabd35036ad5ad4c0e9d2f50e03ee169569807415a497",
+ "file": "videora-7.7.3.bin",
+ "sig": "u7XCWQwhoYlbbSf5eg46zdNWrIvFog+AHepNPLSbjQbWIcJghX7xPj948v+iqAEv37Bg7e/MQtOVUyXdh2BuAA==",
+ "size": 9525869,
+ "sha256": "e7e85449fd105c67c45e2c128ee24ba6d29a17e76a79ce23581e9719f1e2a6db",
  "full": false,
  "apk": "https://raw.githubusercontent.com/beforeus1104-a11y/videora-yangi/main/yuklab-olish/Videora-7.3.1.apk"
 }
