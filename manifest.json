@@ -1,14 +1,15 @@
 {
- "version": "7.6.3",
- "date": "2026-11-11",
+ "version": "7.6.5",
+ "date": "2026-11-12",
  "notes": [
-  "Telefonda Stickman subtitr bo'limi endi to'liq kenglikda (kesilmaydi)",
-  "Telefonda «AI yordamchi» tugmasi pastki menyuni yopmaydi"
+  "Stickman: ChatGPT endi avval 10 ta mavzu taklif qiladi va mavzu hamda video davomiyligini so'raydi",
+  "Stickman: prompt aynan o'zidek nusxalanadi (kompyuterda boshqa yo'nalish prompti tushib qolish xatosi tuzatildi)",
+  "Stickman: 7 ta yangi ovoz effekti (tugma, kombo, sparkle, whoosh, yozish)"
  ],
- "file": "videora-7.6.3.bin",
- "sig": "+FRT3nqc88EKLTgdTIJyC73sHehO074oJbNEOlxBnTdnLyAx2vPHujadqSDgWnEyGzvJIt5UpuPONJ3u3e0BGg==",
- "size": 9055761,
- "sha256": "a5a2a1eddad3cfb8dc952304340bfe4fd5308882b8ea53222c3ca90cad77c61d",
+ "file": "videora-7.6.5.bin",
+ "sig": "u2FzyhququMcx84XmGDTRlvsgF2tnCZWW6qQU4FJKjd79fIs5J8vFwl0l6LltmDOpmfS9MN0Q2zomL6ml/d4Lg==",
+ "size": 9197832,
+ "sha256": "037d3a5ff810c96179a81f80215c881e1a30bd2692532ae3c9e92898a0f4c0c9",
  "full": false,
  "apk": "https://raw.githubusercontent.com/beforeus1104-a11y/videora-yangi/main/yuklab-olish/Videora-7.3.1.apk"
 }
