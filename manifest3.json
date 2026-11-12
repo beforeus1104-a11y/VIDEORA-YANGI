@@ -1,15 +1,15 @@
 {
- "version": "7.6.6",
+ "version": "7.6.9",
  "date": "2026-11-12",
  "notes": [
-  "Stickman: ChatGPT avval 10 ta mavzu taklif qiladi va mavzu, video davomiyligi hamda tilini so'raydi",
-  "Stickman: prompt aynan o'zidek nusxalanadi (kompyuterda boshqa yo'nalish prompti tushib qolish xatosi tuzatildi)",
-  "Stickman: 7 ta yangi ovoz effekti (tugma, kombo, sparkle, whoosh, yozish)"
+  "Stickman: 11 ta yo'nalish prompti aynan o'zidek nusxalanadi",
+  "Yangilanishlar endi kechikmasdan keladi (har soatda va dastur ochilganda tekshiriladi)",
+  "Obunani admin tomonidan bekor qilish imkoniyati"
  ],
- "file": "videora-7.6.6.bin",
- "sig": "7zQlD06JOg1BWCuD5b7dlzXQzWugXTr7HerRD1oNKdzvro1AMYfbfZaLE2wZd73gJ1hn3jAlh9Vkvjpb85i2sw==",
- "size": 9198166,
- "sha256": "40094a619bd0c9ed95b29f579b991ee53eaa675c5cd884bbf791f6953d684d49",
+ "file": "videora-7.6.9.bin",
+ "sig": "NE6K+XfnDPlCkRDqfWe67pNP+br9axNS3OFA9YEgstPYLrsO9EpcftLNSpMwBea4e/PdgQ7itfm8m9zHCzM/Sw==",
+ "size": 9298481,
+ "sha256": "e4cdec59c02f7cfae823423db3d88fd6cb5bf635ece2204e71573479f3c96188",
  "full": false,
  "apk": "https://raw.githubusercontent.com/beforeus1104-a11y/videora-yangi/main/yuklab-olish/Videora-7.3.1.apk"
 }
