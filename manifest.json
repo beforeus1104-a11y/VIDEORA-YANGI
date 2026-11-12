@@ -1,13 +1,13 @@
 {
- "version": "7.7.8",
+ "version": "7.7.9",
  "date": "2026-11-13",
  "notes": [
-  "Aniq moslash: Whisper Videora serveri orqali (mijozga kalit kerak emas); Azure kaliti havolalari"
+  "Aniq moslash: tayyor ovoz Groq (bepul Whisper large-v3) orqali tinglanadi; OpenAI server orqali ishlatilmaydi"
  ],
- "file": "videora-7.7.8.bin",
- "sig": "Yct6vGrRYNyAV+xVVNkgALUT4itjCJbJ2S8GE5IB6loWihGIAkrojcZKJ8SAYTECtBbcYhxPcwQhVppZwCD/Zw==",
- "size": 9575249,
- "sha256": "8691d431c795ed3133ccfe27295a75c900d961d7dbe031c908d9c91625df09e9",
+ "file": "videora-7.7.9.bin",
+ "sig": "slNK2Behw8v3RNO1mzT11ALVFgcBcL7aXkEybH/+oJKylorfvayttlePg33jOXl/nZDrKWj6c/tYY32Q7rLQqw==",
+ "size": 9575855,
+ "sha256": "3892616cbe2d899bf5fca133491888596d19c62b4e077a6e7330c286c56bbb94",
  "full": false,
  "apk": "https://raw.githubusercontent.com/beforeus1104-a11y/videora-yangi/main/yuklab-olish/Videora-7.3.1.apk"
 }
