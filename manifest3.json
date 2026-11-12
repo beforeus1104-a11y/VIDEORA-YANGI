@@ -1,15 +1,13 @@
 {
- "version": "7.6.9",
+ "version": "7.7.0",
  "date": "2026-11-12",
  "notes": [
-  "Stickman: 11 ta yo'nalish prompti aynan o'zidek nusxalanadi",
-  "Yangilanishlar endi kechikmasdan keladi (har soatda va dastur ochilganda tekshiriladi)",
-  "Obunani admin tomonidan bekor qilish imkoniyati"
+  "Stickman: 10 ta yo'nalishga yangi bosqichma-bosqich MASTER promptlar (Tarix, Biznes, G'alati odatlar, Qadimgi odamlar, Falsafa, Horror, Jamiyat, Tibbiyot, Wojak, Brendlar)"
  ],
- "file": "videora-7.6.9.bin",
- "sig": "NE6K+XfnDPlCkRDqfWe67pNP+br9axNS3OFA9YEgstPYLrsO9EpcftLNSpMwBea4e/PdgQ7itfm8m9zHCzM/Sw==",
- "size": 9298481,
- "sha256": "e4cdec59c02f7cfae823423db3d88fd6cb5bf635ece2204e71573479f3c96188",
+ "file": "videora-7.7.0.bin",
+ "sig": "1+qNDdb07w3sBPvZGRiFQnF3XJ8L8myNyKLAhYXI2mFBP5VLZF3GCZJIojpN55W6nqAEcrW8bmfl9xqK70vHqA==",
+ "size": 9500386,
+ "sha256": "f5e48afafe7ccf18be912335a8091f67848d9a39200273c7f5883b6ee1413c80",
  "full": false,
  "apk": "https://raw.githubusercontent.com/beforeus1104-a11y/videora-yangi/main/yuklab-olish/Videora-7.3.1.apk"
 }
