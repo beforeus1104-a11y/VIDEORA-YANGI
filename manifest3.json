@@ -1,13 +1,13 @@
 {
- "version": "7.7.7",
+ "version": "7.7.8",
  "date": "2026-11-13",
  "notes": [
-  "Stickman: aniq moslash — ovozni dasturda yaratish (Azure) va tayyor ovozni tinglatish (Whisper)"
+  "Aniq moslash: Whisper Videora serveri orqali (mijozga kalit kerak emas); Azure kaliti havolalari"
  ],
- "file": "videora-7.7.7.bin",
- "sig": "uN+EDdaJBLPszIoojNWHSoR9D5zES609r6hYSxVLdF80QfeJ1hHqGRITbI2X46dmv3ert2k6ZqdpEMueME+8Qw==",
- "size": 9573623,
- "sha256": "b27f7a788352da0e9e053bf220522f824d3cd3cfe23929a8c5531ce0e3809d91",
+ "file": "videora-7.7.8.bin",
+ "sig": "Yct6vGrRYNyAV+xVVNkgALUT4itjCJbJ2S8GE5IB6loWihGIAkrojcZKJ8SAYTECtBbcYhxPcwQhVppZwCD/Zw==",
+ "size": 9575249,
+ "sha256": "8691d431c795ed3133ccfe27295a75c900d961d7dbe031c908d9c91625df09e9",
  "full": false,
  "apk": "https://raw.githubusercontent.com/beforeus1104-a11y/videora-yangi/main/yuklab-olish/Videora-7.3.1.apk"
 }
