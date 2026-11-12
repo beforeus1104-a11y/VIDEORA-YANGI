@@ -1,13 +1,13 @@
 {
- "version": "7.7.3",
+ "version": "7.7.4",
  "date": "2026-11-12",
  "notes": [
-  "Stickman: subtitrlar va rasmlar ovozga aniqroq moslashadi (qisqa pauzali ovozlar, Gemini eshitish yo'li)"
+  "Stickman: Flow oynasi (promptlar 20 tadan), ElevenLabs/AI Studio/ChatGPT ilova ichida, Ekran yozuvlarini o'chirish, Wojak rejimi tuzatildi"
  ],
- "file": "videora-7.7.3.bin",
- "sig": "u7XCWQwhoYlbbSf5eg46zdNWrIvFog+AHepNPLSbjQbWIcJghX7xPj948v+iqAEv37Bg7e/MQtOVUyXdh2BuAA==",
- "size": 9525869,
- "sha256": "e7e85449fd105c67c45e2c128ee24ba6d29a17e76a79ce23581e9719f1e2a6db",
+ "file": "videora-7.7.4.bin",
+ "sig": "4ZanTS78wCn43IiTfs9UUEGduJY7ckQ+Pp/z4fzSuL/1C81clBvb3XXW8Y8VTj0PqXpyE/rbQ6peltd0oE5V8g==",
+ "size": 9543697,
+ "sha256": "b2542f205797d7f0916dae086635f1d934f9a8631f409b3254b473c6d8eb815d",
  "full": false,
  "apk": "https://raw.githubusercontent.com/beforeus1104-a11y/videora-yangi/main/yuklab-olish/Videora-7.3.1.apk"
 }
