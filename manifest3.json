@@ -1,13 +1,13 @@
 {
- "version": "7.7.6",
+ "version": "7.7.7",
  "date": "2026-11-13",
  "notes": [
-  "Stickman: ovozda pauza belgilari bo'lmasa (Eleven v3/v4) aniq ogohlantirish va to'g'ri model ko'rsatmasi"
+  "Stickman: aniq moslash — ovozni dasturda yaratish (Azure) va tayyor ovozni tinglatish (Whisper)"
  ],
- "file": "videora-7.7.6.bin",
- "sig": "eS/PVw4zkPpjKvqqu0zjZGfaTVzT7KIk1y3HS22oqNXPBMdPD5HRU/CvzHd4D5zVWMBAS7DEqXIUiB5H8OObgA==",
- "size": 9551827,
- "sha256": "1a750d83f389b7db3ff172f6b309996d4eb1fe3941b2320b98ff979263e9d7c4",
+ "file": "videora-7.7.7.bin",
+ "sig": "uN+EDdaJBLPszIoojNWHSoR9D5zES609r6hYSxVLdF80QfeJ1hHqGRITbI2X46dmv3ert2k6ZqdpEMueME+8Qw==",
+ "size": 9573623,
+ "sha256": "b27f7a788352da0e9e053bf220522f824d3cd3cfe23929a8c5531ce0e3809d91",
  "full": false,
  "apk": "https://raw.githubusercontent.com/beforeus1104-a11y/videora-yangi/main/yuklab-olish/Videora-7.3.1.apk"
 }
