@@ -1,13 +1,13 @@
 {
- "version": "7.7.5",
+ "version": "7.7.6",
  "date": "2026-11-13",
  "notes": [
-  "Stickman: subtitr guruhlari gap va vergul chegarasidan o'tmaydi; Flow yonida promptlar 20 tadan; ElevenLabs email bilan kirish"
+  "Stickman: ovozda pauza belgilari bo'lmasa (Eleven v3/v4) aniq ogohlantirish va to'g'ri model ko'rsatmasi"
  ],
- "file": "videora-7.7.5.bin",
- "sig": "oTZ+v6x55y3g1qg0v5oXO3kAMinKkj4obaExxXblOrIO8+c1Cb+2x4eA3KiBeUsjZZnBCiEHYfL+rVytEQxl6Q==",
- "size": 9548755,
- "sha256": "82f6d899e3f4d6771d198a8344fce53b872300c134138139b41aa81c2760a4d2",
+ "file": "videora-7.7.6.bin",
+ "sig": "eS/PVw4zkPpjKvqqu0zjZGfaTVzT7KIk1y3HS22oqNXPBMdPD5HRU/CvzHd4D5zVWMBAS7DEqXIUiB5H8OObgA==",
+ "size": 9551827,
+ "sha256": "1a750d83f389b7db3ff172f6b309996d4eb1fe3941b2320b98ff979263e9d7c4",
  "full": false,
  "apk": "https://raw.githubusercontent.com/beforeus1104-a11y/videora-yangi/main/yuklab-olish/Videora-7.3.1.apk"
 }
