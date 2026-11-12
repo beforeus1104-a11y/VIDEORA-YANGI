@@ -1,13 +1,13 @@
 {
- "version": "7.7.1",
+ "version": "7.7.2",
  "date": "2026-11-12",
  "notes": [
-  "Stickman «Agar sen...»: 6 bosqichli to'liq master prompt (bosqichma-bosqich ishlaydi)"
+  "Stickman: Jamiyat, Tibbiyot, Horror, Brendlar endi 6 bosqichda, har bosqichdan keyin tasdiq kutadi"
  ],
- "file": "videora-7.7.1.bin",
- "sig": "dZZ50xgxwetkxzwTO/4p25znIlQHNpHk5KZP8Z3soXMbn8neYtb/IaFI72F3wlydGa2PdwUvihF01vNZ+RgrwA==",
- "size": 9506183,
- "sha256": "c5b0ab72e2ff137a887593bdeb41f6a5feb00e395032cb453a2822a9cabaa859",
+ "file": "videora-7.7.2.bin",
+ "sig": "p3USG7VHubUBwCvp+mwMjhgISUgoM6z6ITsu6k3uyxpn2NICrZ8n4prjYeiVGjqivGH6arsc9aica68jlZa0uA==",
+ "size": 9518499,
+ "sha256": "1dbc6b45705fb81e65ddabd35036ad5ad4c0e9d2f50e03ee169569807415a497",
  "full": false,
  "apk": "https://raw.githubusercontent.com/beforeus1104-a11y/videora-yangi/main/yuklab-olish/Videora-7.3.1.apk"
 }
