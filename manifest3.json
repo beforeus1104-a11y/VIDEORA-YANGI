@@ -1,13 +1,13 @@
 {
- "version": "7.7.4",
- "date": "2026-11-12",
+ "version": "7.7.5",
+ "date": "2026-11-13",
  "notes": [
-  "Stickman: Flow oynasi (promptlar 20 tadan), ElevenLabs/AI Studio/ChatGPT ilova ichida, Ekran yozuvlarini o'chirish, Wojak rejimi tuzatildi"
+  "Stickman: subtitr guruhlari gap va vergul chegarasidan o'tmaydi; Flow yonida promptlar 20 tadan; ElevenLabs email bilan kirish"
  ],
- "file": "videora-7.7.4.bin",
- "sig": "4ZanTS78wCn43IiTfs9UUEGduJY7ckQ+Pp/z4fzSuL/1C81clBvb3XXW8Y8VTj0PqXpyE/rbQ6peltd0oE5V8g==",
- "size": 9543697,
- "sha256": "b2542f205797d7f0916dae086635f1d934f9a8631f409b3254b473c6d8eb815d",
+ "file": "videora-7.7.5.bin",
+ "sig": "oTZ+v6x55y3g1qg0v5oXO3kAMinKkj4obaExxXblOrIO8+c1Cb+2x4eA3KiBeUsjZZnBCiEHYfL+rVytEQxl6Q==",
+ "size": 9548755,
+ "sha256": "82f6d899e3f4d6771d198a8344fce53b872300c134138139b41aa81c2760a4d2",
  "full": false,
  "apk": "https://raw.githubusercontent.com/beforeus1104-a11y/videora-yangi/main/yuklab-olish/Videora-7.3.1.apk"
 }
