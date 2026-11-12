@@ -1,13 +1,13 @@
 {
- "version": "7.7.9",
+ "version": "7.8.0",
  "date": "2026-11-13",
  "notes": [
-  "Aniq moslash: tayyor ovoz Groq (bepul Whisper large-v3) orqali tinglanadi; OpenAI server orqali ishlatilmaydi"
+  "Aniq moslash: noto'g'ri bog'langan qisqa so'zlar olib tashlanadi (rasm va subtitr oldinga sakramaydi); tashxis fayli"
  ],
- "file": "videora-7.7.9.bin",
- "sig": "slNK2Behw8v3RNO1mzT11ALVFgcBcL7aXkEybH/+oJKylorfvayttlePg33jOXl/nZDrKWj6c/tYY32Q7rLQqw==",
- "size": 9575855,
- "sha256": "3892616cbe2d899bf5fca133491888596d19c62b4e077a6e7330c286c56bbb94",
+ "file": "videora-7.8.0.bin",
+ "sig": "LApIXbWVqL4HOxegiotJ7SA/FjPx+yYxWBxEHZJfd2Ep0lWpy0/juoNuR7qo/vgIqSxHSAksb+YTQW0Us181Mg==",
+ "size": 9579718,
+ "sha256": "55fe9591bf222eb51ec81ee6d033e0d11201acf803ff699ffd1d5633dafc86ee",
  "full": false,
  "apk": "https://raw.githubusercontent.com/beforeus1104-a11y/videora-yangi/main/yuklab-olish/Videora-7.3.1.apk"
 }
