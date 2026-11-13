@@ -1,13 +1,13 @@
 {
- "version": "7.8.0",
- "date": "2026-11-13",
+ "version": "7.8.2",
+ "date": "2026-11-14",
  "notes": [
-  "Aniq moslash: noto'g'ri bog'langan qisqa so'zlar olib tashlanadi (rasm va subtitr oldinga sakramaydi); tashxis fayli"
+  "Mashina brendi: poyga va brend taymerlari, 12 soniya, rasm yuklash oynasi, diktor ovozi, 60 ta intro va 30 ta savol dizayni (CORRECT! animatsiyasi)"
  ],
- "file": "videora-7.8.0.bin",
- "sig": "LApIXbWVqL4HOxegiotJ7SA/FjPx+yYxWBxEHZJfd2Ep0lWpy0/juoNuR7qo/vgIqSxHSAksb+YTQW0Us181Mg==",
- "size": 9579718,
- "sha256": "55fe9591bf222eb51ec81ee6d033e0d11201acf803ff699ffd1d5633dafc86ee",
+ "file": "videora-7.8.2.bin",
+ "sig": "IiGHTS4iiefvBFDsbhoz7TFf7653nHyB9y9QtnwpT8V/unhWZG7v18gwUC9IiNgJHVTDAMZxdWhlg5VQ1MmZnA==",
+ "size": 9719692,
+ "sha256": "5f10584c98f9020a48933ee82b9447093d8fd89d3238ac8507dbc649b92cc550",
  "full": false,
  "apk": "https://raw.githubusercontent.com/beforeus1104-a11y/videora-yangi/main/yuklab-olish/Videora-7.3.1.apk"
 }
