@@ -1,13 +1,13 @@
 {
- "version": "7.8.2",
+ "version": "7.8.3",
  "date": "2026-11-14",
  "notes": [
-  "Mashina brendi: poyga va brend taymerlari, 12 soniya, rasm yuklash oynasi, diktor ovozi, 60 ta intro va 30 ta savol dizayni (CORRECT! animatsiyasi)"
+  "Logoni top: 50 ta intro (hook) dizayni, 50 ta hook matni (4 tilda), 50 ta savol dizayni, 20 ta taymer, 12 soniya; galereyada qidiruv, tasodifiy, oldingi/keyingi, bitta savolga alohida dizayn"
  ],
- "file": "videora-7.8.2.bin",
- "sig": "IiGHTS4iiefvBFDsbhoz7TFf7653nHyB9y9QtnwpT8V/unhWZG7v18gwUC9IiNgJHVTDAMZxdWhlg5VQ1MmZnA==",
- "size": 9719692,
- "sha256": "5f10584c98f9020a48933ee82b9447093d8fd89d3238ac8507dbc649b92cc550",
+ "file": "videora-7.8.3.bin",
+ "sig": "lbIGYtpVDSvN1obLDLkSlyGKKEPcF/ZLz1wocTU126VcNamZC9JFODUF97wD0vXIrXQHDu/EAsyG1hL3okDANg==",
+ "size": 9761548,
+ "sha256": "154580d108fac2e0148233125048a368078693752bcbc285fa8d97808df5496a",
  "full": false,
  "apk": "https://raw.githubusercontent.com/beforeus1104-a11y/videora-yangi/main/yuklab-olish/Videora-7.3.1.apk"
 }
