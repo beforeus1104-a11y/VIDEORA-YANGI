@@ -1,13 +1,13 @@
 {
- "version": "7.8.6",
- "date": "2026-11-14",
- "notes": [
-  "Hayvonlarni top: 50 ta intro (hook) dizayni, 50 ta hook (4 tilda), 50 ta savol dizayni, 20 ta tabiat taymeri, 12 soniya"
- ],
- "file": "videora-7.8.6.bin",
- "sig": "cBCd7Pd0aENN8pAixP1oOPkeMV9906iXz4HeTMsAGHfvhOovAePspkumnkl8+prooONH1ZBWFEkL1YODTbzU9A==",
- "size": 9870521,
- "sha256": "afb8d3dbcafc42f4de835f98423409a8d4273879c7486b2336d3a83844431b0c",
- "full": false,
- "apk": "https://raw.githubusercontent.com/beforeus1104-a11y/videora-yangi/main/yuklab-olish/Videora-7.3.1.apk"
+  "version": "7.8.8",
+  "date": "2026-11-14",
+  "notes": [
+    "7.8.8: 6 bo'lim × 85 fon (25 animatsion + 60 yorqin tekis); hook/savol/javob alohida; Davlatni top"
+  ],
+  "file": "videora-7.8.8.bin",
+  "sig": "FYgFixuWHOQYdz8Et9l+mCtUYq8eFXb2C9MVCFm/hZ78UnvDkrZ5RaAPFinYmY0n61fORbZoRzOK6Z3ukHYE8A==",
+  "size": 9964049,
+  "sha256": "3c9e571386a81c289a67b674330cbb38f3fcff333226ac3c3cffc4a94913e908",
+  "full": false,
+  "apk": "https://raw.githubusercontent.com/beforeus1104-a11y/videora-yangi/main/yuklab-olish/Videora-7.3.1.apk"
 }
