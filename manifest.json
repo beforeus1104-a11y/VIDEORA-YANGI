@@ -1,13 +1,13 @@
 {
-  "version": "7.9.1",
+  "version": "7.9.2",
   "date": "2026-11-14",
   "notes": [
-    "7.9.1: Stickman — «FRAME 40 — matn» ko'rinishidagi rasm promptlari ham taniladi."
+    "7.9.2: Detective Quiz — «Savollar soni» sozlamasi qaytarildi, tanlangan son master promptga o'zi yoziladi."
   ],
-  "file": "videora-7.9.1.bin",
-  "sig": "ss+s1Cq6X+4VWWVgnx1wDk8WFgQYWiIQYNoSbn4vRml5Twoy88/7JSilJ1g20rcwRwFqWz4Y1lB7PLhAqIPWTw==",
-  "size": 10046894,
-  "sha256": "efb33048c03c202c2cf375067636d1fda6f4775a532897913f8dfc8887b284f9",
+  "file": "videora-7.9.2.bin",
+  "sig": "1r4qJmpgQTlc59zRtOg0kvVHujNtAg51jWTNXoxayqlsAXnLHV0CeoLUvpeQHAowpjChw8mYPOIuWX8zhZ5PNw==",
+  "size": 10048233,
+  "sha256": "84e85afd62e1f772aef00f8baad98ae153743d4185be1d2b158155d82dd1c8ee",
   "full": false,
   "apk": "https://raw.githubusercontent.com/beforeus1104-a11y/videora-yangi/main/yuklab-olish/Videora-7.3.1.apk"
 }
