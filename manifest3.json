@@ -1,13 +1,13 @@
 {
- "version": "7.8.5",
+ "version": "7.8.6",
  "date": "2026-11-14",
  "notes": [
-  "Futbolchini top: 50 ta intro (hook) dizayni, 50 ta hook (4 tilda), 50 ta savol dizayni, 20 ta futbol taymeri, 12 soniya"
+  "Hayvonlarni top: 50 ta intro (hook) dizayni, 50 ta hook (4 tilda), 50 ta savol dizayni, 20 ta tabiat taymeri, 12 soniya"
  ],
- "file": "videora-7.8.5.bin",
- "sig": "QnrtCg3XjH4OlHxNZlv7M8ZXY13irhIYal3AyFXEAAOPSPFDED0e8HIG79zkBW8Qnt5xoeCdJiIWGwNqYVsyPg==",
- "size": 9838393,
- "sha256": "388761407169cd4e3d0b53c7001507078834a70f3077cc304679907c6dcaab88",
+ "file": "videora-7.8.6.bin",
+ "sig": "cBCd7Pd0aENN8pAixP1oOPkeMV9906iXz4HeTMsAGHfvhOovAePspkumnkl8+prooONH1ZBWFEkL1YODTbzU9A==",
+ "size": 9870521,
+ "sha256": "afb8d3dbcafc42f4de835f98423409a8d4273879c7486b2336d3a83844431b0c",
  "full": false,
  "apk": "https://raw.githubusercontent.com/beforeus1104-a11y/videora-yangi/main/yuklab-olish/Videora-7.3.1.apk"
 }
