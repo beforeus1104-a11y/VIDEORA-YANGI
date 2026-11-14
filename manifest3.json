@@ -1,13 +1,13 @@
 {
-  "version": "7.9.2",
-  "date": "2026-11-14",
+  "version": "7.9.3",
+  "date": "2026-11-15",
   "notes": [
-    "7.9.2: Detective Quiz — «Savollar soni» sozlamasi qaytarildi, tanlangan son master promptga o'zi yoziladi."
+    "7.9.3: Yangi yo'nalish — «Futbol Shorts»: futbolchining asl rasmini kulgili yuzlar orasidan topish (tik Shorts, 1080×1920). Pinterestdan qidirish tugmasi, kulgili yuzlarni dastur o'zi yasaydi."
   ],
-  "file": "videora-7.9.2.bin",
-  "sig": "1r4qJmpgQTlc59zRtOg0kvVHujNtAg51jWTNXoxayqlsAXnLHV0CeoLUvpeQHAowpjChw8mYPOIuWX8zhZ5PNw==",
-  "size": 10048233,
-  "sha256": "84e85afd62e1f772aef00f8baad98ae153743d4185be1d2b158155d82dd1c8ee",
+  "file": "videora-7.9.3.bin",
+  "sig": "fr4nWp6VoQGPVRrA7k1c+y/eGmfDuxroVPqEKQfX9RLXDVp++/TCTtOgGwc7QOVWdM7SrjlCMmApWxJPPV7Vjg==",
+  "size": 10092604,
+  "sha256": "4c304d7609fb4d84e728a190478a3ff06faf9f565b45c013be4a915dd769fb9d",
   "full": false,
   "apk": "https://raw.githubusercontent.com/beforeus1104-a11y/videora-yangi/main/yuklab-olish/Videora-7.3.1.apk"
 }
