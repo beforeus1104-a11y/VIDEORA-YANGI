@@ -1,13 +1,13 @@
 {
-  "version": "7.9.0",
+  "version": "7.9.1",
   "date": "2026-11-14",
   "notes": [
-    "7.9.0: Yangi yo'nalish — Ovozdan top (Guess the voice). Dastur qotishi tuzatildi."
+    "7.9.1: Stickman — «FRAME 40 — matn» ko'rinishidagi rasm promptlari ham taniladi."
   ],
-  "file": "videora-7.9.0.bin",
-  "sig": "2VClwbB1eJLSKoWfUWQMBuowx65RSOORmgjZGCVMGBbOiZtcpusvtxEqdjZv5sZeBE++dS3A3IVUWE/yjEBZmg==",
-  "size": 10046072,
-  "sha256": "05b8303ac40d28e5f818229c4a793d982bdde7947a516289be18190b0c5e117c",
+  "file": "videora-7.9.1.bin",
+  "sig": "ss+s1Cq6X+4VWWVgnx1wDk8WFgQYWiIQYNoSbn4vRml5Twoy88/7JSilJ1g20rcwRwFqWz4Y1lB7PLhAqIPWTw==",
+  "size": 10046894,
+  "sha256": "efb33048c03c202c2cf375067636d1fda6f4775a532897913f8dfc8887b284f9",
   "full": false,
   "apk": "https://raw.githubusercontent.com/beforeus1104-a11y/videora-yangi/main/yuklab-olish/Videora-7.3.1.apk"
 }
