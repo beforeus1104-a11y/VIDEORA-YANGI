@@ -1,13 +1,13 @@
 {
- "version": "7.8.3",
+ "version": "7.8.4",
  "date": "2026-11-14",
  "notes": [
-  "Logoni top: 50 ta intro (hook) dizayni, 50 ta hook matni (4 tilda), 50 ta savol dizayni, 20 ta taymer, 12 soniya; galereyada qidiruv, tasodifiy, oldingi/keyingi, bitta savolga alohida dizayn"
+  "Bayroqni top: 50 ta intro (hook) dizayni, 50 ta hook (4 tilda), 50 ta savol dizayni, 20 ta geografik taymer, 12 soniya"
  ],
- "file": "videora-7.8.3.bin",
- "sig": "lbIGYtpVDSvN1obLDLkSlyGKKEPcF/ZLz1wocTU126VcNamZC9JFODUF97wD0vXIrXQHDu/EAsyG1hL3okDANg==",
- "size": 9761548,
- "sha256": "154580d108fac2e0148233125048a368078693752bcbc285fa8d97808df5496a",
+ "file": "videora-7.8.4.bin",
+ "sig": "skpnWB6ONwI2bjIjipOac0d/5UuKExd63hdf8Qg2QT76qQwOQSOh9wQw6jkscC2NA5rlHZFR4iE5LWmXopfoOA==",
+ "size": 9801969,
+ "sha256": "8ce83c9b833742c66aa7730c1fdea59fab003ebfe22d4860c533911b81314ac4",
  "full": false,
  "apk": "https://raw.githubusercontent.com/beforeus1104-a11y/videora-yangi/main/yuklab-olish/Videora-7.3.1.apk"
 }
