@@ -1,13 +1,13 @@
 {
-  "version": "7.8.9",
+  "version": "7.9.0",
   "date": "2026-11-14",
   "notes": [
-    "7.8.9: Mashina brendi — 50 hook (4 til), 20 yangi savol dizayni (jami 50)"
+    "7.9.0: Yangi yo'nalish — Ovozdan top (Guess the voice). Dastur qotishi tuzatildi."
   ],
-  "file": "videora-7.8.9.bin",
-  "sig": "hgKHlQmlIMcmqYE2mhSsWRDIpWq/690Zz7ljswCwiKFo76SzxfpNl4su8dcvFL4o+r0Yrr/Ml39g7lhBF0MiSQ==",
-  "size": 9978214,
-  "sha256": "8a5920a5fab4cb3fbc633e330845b784d8de56a9bf43dac987fe8c50ad33bd97",
+  "file": "videora-7.9.0.bin",
+  "sig": "2VClwbB1eJLSKoWfUWQMBuowx65RSOORmgjZGCVMGBbOiZtcpusvtxEqdjZv5sZeBE++dS3A3IVUWE/yjEBZmg==",
+  "size": 10046072,
+  "sha256": "05b8303ac40d28e5f818229c4a793d982bdde7947a516289be18190b0c5e117c",
   "full": false,
   "apk": "https://raw.githubusercontent.com/beforeus1104-a11y/videora-yangi/main/yuklab-olish/Videora-7.3.1.apk"
 }
