@@ -1,13 +1,13 @@
 {
-  "version": "7.8.8",
+  "version": "7.8.9",
   "date": "2026-11-14",
   "notes": [
-    "7.8.8: 6 bo'lim × 85 fon (25 animatsion + 60 yorqin tekis); hook/savol/javob alohida; Davlatni top"
+    "7.8.9: Mashina brendi — 50 hook (4 til), 20 yangi savol dizayni (jami 50)"
   ],
-  "file": "videora-7.8.8.bin",
-  "sig": "FYgFixuWHOQYdz8Et9l+mCtUYq8eFXb2C9MVCFm/hZ78UnvDkrZ5RaAPFinYmY0n61fORbZoRzOK6Z3ukHYE8A==",
-  "size": 9964049,
-  "sha256": "3c9e571386a81c289a67b674330cbb38f3fcff333226ac3c3cffc4a94913e908",
+  "file": "videora-7.8.9.bin",
+  "sig": "hgKHlQmlIMcmqYE2mhSsWRDIpWq/690Zz7ljswCwiKFo76SzxfpNl4su8dcvFL4o+r0Yrr/Ml39g7lhBF0MiSQ==",
+  "size": 9978214,
+  "sha256": "8a5920a5fab4cb3fbc633e330845b784d8de56a9bf43dac987fe8c50ad33bd97",
   "full": false,
   "apk": "https://raw.githubusercontent.com/beforeus1104-a11y/videora-yangi/main/yuklab-olish/Videora-7.3.1.apk"
 }
