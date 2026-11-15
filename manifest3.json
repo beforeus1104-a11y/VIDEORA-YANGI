@@ -1,13 +1,13 @@
 {
-  "version": "7.9.0",
+  "version": "7.9.4",
   "date": "2026-11-16",
   "notes": [
-    "7.9.0: telefonda qotish tuzatildi (jonli ko'rinishlar yengillashdi); ChatGPT kompyuterda brauzerda ochiladi"
+    "7.9.4: Yangi yo'nalish (sinovda) — «Tiles Hop». Monster: o'z musiqangizni yuklash va ChatGPT uchun rasm master prompti. Stickman: rasm promptlari kadr matniga mos yoziladi. Kompyuterda ChatGPT oddiy brauzerda ochiladi."
   ],
-  "file": "videora-7.9.0.bin",
-  "sig": "UohKSKAPP+Aq3X/eIQkA6xl2fyPv88YvGZgL6nABzwdTMVaP8HrsIXKsDMRk2uFm1pxDnOG2aZf/atUv37E1dA==",
-  "size": 9980341,
-  "sha256": "ad8f14a865b6cf1dd41f4dd01a6d33908552a8dbceab8a7e49e7a955879129a1",
+  "file": "videora-7.9.4.bin",
+  "sig": "bu3XxiQ+3u4dz6EJ/JDWLygJe/3OBsZUCInXfLG2DZ7gYMUDolYMU4iPB2mFMkvnYh5FCo3Ek8jB31FRtLWa3g==",
+  "size": 10148920,
+  "sha256": "65ff24f18f2d6ec404a44da2338e0be96abab3d5fcde3634e1f7f79e2e49e6a5",
   "full": false,
   "apk": "https://raw.githubusercontent.com/beforeus1104-a11y/videora-yangi/main/yuklab-olish/Videora-7.3.1.apk"
 }
