@@ -1,13 +1,13 @@
 {
-  "version": "7.9.4",
+  "version": "7.9.5",
   "date": "2026-11-16",
   "notes": [
-    "7.9.4: Yangi yo'nalish (sinovda) — «Tiles Hop». Monster: o'z musiqangizni yuklash va ChatGPT uchun rasm master prompti. Stickman: rasm promptlari kadr matniga mos yoziladi. Kompyuterda ChatGPT oddiy brauzerda ochiladi."
+    "7.9.5: Stickman — ovozni eshitib moslashda gap qo'shni bo'lakka yozilib ketsa tuzatiladi (rasm va subtitr ovozdan oldin ketmaydi)."
   ],
-  "file": "videora-7.9.4.bin",
-  "sig": "bu3XxiQ+3u4dz6EJ/JDWLygJe/3OBsZUCInXfLG2DZ7gYMUDolYMU4iPB2mFMkvnYh5FCo3Ek8jB31FRtLWa3g==",
-  "size": 10148920,
-  "sha256": "65ff24f18f2d6ec404a44da2338e0be96abab3d5fcde3634e1f7f79e2e49e6a5",
+  "file": "videora-7.9.5.bin",
+  "sig": "voWwBV3PFa7/HzIW1u9cE4T1rwafDQCuKAdvJW4xi6CxighQNF3Jypj11B6bU/LTkVP2dJ9WX6txg112eteohA==",
+  "size": 10153150,
+  "sha256": "04817560e3f92f32b75527bc87571af757fd2db1c9291af2e4d877b076d784ec",
   "full": false,
   "apk": "https://raw.githubusercontent.com/beforeus1104-a11y/videora-yangi/main/yuklab-olish/Videora-7.3.1.apk"
 }
