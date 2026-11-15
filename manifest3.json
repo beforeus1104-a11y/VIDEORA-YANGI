@@ -1,13 +1,13 @@
 {
-  "version": "7.9.3",
-  "date": "2026-11-15",
+  "version": "7.9.0",
+  "date": "2026-11-16",
   "notes": [
-    "7.9.3: Yangi yo'nalish — «Futbol Shorts»: futbolchining asl rasmini kulgili yuzlar orasidan topish (tik Shorts, 1080×1920). Pinterestdan qidirish tugmasi, kulgili yuzlarni dastur o'zi yasaydi."
+    "7.9.0: telefonda qotish tuzatildi (jonli ko'rinishlar yengillashdi); ChatGPT kompyuterda brauzerda ochiladi"
   ],
-  "file": "videora-7.9.3.bin",
-  "sig": "fr4nWp6VoQGPVRrA7k1c+y/eGmfDuxroVPqEKQfX9RLXDVp++/TCTtOgGwc7QOVWdM7SrjlCMmApWxJPPV7Vjg==",
-  "size": 10092604,
-  "sha256": "4c304d7609fb4d84e728a190478a3ff06faf9f565b45c013be4a915dd769fb9d",
+  "file": "videora-7.9.0.bin",
+  "sig": "UohKSKAPP+Aq3X/eIQkA6xl2fyPv88YvGZgL6nABzwdTMVaP8HrsIXKsDMRk2uFm1pxDnOG2aZf/atUv37E1dA==",
+  "size": 9980341,
+  "sha256": "ad8f14a865b6cf1dd41f4dd01a6d33908552a8dbceab8a7e49e7a955879129a1",
   "full": false,
   "apk": "https://raw.githubusercontent.com/beforeus1104-a11y/videora-yangi/main/yuklab-olish/Videora-7.3.1.apk"
 }
