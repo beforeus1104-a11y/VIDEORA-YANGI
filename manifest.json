@@ -1,13 +1,13 @@
 {
-  "version": "7.9.6",
+  "version": "7.9.7",
   "date": "2026-11-16",
   "notes": [
-    "7.9.6: Bosh sahifada «Futbol Shorts» va «Tiles Hop» kartalariga yangi banner rasmi."
+    "7.9.7: Futbol Shorts, Tiles Hop va Ovozdan top — «Videoni saqlash» bosilganda saqlanish jarayoni va «Saqlandi» xabari ko'rinadi."
   ],
-  "file": "videora-7.9.6.bin",
-  "sig": "0eJKzHdaU4B7T5Y6wGZiBScITK1dBjMjeRG7mFsht4svcDBSXL0Nb6C29tkq6Df8v3FUvDmrbj7bQw4QjEodvg==",
-  "size": 10372518,
-  "sha256": "dbac637054c1c268b95d2fe11b12e9d66f8082aa0ac91bf2b361478e83cf57de",
+  "file": "videora-7.9.7.bin",
+  "sig": "i2//mRNo31uPjcYeqU6RemdW2hx/QwM8HV32GJwcXK5Bj2wdjbVUnZMgPyksmbquYu0hF1/xpm3PGf+q01ftBQ==",
+  "size": 10373750,
+  "sha256": "3c11dcd8225f9af62907f3bd4b9a477b6239d2d848b97da8125db7dad130f1e7",
   "full": false,
   "apk": "https://raw.githubusercontent.com/beforeus1104-a11y/videora-yangi/main/yuklab-olish/Videora-7.3.1.apk"
 }
