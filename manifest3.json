@@ -1,13 +1,13 @@
 {
-  "version": "7.9.7",
+  "version": "7.9.8",
   "date": "2026-11-16",
   "notes": [
-    "7.9.7: Futbol Shorts, Tiles Hop va Ovozdan top — «Videoni saqlash» bosilganda saqlanish jarayoni va «Saqlandi» xabari ko'rinadi."
+    "7.9.8: Futbol Shorts, Tiles Hop va Ovozdan top — video yasash paytida telefon qotib qolmaydi; Futbol Shorts'da «Ko'rib chiqish» videoni o'ynatadi."
   ],
-  "file": "videora-7.9.7.bin",
-  "sig": "i2//mRNo31uPjcYeqU6RemdW2hx/QwM8HV32GJwcXK5Bj2wdjbVUnZMgPyksmbquYu0hF1/xpm3PGf+q01ftBQ==",
-  "size": 10373750,
-  "sha256": "3c11dcd8225f9af62907f3bd4b9a477b6239d2d848b97da8125db7dad130f1e7",
+  "file": "videora-7.9.8.bin",
+  "sig": "qMnDESI+iZMRN8BC3Lm5aolKtPM+EvdR8EJm+4IJdbTtU4yTmkeOC7xYP3WDWgJDAJ/3OawTP5u6KFC+2cCh4A==",
+  "size": 10375797,
+  "sha256": "ac3e343aaddae2336bb7f799224d8ff390974932930e1659bc4038c560c429c2",
   "full": false,
   "apk": "https://raw.githubusercontent.com/beforeus1104-a11y/videora-yangi/main/yuklab-olish/Videora-7.3.1.apk"
 }
