@@ -1,13 +1,13 @@
 {
- "version": "7.9.9",
+ "version": "8.0.0",
  "date": "2026-11-17",
  "notes": [
-  "Monster: katta figura va yozuvlar, klaviatura ovozi, bayroqlar, 5 metrdan boshlash, muqova, Pinterest, System prompt"
+  "Monster: video boshida huk — personajlar birma-bir chiqadi"
  ],
- "file": "videora-7.9.9.bin",
- "sig": "GbOW5WizabBVPYk+LtuRfOEn/7xPfyZVsU+2m0COI44xasRfJ8mU440G1YSZbacDYeeolJcZCT/w7IGRcq3SFA==",
- "size": 10404447,
- "sha256": "48f8f3b7d4e612bd1b122b0ef43827425e9a94cee04b0b798a6d428c5ebca6da",
+ "file": "videora-8.0.0.bin",
+ "sig": "Rq5Khq9wPOu/0TV6iWp7/R3X0JFO4OkAyFLgr79If3wGOwf47eSkL1fJnP5Gf9vXHcRsupw/DbCfJQFj60wr+w==",
+ "size": 10408573,
+ "sha256": "bce178b1cbb330bf114921643a7582c7d7222c40468ef6cca21fc19d293ce980",
  "full": false,
  "apk": "https://raw.githubusercontent.com/beforeus1104-a11y/videora-yangi/main/yuklab-olish/Videora-7.3.1.apk"
 }
