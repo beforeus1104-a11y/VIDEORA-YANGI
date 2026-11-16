@@ -1,13 +1,13 @@
 {
-  "version": "7.9.8",
-  "date": "2026-11-16",
-  "notes": [
-    "7.9.8: Futbol Shorts, Tiles Hop va Ovozdan top — video yasash paytida telefon qotib qolmaydi; Futbol Shorts'da «Ko'rib chiqish» videoni o'ynatadi."
-  ],
-  "file": "videora-7.9.8.bin",
-  "sig": "qMnDESI+iZMRN8BC3Lm5aolKtPM+EvdR8EJm+4IJdbTtU4yTmkeOC7xYP3WDWgJDAJ/3OawTP5u6KFC+2cCh4A==",
-  "size": 10375797,
-  "sha256": "ac3e343aaddae2336bb7f799224d8ff390974932930e1659bc4038c560c429c2",
-  "full": false,
-  "apk": "https://raw.githubusercontent.com/beforeus1104-a11y/videora-yangi/main/yuklab-olish/Videora-7.3.1.apk"
+ "version": "7.9.9",
+ "date": "2026-11-17",
+ "notes": [
+  "Monster: katta figura va yozuvlar, klaviatura ovozi, bayroqlar, 5 metrdan boshlash, muqova, Pinterest, System prompt"
+ ],
+ "file": "videora-7.9.9.bin",
+ "sig": "GbOW5WizabBVPYk+LtuRfOEn/7xPfyZVsU+2m0COI44xasRfJ8mU440G1YSZbacDYeeolJcZCT/w7IGRcq3SFA==",
+ "size": 10404447,
+ "sha256": "48f8f3b7d4e612bd1b122b0ef43827425e9a94cee04b0b798a6d428c5ebca6da",
+ "full": false,
+ "apk": "https://raw.githubusercontent.com/beforeus1104-a11y/videora-yangi/main/yuklab-olish/Videora-7.3.1.apk"
 }
