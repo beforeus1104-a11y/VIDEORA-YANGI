@@ -1,13 +1,13 @@
 {
-  "version": "7.9.5",
+  "version": "7.9.6",
   "date": "2026-11-16",
   "notes": [
-    "7.9.5: Stickman — ovozni eshitib moslashda gap qo'shni bo'lakka yozilib ketsa tuzatiladi (rasm va subtitr ovozdan oldin ketmaydi)."
+    "7.9.6: Bosh sahifada «Futbol Shorts» va «Tiles Hop» kartalariga yangi banner rasmi."
   ],
-  "file": "videora-7.9.5.bin",
-  "sig": "voWwBV3PFa7/HzIW1u9cE4T1rwafDQCuKAdvJW4xi6CxighQNF3Jypj11B6bU/LTkVP2dJ9WX6txg112eteohA==",
-  "size": 10153150,
-  "sha256": "04817560e3f92f32b75527bc87571af757fd2db1c9291af2e4d877b076d784ec",
+  "file": "videora-7.9.6.bin",
+  "sig": "0eJKzHdaU4B7T5Y6wGZiBScITK1dBjMjeRG7mFsht4svcDBSXL0Nb6C29tkq6Df8v3FUvDmrbj7bQw4QjEodvg==",
+  "size": 10372518,
+  "sha256": "dbac637054c1c268b95d2fe11b12e9d66f8082aa0ac91bf2b361478e83cf57de",
   "full": false,
   "apk": "https://raw.githubusercontent.com/beforeus1104-a11y/videora-yangi/main/yuklab-olish/Videora-7.3.1.apk"
 }
