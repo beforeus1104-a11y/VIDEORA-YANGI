@@ -1,13 +1,13 @@
 {
- "version": "8.0.0",
+ "version": "8.0.1",
  "date": "2026-11-17",
  "notes": [
-  "Monster: video boshida huk — personajlar birma-bir chiqadi"
+  "Monster: haqiqiy rasm necha soniya turishini tanlash; haqiqiy rasmlar personajga to'g'ri tushadi"
  ],
- "file": "videora-8.0.0.bin",
- "sig": "Rq5Khq9wPOu/0TV6iWp7/R3X0JFO4OkAyFLgr79If3wGOwf47eSkL1fJnP5Gf9vXHcRsupw/DbCfJQFj60wr+w==",
- "size": 10408573,
- "sha256": "bce178b1cbb330bf114921643a7582c7d7222c40468ef6cca21fc19d293ce980",
+ "file": "videora-8.0.1.bin",
+ "sig": "nGx9tE0KYLQonHs9COskLPIB9PIM6yTxyPqPKN37D5OfQL3DYjo33Nd+H3FhYloSqbd2jQOhE6/M8mTD4wB7Jg==",
+ "size": 10416913,
+ "sha256": "350c4985caea85beb0197641788c3dfa7ef596a4c5c8bfaa6aeede9946e80a06",
  "full": false,
  "apk": "https://raw.githubusercontent.com/beforeus1104-a11y/videora-yangi/main/yuklab-olish/Videora-7.3.1.apk"
 }
