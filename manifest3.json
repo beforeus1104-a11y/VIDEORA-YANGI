@@ -1,13 +1,13 @@
 {
- "version": "8.0.1",
+ "version": "8.0.2",
  "date": "2026-11-17",
  "notes": [
-  "Monster: haqiqiy rasm necha soniya turishini tanlash; haqiqiy rasmlar personajga to'g'ri tushadi"
+  "Yangi yo'nalish (Quiz ichida): This or That"
  ],
- "file": "videora-8.0.1.bin",
- "sig": "nGx9tE0KYLQonHs9COskLPIB9PIM6yTxyPqPKN37D5OfQL3DYjo33Nd+H3FhYloSqbd2jQOhE6/M8mTD4wB7Jg==",
- "size": 10416913,
- "sha256": "350c4985caea85beb0197641788c3dfa7ef596a4c5c8bfaa6aeede9946e80a06",
+ "file": "videora-8.0.2.bin",
+ "sig": "IbKjI/gq5E01qKITePtyCPJBNxudGr0JlvPVjp8Y+WH2z9r90+rNf9V40ih1BH30/eAm79UE67B5HkXoElIqfA==",
+ "size": 10488598,
+ "sha256": "12f71288f090cd26cc55528f071b0ce2ba5c394e824fccaf51ab97f11f05e27b",
  "full": false,
  "apk": "https://raw.githubusercontent.com/beforeus1104-a11y/videora-yangi/main/yuklab-olish/Videora-7.3.1.apk"
 }
