@@ -1,13 +1,13 @@
 {
- "version": "8.0.3",
+ "version": "8.0.4",
  "date": "2026-11-17",
  "notes": [
-  "Quiz ichida yangi yo'nalish: Tugmani tanla (HA / YO'Q / BALKI)"
+  "Tugmani tanla: namunadagi uslub, 12 fon, 12 shrift; tashqi AI ovozi uchun diktor matni"
  ],
- "file": "videora-8.0.3.bin",
- "sig": "oFdxhS9GJLmWWNxgNjr3/spFxvua4AIqlsRcNoQYp811/yF7RDGaqLxW+uVQcPGMlOIx+U23NH0oC+fnWRFnIw==",
- "size": 10552620,
- "sha256": "e3dd5ee56b4db6f24f405572df12c40a3de5d9116b609f81d6461ae4d5df42f6",
+ "file": "videora-8.0.4.bin",
+ "sig": "qUKwlQSJ5+gStq1Ngk5nc4RbFBvI88oYjyXxj6SKr7V4ilkWLgJZkZlQUHA+5bD2l88vh2+nJjlGyVTFPwmGqw==",
+ "size": 10573771,
+ "sha256": "8bbcca0cf03b34ba7734330fc771b90cdd121ffdbc47a95da9c0cb4b3accde52",
  "full": false,
  "apk": "https://raw.githubusercontent.com/beforeus1104-a11y/videora-yangi/main/yuklab-olish/Videora-7.3.1.apk"
 }
