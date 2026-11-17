@@ -1,13 +1,13 @@
 {
- "version": "8.0.2",
+ "version": "8.0.3",
  "date": "2026-11-17",
  "notes": [
-  "Yangi yo'nalish (Quiz ichida): This or That"
+  "Quiz ichida yangi yo'nalish: Tugmani tanla (HA / YO'Q / BALKI)"
  ],
- "file": "videora-8.0.2.bin",
- "sig": "IbKjI/gq5E01qKITePtyCPJBNxudGr0JlvPVjp8Y+WH2z9r90+rNf9V40ih1BH30/eAm79UE67B5HkXoElIqfA==",
- "size": 10488598,
- "sha256": "12f71288f090cd26cc55528f071b0ce2ba5c394e824fccaf51ab97f11f05e27b",
+ "file": "videora-8.0.3.bin",
+ "sig": "oFdxhS9GJLmWWNxgNjr3/spFxvua4AIqlsRcNoQYp811/yF7RDGaqLxW+uVQcPGMlOIx+U23NH0oC+fnWRFnIw==",
+ "size": 10552620,
+ "sha256": "e3dd5ee56b4db6f24f405572df12c40a3de5d9116b609f81d6461ae4d5df42f6",
  "full": false,
  "apk": "https://raw.githubusercontent.com/beforeus1104-a11y/videora-yangi/main/yuklab-olish/Videora-7.3.1.apk"
 }
