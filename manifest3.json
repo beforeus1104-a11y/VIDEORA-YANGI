@@ -1,13 +1,13 @@
 {
- "version": "8.0.4",
+ "version": "8.0.5",
  "date": "2026-11-17",
  "notes": [
-  "Tugmani tanla: namunadagi uslub, 12 fon, 12 shrift; tashqi AI ovozi uchun diktor matni"
+  "This or That: namuna uslubi (logo, sarlavha, juftliklar, part 2, rahmat, end screen), diktor chiqmasa ham video yaratiladi"
  ],
- "file": "videora-8.0.4.bin",
- "sig": "qUKwlQSJ5+gStq1Ngk5nc4RbFBvI88oYjyXxj6SKr7V4ilkWLgJZkZlQUHA+5bD2l88vh2+nJjlGyVTFPwmGqw==",
- "size": 10573771,
- "sha256": "8bbcca0cf03b34ba7734330fc771b90cdd121ffdbc47a95da9c0cb4b3accde52",
+ "file": "videora-8.0.5.bin",
+ "sig": "JkYsXxFkzFMhSXHDTMe2Os7jdaYr8wTEBxnWihzS9nZfojV0/MjfNiFiYbkoNFY80GlfX78WM+QYQ8yXtBiXkQ==",
+ "size": 10758149,
+ "sha256": "5ad0b34bcc52c2ac28e0af72fc86c6ecccc572f76d65da3a93e557c70a96842b",
  "full": false,
  "apk": "https://raw.githubusercontent.com/beforeus1104-a11y/videora-yangi/main/yuklab-olish/Videora-7.3.1.apk"
 }
