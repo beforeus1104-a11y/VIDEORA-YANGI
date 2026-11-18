@@ -1,13 +1,13 @@
 {
- "version": "8.0.6",
+ "version": "8.0.7",
  "date": "2026-11-18",
  "notes": [
-  "Google ovozi qayta ishlaydi (Google eski ovoz modellarini 17-noyabrda o'chirgan — yangi 3.8 modelga o'tildi); tashqi AI ovozini yuklash tuzatildi; This or That Diktor qadami yangi dizaynda"
+  "Google ovozi: rasmiy so'rov shakli; xato bo'lsa Google'ning asl javobi ko'rsatiladi. Monster: ChatGPT javobini joylab, ro'yxatni birdaniga to'ldirish"
  ],
- "file": "videora-8.0.6.bin",
- "sig": "QdByvjldiyIv6N+TDfiJg9GExp+9TKNcpL6nREzNt3065DPYjGzKG9j7pw4FXpPOaC19kbfKVBPjEPy9tPqc4w==",
- "size": 10778636,
- "sha256": "3a86c0c53a651753832cdf81de12b11bceadd3ad428ae867edbe152a29f00c5a",
+ "file": "videora-8.0.7.bin",
+ "sig": "jir7F9mT3nGQR+vJCumdRgdlEkx1XzZuNpQcKZMaVRNoW90z5SO4kCazQi0atsbuRpHf+PXjELGoJvwDIVGT3g==",
+ "size": 10789683,
+ "sha256": "fd4cfae0075e5eac89908458549ef5f6536410f8aab68c3f367a10d7ce00ba87",
  "full": false,
  "apk": "https://raw.githubusercontent.com/beforeus1104-a11y/videora-yangi/main/yuklab-olish/Videora-7.3.1.apk"
 }
