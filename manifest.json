@@ -1,13 +1,13 @@
 {
- "version": "8.0.5",
- "date": "2026-11-17",
+ "version": "8.0.6",
+ "date": "2026-11-18",
  "notes": [
-  "This or That: namuna uslubi (logo, sarlavha, juftliklar, part 2, rahmat, end screen), diktor chiqmasa ham video yaratiladi"
+  "Google ovozi qayta ishlaydi (Google eski ovoz modellarini 17-noyabrda o'chirgan — yangi 3.8 modelga o'tildi); tashqi AI ovozini yuklash tuzatildi; This or That Diktor qadami yangi dizaynda"
  ],
- "file": "videora-8.0.5.bin",
- "sig": "JkYsXxFkzFMhSXHDTMe2Os7jdaYr8wTEBxnWihzS9nZfojV0/MjfNiFiYbkoNFY80GlfX78WM+QYQ8yXtBiXkQ==",
- "size": 10758149,
- "sha256": "5ad0b34bcc52c2ac28e0af72fc86c6ecccc572f76d65da3a93e557c70a96842b",
+ "file": "videora-8.0.6.bin",
+ "sig": "QdByvjldiyIv6N+TDfiJg9GExp+9TKNcpL6nREzNt3065DPYjGzKG9j7pw4FXpPOaC19kbfKVBPjEPy9tPqc4w==",
+ "size": 10778636,
+ "sha256": "3a86c0c53a651753832cdf81de12b11bceadd3ad428ae867edbe152a29f00c5a",
  "full": false,
  "apk": "https://raw.githubusercontent.com/beforeus1104-a11y/videora-yangi/main/yuklab-olish/Videora-7.3.1.apk"
 }
