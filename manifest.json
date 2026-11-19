@@ -1,13 +1,13 @@
 {
- "version": "8.0.7",
- "date": "2026-11-18",
+ "version": "8.0.8",
+ "date": "2026-11-19",
  "notes": [
-  "Google ovozi: rasmiy so'rov shakli; xato bo'lsa Google'ning asl javobi ko'rsatiladi. Monster: ChatGPT javobini joylab, ro'yxatni birdaniga to'ldirish"
+  "Quiz: yozuvlar mitti bo'lib qolish xatosi tuzatildi (Futbol Shorts bilan nom to'qnashuvi); uzun intro qatorlari sahifalab ko'rsatiladi"
  ],
- "file": "videora-8.0.7.bin",
- "sig": "jir7F9mT3nGQR+vJCumdRgdlEkx1XzZuNpQcKZMaVRNoW90z5SO4kCazQi0atsbuRpHf+PXjELGoJvwDIVGT3g==",
- "size": 10789683,
- "sha256": "fd4cfae0075e5eac89908458549ef5f6536410f8aab68c3f367a10d7ce00ba87",
+ "file": "videora-8.0.8.bin",
+ "sig": "gtzstbzByQ23PJqPnKk8meDjiTKgwohObLPTezL//QS9TdhEWZOQShRj9EFPCUk2CJmOrvxoSGJP5LX8eaui8w==",
+ "size": 10793007,
+ "sha256": "1907548ca097b5c25d5fce0367bb4c4deac4befe54c813a56b8cd22b03c5bda3",
  "full": false,
  "apk": "https://raw.githubusercontent.com/beforeus1104-a11y/videora-yangi/main/yuklab-olish/Videora-7.3.1.apk"
 }
