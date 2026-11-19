@@ -1,13 +1,13 @@
 {
- "version": "8.0.8",
- "date": "2026-11-19",
+ "version": "8.0.9",
+ "date": "2026-11-20",
  "notes": [
-  "Quiz: yozuvlar mitti bo'lib qolish xatosi tuzatildi (Futbol Shorts bilan nom to'qnashuvi); uzun intro qatorlari sahifalab ko'rsatiladi"
+  "Monster: soya rasmlari ham personajga nomi bo'yicha tushadi (haqiqiy rasm bilan juftlanadi)"
  ],
- "file": "videora-8.0.8.bin",
- "sig": "gtzstbzByQ23PJqPnKk8meDjiTKgwohObLPTezL//QS9TdhEWZOQShRj9EFPCUk2CJmOrvxoSGJP5LX8eaui8w==",
- "size": 10793007,
- "sha256": "1907548ca097b5c25d5fce0367bb4c4deac4befe54c813a56b8cd22b03c5bda3",
+ "file": "videora-8.0.9.bin",
+ "sig": "dIPV2X/Mdj/8kMqgODzFXj4Tgt5T8gjwgdvsVhgnGwZfF+kvVFfno914yO3roOm4G4+TTEOGPwFaiEngvnM9ZA==",
+ "size": 10795494,
+ "sha256": "2ac6f29349bb20e0f62adc3dbdcdfeecae0cd8804f4eebe46c0bcec708e7351d",
  "full": false,
  "apk": "https://raw.githubusercontent.com/beforeus1104-a11y/videora-yangi/main/yuklab-olish/Videora-7.3.1.apk"
 }
