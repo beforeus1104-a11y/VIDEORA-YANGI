@@ -1,13 +1,13 @@
 {
- "version": "8.1.1",
+ "version": "8.1.2",
  "date": "2026-11-20",
  "notes": [
-  "Toza ko'rinish: tushuntirish matnlari «i» bosilganda ochiladi, «tez orada» bo'limlar olib tashlandi"
+  "Tanlov tugmalari va katta tanlov kartalari (taymerlar, musiqa) yig'iq turadi, bosilganda ochiladi"
  ],
- "file": "videora-8.1.1.bin",
- "sig": "Pq2RPXPZi9EB/jFnnPLfh2qpIioDdp//RcW7ZEg5XNHiBtB8Tdwjfmcx4/YBCwwqQcuZQviS9QrDFhCS29n2Jw==",
- "size": 10812560,
- "sha256": "2e4866d2fb4dc1443c0d9abb64271a1595dce1f393edb856f75fe8ba80cf2b9d",
+ "file": "videora-8.1.2.bin",
+ "sig": "cotRDeqKlHuHDxKinAoByITikVWjpb3TnaP5oxSAYrxfCyH+Gp+lrbCl1WJ9ngJvOlsWzSoMtp8VrpMMQhxaCQ==",
+ "size": 10821575,
+ "sha256": "0907a4dc908df7ee3829fa7bf017d2e9c9edd2a63bc64565b6919f57febe6600",
  "full": false,
  "apk": "https://raw.githubusercontent.com/beforeus1104-a11y/videora-yangi/main/yuklab-olish/Videora-7.3.1.apk"
 }
