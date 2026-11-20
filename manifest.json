@@ -1,13 +1,13 @@
 {
- "version": "8.1.5",
- "date": "2026-11-21",
- "notes": [
-  "Tartiblash: ortiqcha kartalar olib tashlandi, sozlamalar yig'iq, Quiz kartalari ketma-ket, YouTube uchun Eksportda, so'nggi loyihalar ochiladi, klassik studiyada Bosh menyu, telefonda orqaga tugmasi"
- ],
- "file": "videora-8.1.5.bin",
- "sig": "aYa07GNsKy47ByE4J7DMjZl1Xal1gEaOKNQiXWwFznvbUHaePKLsODQi0Hq/cq+ma39xDU7ok4+96Cag3VtiAw==",
- "size": 10849398,
- "sha256": "3e04342a23c51120e90b6354ae686c187a05b7087ef70426cd2e651c6412a679",
- "full": false,
- "apk": "https://raw.githubusercontent.com/beforeus1104-a11y/videora-yangi/main/yuklab-olish/Videora-7.3.1.apk"
+  "version": "8.1.6",
+  "date": "2026-11-21",
+  "notes": [
+    "This or That: birinchisimi/ikkinchisimi, mavzu tavsiyasi, ispan tili, yangi ranglar; interfeys tillari"
+  ],
+  "file": "videora-8.1.6.bin",
+  "sig": "YKw/nzHhbNioNxZ2U99njDUkFgJVYzplYc2lFKAe1p6Zcp2sUJIhv3J32ZQLnM20cQJYD64XszMogTHfRmNYsg==",
+  "size": 10909852,
+  "sha256": "b2e21d238661185513f70b249e5ec35b47fca32e475bc3d3121108ec49b34f20",
+  "full": false,
+  "apk": "https://raw.githubusercontent.com/beforeus1104-a11y/videora-yangi/main/yuklab-olish/Videora-7.3.1.apk"
 }
