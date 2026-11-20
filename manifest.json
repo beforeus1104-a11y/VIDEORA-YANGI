@@ -1,13 +1,13 @@
 {
-  "version": "8.1.6",
+  "version": "8.1.7",
   "date": "2026-11-21",
   "notes": [
-    "This or That: birinchisimi/ikkinchisimi, mavzu tavsiyasi, ispan tili, yangi ranglar; interfeys tillari"
+    "Monster dastur ranglarida; Quiz muqovalari; This or That: ChatGPT master prompt; Gemini mavzu xatosi tuzatildi; pastki Tillar tugmasi olib tashlandi"
   ],
-  "file": "videora-8.1.6.bin",
-  "sig": "YKw/nzHhbNioNxZ2U99njDUkFgJVYzplYc2lFKAe1p6Zcp2sUJIhv3J32ZQLnM20cQJYD64XszMogTHfRmNYsg==",
-  "size": 10909852,
-  "sha256": "b2e21d238661185513f70b249e5ec35b47fca32e475bc3d3121108ec49b34f20",
+  "file": "videora-8.1.7.bin",
+  "sig": "H5qrdG1fbWRsrWRXSyTBsRBwWW1h60xu1C6ZdJp1LiMSyUYsQ0MGSNLNj5u1xW11sB0Z9o0/ra6BjNs4LUQ4qQ==",
+  "size": 11148418,
+  "sha256": "a5c81105afa0e3140c1b16a793c0da5b808b9ef4b0b68aaea9601c9b93984326",
   "full": false,
   "apk": "https://raw.githubusercontent.com/beforeus1104-a11y/videora-yangi/main/yuklab-olish/Videora-7.3.1.apk"
 }
