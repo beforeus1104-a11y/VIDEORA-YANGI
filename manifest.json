@@ -1,13 +1,13 @@
 {
- "version": "8.1.3",
+ "version": "8.1.4",
  "date": "2026-11-21",
  "notes": [
-  "Sherik kalitlari: Videora Sherik dasturi bergan kalitlar qabul qilinadi; asoschi sherik.json orqali to'xtata oladi"
+  "Monster muqovasi yangi ko'rinishda; «This or That» va «Tugmani tanla» bo'limlari qaytarildi"
  ],
- "file": "videora-8.1.3.bin",
- "sig": "2VB5j4sduTX3y58ulQGdHaKoikp8BmO8agDr6t5oMgGOOQsmzd/6nBJ1798FjNf1aRrE5SOk18ypiOl0oAEN9w==",
- "size": 10827209,
- "sha256": "3fbae7b28d3578b64610e0799c981f8e588bbb0540480cf7013c0049796b58b7",
+ "file": "videora-8.1.4.bin",
+ "sig": "jykAjt+uoI1dw/nZxbSv5tRF0UQ3R9qbYpSqDQ4pb0RLfVmEszRXTbyReqjaANpDO1Au/bHMkk6uXcfWVjKmjg==",
+ "size": 10834782,
+ "sha256": "4714d3cf71231b845231e16be31294799eed4fa6bb08ee2456fa94029a11f03b",
  "full": false,
  "apk": "https://raw.githubusercontent.com/beforeus1104-a11y/videora-yangi/main/yuklab-olish/Videora-7.3.1.apk"
 }
