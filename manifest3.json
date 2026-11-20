@@ -1,13 +1,13 @@
 {
- "version": "8.1.4",
+ "version": "8.1.5",
  "date": "2026-11-21",
  "notes": [
-  "Monster muqovasi yangi ko'rinishda; «This or That» va «Tugmani tanla» bo'limlari qaytarildi"
+  "Tartiblash: ortiqcha kartalar olib tashlandi, sozlamalar yig'iq, Quiz kartalari ketma-ket, YouTube uchun Eksportda, so'nggi loyihalar ochiladi, klassik studiyada Bosh menyu, telefonda orqaga tugmasi"
  ],
- "file": "videora-8.1.4.bin",
- "sig": "jykAjt+uoI1dw/nZxbSv5tRF0UQ3R9qbYpSqDQ4pb0RLfVmEszRXTbyReqjaANpDO1Au/bHMkk6uXcfWVjKmjg==",
- "size": 10834782,
- "sha256": "4714d3cf71231b845231e16be31294799eed4fa6bb08ee2456fa94029a11f03b",
+ "file": "videora-8.1.5.bin",
+ "sig": "aYa07GNsKy47ByE4J7DMjZl1Xal1gEaOKNQiXWwFznvbUHaePKLsODQi0Hq/cq+ma39xDU7ok4+96Cag3VtiAw==",
+ "size": 10849398,
+ "sha256": "3e04342a23c51120e90b6354ae686c187a05b7087ef70426cd2e651c6412a679",
  "full": false,
  "apk": "https://raw.githubusercontent.com/beforeus1104-a11y/videora-yangi/main/yuklab-olish/Videora-7.3.1.apk"
 }
