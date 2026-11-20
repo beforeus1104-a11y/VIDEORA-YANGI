@@ -1,13 +1,13 @@
 {
- "version": "8.1.2",
- "date": "2026-11-20",
+ "version": "8.1.3",
+ "date": "2026-11-21",
  "notes": [
-  "Tanlov tugmalari va katta tanlov kartalari (taymerlar, musiqa) yig'iq turadi, bosilganda ochiladi"
+  "Sherik kalitlari: Videora Sherik dasturi bergan kalitlar qabul qilinadi; asoschi sherik.json orqali to'xtata oladi"
  ],
- "file": "videora-8.1.2.bin",
- "sig": "cotRDeqKlHuHDxKinAoByITikVWjpb3TnaP5oxSAYrxfCyH+Gp+lrbCl1WJ9ngJvOlsWzSoMtp8VrpMMQhxaCQ==",
- "size": 10821575,
- "sha256": "0907a4dc908df7ee3829fa7bf017d2e9c9edd2a63bc64565b6919f57febe6600",
+ "file": "videora-8.1.3.bin",
+ "sig": "2VB5j4sduTX3y58ulQGdHaKoikp8BmO8agDr6t5oMgGOOQsmzd/6nBJ1798FjNf1aRrE5SOk18ypiOl0oAEN9w==",
+ "size": 10827209,
+ "sha256": "3fbae7b28d3578b64610e0799c981f8e588bbb0540480cf7013c0049796b58b7",
  "full": false,
  "apk": "https://raw.githubusercontent.com/beforeus1104-a11y/videora-yangi/main/yuklab-olish/Videora-7.3.1.apk"
 }
