@@ -1,13 +1,13 @@
 {
- "version": "8.1.0",
+ "version": "8.1.1",
  "date": "2026-11-20",
  "notes": [
-  "Monster: hukda eng katta gigant sir (?), kichiklar tez — gigantlar sekin, vaqt belgilari va «soniya → kim» qidiruvi"
+  "Toza ko'rinish: tushuntirish matnlari «i» bosilganda ochiladi, «tez orada» bo'limlar olib tashlandi"
  ],
- "file": "videora-8.1.0.bin",
- "sig": "pjUb8PtAGgeqS8LSzV3X8NsgBGCMFhR3tAbDhNkN8JdZpgMbagYKTIVs8o7zTkAixYahAbG1VpbGhjwHjSsTMQ==",
- "size": 10805117,
- "sha256": "8a32418f149e697ea99702d2c7c6e3dcca118e361936712870477d4a5e7e8f6a",
+ "file": "videora-8.1.1.bin",
+ "sig": "Pq2RPXPZi9EB/jFnnPLfh2qpIioDdp//RcW7ZEg5XNHiBtB8Tdwjfmcx4/YBCwwqQcuZQviS9QrDFhCS29n2Jw==",
+ "size": 10812560,
+ "sha256": "2e4866d2fb4dc1443c0d9abb64271a1595dce1f393edb856f75fe8ba80cf2b9d",
  "full": false,
  "apk": "https://raw.githubusercontent.com/beforeus1104-a11y/videora-yangi/main/yuklab-olish/Videora-7.3.1.apk"
 }
