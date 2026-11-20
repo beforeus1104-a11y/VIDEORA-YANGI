@@ -1,13 +1,13 @@
 {
- "version": "8.0.9",
+ "version": "8.1.0",
  "date": "2026-11-20",
  "notes": [
-  "Monster: soya rasmlari ham personajga nomi bo'yicha tushadi (haqiqiy rasm bilan juftlanadi)"
+  "Monster: hukda eng katta gigant sir (?), kichiklar tez — gigantlar sekin, vaqt belgilari va «soniya → kim» qidiruvi"
  ],
- "file": "videora-8.0.9.bin",
- "sig": "dIPV2X/Mdj/8kMqgODzFXj4Tgt5T8gjwgdvsVhgnGwZfF+kvVFfno914yO3roOm4G4+TTEOGPwFaiEngvnM9ZA==",
- "size": 10795494,
- "sha256": "2ac6f29349bb20e0f62adc3dbdcdfeecae0cd8804f4eebe46c0bcec708e7351d",
+ "file": "videora-8.1.0.bin",
+ "sig": "pjUb8PtAGgeqS8LSzV3X8NsgBGCMFhR3tAbDhNkN8JdZpgMbagYKTIVs8o7zTkAixYahAbG1VpbGhjwHjSsTMQ==",
+ "size": 10805117,
+ "sha256": "8a32418f149e697ea99702d2c7c6e3dcca118e361936712870477d4a5e7e8f6a",
  "full": false,
  "apk": "https://raw.githubusercontent.com/beforeus1104-a11y/videora-yangi/main/yuklab-olish/Videora-7.3.1.apk"
 }
