@@ -1,11 +1,11 @@
 {
   "sherik1": {
+    "faol": true,
+    "hammasi_bekor": false
+  },
+  "sherik2": {
     "faol": false,
     "hammasi_bekor": false,
     "stop": "2026-11-21"
-  },
-  "sherik2": {
-    "faol": true,
-    "hammasi_bekor": false
   }
 }
