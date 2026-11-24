@@ -19,3 +19,11 @@ MUHIM:
 - Tayyor videoni saqlash: "Saqlash" → "Videoni saqlash" (Rasmlar ilovasiga tushadi)
   yoki "Fayllarga saqlash".
 - Telefonda ovoz chiqmasa, yon tomondagi ovozsiz rejim tugmasini tekshiring.
+
+YANGI (8.2.0):
+- iPhone'da sayt Safari'da ochilsa, avval shu o'rnatish yo'riqnomasi to'liq ekranda chiqadi.
+- MUHIM: iPhone'da Safari va bosh ekrandagi Videora xotirasi alohida. Shuning uchun ID raqamni
+  adminga faqat BOSH EKRANDAGI Videora'dan yuboring. Safari'dagi ID bilan olingan kalit
+  o'rnatilgan Videora'da ishlamaydi — bunday mijozga o'rnatilgan ilovadagi ID bo'yicha yangi kalit bering.
+- Telegram yoki Instagram ichida ochilsa: "Safari'da ochish" ni tanlang.
+- iOS 16.3 va undan eski telefonlarda dastur umuman ochilmay qolardi (bitta yozuv xatosi) — tuzatildi.
