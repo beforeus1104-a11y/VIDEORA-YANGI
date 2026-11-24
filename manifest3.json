@@ -1,13 +1,13 @@
 {
-  "version": "8.1.9",
+  "version": "8.2.0",
   "date": "2026-11-24",
   "notes": [
-    "Turk tili barcha bo'limlarda; o'rtada Obuna bo'ling animatsiyasi; quiz muqovalari; This or That fon; nusxalar raqamsiz"
+    "iPhone: o'rnatish yo'riqnomasi oynasi; eski iOS'da dastur ochilmay qolish xatosi tuzatildi"
   ],
-  "file": "videora-8.1.9.bin",
-  "sig": "gIFK0FCu67K9sVkkN9jpZFyHcTQy3KlnvhqFB/G3BAKRJCCC0e1y6WUexY5tiqxdrf6s9VeFAHKsm3lBGc80Jw==",
-  "size": 11356245,
-  "sha256": "8e49107c0d80320f0f2c65fc512d2155a61fd978e09beee4af85482cbc39b837",
+  "file": "videora-8.2.0.bin",
+  "sig": "3QPRg6vLC7HScg/gwKy5cnIoOGbX764yzcRPmI0btR8EOuJ+QRt6gjmKrduxXKTdI1fb6luxR85fJESLgGOj7A==",
+  "size": 11363377,
+  "sha256": "85e9399225dc77f1ea30146812892c5b8aae7c66e91dfbb9576cf11f10ac8888",
   "full": false,
   "apk": "https://raw.githubusercontent.com/beforeus1104-a11y/videora-yangi/main/yuklab-olish/Videora-7.3.1.apk"
 }
