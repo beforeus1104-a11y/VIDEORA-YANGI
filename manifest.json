@@ -1,13 +1,13 @@
 {
-  "version": "8.1.8",
-  "date": "2026-11-21",
+  "version": "8.1.9",
+  "date": "2026-11-24",
   "notes": [
-    "Sherik: MacBook nusxasi uchun yangi kalit, Windows nusxasi to'xtatildi"
+    "Turk tili barcha bo'limlarda; o'rtada Obuna bo'ling animatsiyasi; quiz muqovalari; This or That fon; nusxalar raqamsiz"
   ],
-  "file": "videora-8.1.8.bin",
-  "sig": "8G4M8KpbsoGjMG6auqbXb9bIlkeawTWRH1ZU5EFB4aT/FWVbuhjr1+oF/bNAvxsXLtA5qr2gW7gumYcpQaOnLg==",
-  "size": 11149932,
-  "sha256": "1def62fe737f2064791dc62ad2ade972fc6e8c056f4783c13e9a4b9ea11ed679",
+  "file": "videora-8.1.9.bin",
+  "sig": "gIFK0FCu67K9sVkkN9jpZFyHcTQy3KlnvhqFB/G3BAKRJCCC0e1y6WUexY5tiqxdrf6s9VeFAHKsm3lBGc80Jw==",
+  "size": 11356245,
+  "sha256": "8e49107c0d80320f0f2c65fc512d2155a61fd978e09beee4af85482cbc39b837",
   "full": false,
   "apk": "https://raw.githubusercontent.com/beforeus1104-a11y/videora-yangi/main/yuklab-olish/Videora-7.3.1.apk"
 }
