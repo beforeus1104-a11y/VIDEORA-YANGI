@@ -1,13 +1,13 @@
 {
-  "version": "8.2.1",
+  "version": "8.2.2",
   "date": "2026-11-25",
   "notes": [
-    "Yangi bo'lim: Shorts qirqish (AI qiziq joylar, 10 subtitr uslubi, dizayn); Yangi yozuvlari olib tashlandi"
+    "Shorts: kalitsiz tez tahlil, subtitr faqat bo'laklar uchun, 3 ustunli yig'ma sozlamalar"
   ],
-  "file": "videora-8.2.1.bin",
-  "sig": "hQ32t5RJxzNXSeqmmVCMfLCCtUgoDoZrQArj/nY6WQL53D98Wc9+LVEsiW30pXKOZUUZD3prELhMwiYu/nupOg==",
-  "size": 11554493,
-  "sha256": "c055666e1a25cd8547e4031ed1eac971da46a6f3ad4fb1d6c038720b91f939ea",
+  "file": "videora-8.2.2.bin",
+  "sig": "wFtZ4B5jldcLMAZzPPcUfoaHqV2UPhHbzakFXTH8UpbEtATwj44rZ9Z1tpTOdaA2JdqkoFziXzxx3RS25Fnwjw==",
+  "size": 11577144,
+  "sha256": "1e26a564283ef09475a29ae28cc3783ce7516761e5816d1656ac9ba29ae272b0",
   "full": false,
   "apk": "https://raw.githubusercontent.com/beforeus1104-a11y/videora-yangi/main/yuklab-olish/Videora-7.3.1.apk"
 }
