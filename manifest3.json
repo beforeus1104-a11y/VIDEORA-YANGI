@@ -1,13 +1,13 @@
 {
-  "version": "8.2.0",
-  "date": "2026-11-24",
+  "version": "8.2.1",
+  "date": "2026-11-25",
   "notes": [
-    "iPhone: o'rnatish yo'riqnomasi oynasi; eski iOS'da dastur ochilmay qolish xatosi tuzatildi"
+    "Yangi bo'lim: Shorts qirqish (AI qiziq joylar, 10 subtitr uslubi, dizayn); Yangi yozuvlari olib tashlandi"
   ],
-  "file": "videora-8.2.0.bin",
-  "sig": "3QPRg6vLC7HScg/gwKy5cnIoOGbX764yzcRPmI0btR8EOuJ+QRt6gjmKrduxXKTdI1fb6luxR85fJESLgGOj7A==",
-  "size": 11363377,
-  "sha256": "85e9399225dc77f1ea30146812892c5b8aae7c66e91dfbb9576cf11f10ac8888",
+  "file": "videora-8.2.1.bin",
+  "sig": "hQ32t5RJxzNXSeqmmVCMfLCCtUgoDoZrQArj/nY6WQL53D98Wc9+LVEsiW30pXKOZUUZD3prELhMwiYu/nupOg==",
+  "size": 11554493,
+  "sha256": "c055666e1a25cd8547e4031ed1eac971da46a6f3ad4fb1d6c038720b91f939ea",
   "full": false,
   "apk": "https://raw.githubusercontent.com/beforeus1104-a11y/videora-yangi/main/yuklab-olish/Videora-7.3.1.apk"
 }
