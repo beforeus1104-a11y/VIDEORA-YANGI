@@ -1,13 +1,1 @@
-{
-  "version": "8.2.2",
-  "date": "2026-11-25",
-  "notes": [
-    "Shorts: kalitsiz tez tahlil, subtitr faqat bo'laklar uchun, 3 ustunli yig'ma sozlamalar"
-  ],
-  "file": "videora-8.2.2.bin",
-  "sig": "wFtZ4B5jldcLMAZzPPcUfoaHqV2UPhHbzakFXTH8UpbEtATwj44rZ9Z1tpTOdaA2JdqkoFziXzxx3RS25Fnwjw==",
-  "size": 11577144,
-  "sha256": "1e26a564283ef09475a29ae28cc3783ce7516761e5816d1656ac9ba29ae272b0",
-  "full": false,
-  "apk": "https://raw.githubusercontent.com/beforeus1104-a11y/videora-yangi/main/yuklab-olish/Videora-7.3.1.apk"
-}
+{"version": "8.2.3", "date": "2026-11-25", "notes": ["8.2.3: Shorts — personajni kuzatish, Google band yozuvi to'xtadi, tezroq tayyorlash"], "file": "videora-8.2.3.bin", "sig": "OO1T02cxQOz0Tu1wHbFSh2IQZIIG1+BaakWWGeVjapogWm+VzmZTDQ0TOce0Qr0ZeCC8tqg4py0Nt3ixBKDfEw==", "size": 11594705, "sha256": "fd3a1eb97899b75bab09019dab272f522739c5ac6a0f427de4bcee588baaa2ba", "full": false, "apk": "https://raw.githubusercontent.com/beforeus1104-a11y/videora-yangi/main/yuklab-olish/Videora-7.3.1.apk"}
